@@ -1,0 +1,19 @@
+# Name of your blog (this will show up in the RSS feed)
+name: Open Twin Cities
+
+# Short description (will also be used in the RSS feed)
+description: A group for civic hackers, innovative government employees, and concerned citizens for the Twin Cities (Minneapolis and Saint Paul) metro area.  Focusing, but not limited to, on creating a better citizen and government collaborative experience in the Twin Cities through technology.  Associated with the Code for America Brigade.
+
+# Uncomment if you are planning to run the blog in a subdirectory
+# Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
+# Example, you must use http://localhost:4000/path/to/blog
+#baseurl: /path/to/blog 
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: http://opentwincities.org/
+
+# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
+auto: true
+
+# Makes pretty permalinks. See Jekyll docs for alternatives.
+permalink: pretty
