@@ -1,0 +1,7 @@
+/**
+ * Specifc CSS for the open twin cities website.
+ */
+.page-container {
+  margin: 0 auto;
+  max-width: 760px;
+}
