@@ -6,3 +6,9 @@ Main website for the Open Twin Cities group
 
 This site is designed to run on Github (through [Github pages](http://pages.github.com/))
 with [Jekyll](http://jekyllrb.com/).
+
+### Giants
+
+* HTML5Boilerplate
+* Modernizer
+* jQuery
