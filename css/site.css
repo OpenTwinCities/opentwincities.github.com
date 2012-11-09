@@ -1,7 +1,16 @@
 /**
  * Specifc CSS for the open twin cities website.
  */
-.page-container {
-  margin: 0 auto;
-  max-width: 760px;
+
+/**
+ * Combine foundation icons
+ */
+[class*="social foundicon-"]:before {
+  font-family: "SocialFoundicons";
+}
+[class*="accessibility foundicon-"]:before {
+  font-family: "AccessibilityFoundicons";
+}
+[class*="general foundicon-"]:before {
+  font-family: "GeneralFoundicons";
 }
