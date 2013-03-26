@@ -15,3 +15,11 @@
   font-family: "GeneralFoundicons";
 }
 
+
+/**
+ * Logo
+ */
+.logo {
+  margin-top: 1em;
+  max-width: 100%;
+}
