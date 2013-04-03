@@ -15,3 +15,19 @@
   font-family: "GeneralFoundicons";
 }
 
+
+/**
+ * Logo and title
+ */
+.title a {
+  color: #41372E;
+}
+
+.logo {
+  margin-top: 1em;
+  max-width: 100%;
+}
+
+.footer {
+  text-align: right;
+}
