@@ -28,6 +28,10 @@
   max-width: 100%;
 }
 
+.sponsorLogo{
+  padding-bottom: 20px;
+}
+
 .footer {
   text-align: right;
 }
