@@ -28,6 +28,10 @@
   max-width: 100%;
 }
 
+.centered{
+  text-align: center;
+}
+
 .sponsorLogo{
   padding-bottom: 20px;
   padding-top: 20px;
