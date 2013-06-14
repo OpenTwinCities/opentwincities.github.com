@@ -10,7 +10,7 @@ with [Jekyll](http://jekyllrb.com/).
 ## Run locally
 
 1. ```gem install jekyll```
-1. ```jekyll --server```
+1. ```jekyll server --watch```
 1. Go to ```http://localhost:4000``` in your web browser.
 
 This should watch for changes, so there is no need to restart server
