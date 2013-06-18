@@ -17,6 +17,21 @@ title: Home
   </div>
   
   <div class="row">
+    <div class="twelve columns">
+      <h3>What's new</h3>
+
+        <ul>
+          {% for post in site.posts %}
+            <li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      <hr />
+    </div>
+  </div>
+  
+
+  
+  <div class="row">
     <div class="six columns">
       <p>Join our mailing list to discuss civic topics.</p>
       <a class="large success button" href="https://groups.google.com/forum/#!forum/twin-cities-brigade"><i class="social foundicon-chat"></i>
