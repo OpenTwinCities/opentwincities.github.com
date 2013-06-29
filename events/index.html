@@ -1,0 +1,8 @@
+---
+layout: default
+title: Events
+---
+{% for event in site.categories.events reversed%} 
+    <h3>{{ event.date | date: "%A, %B %d - %I:%M %p" }} - <a href="{{ event.url }}">{{event.title}}</a></h3>
+    {{ event.exceprt }}
+{% endfor %}
