@@ -4,7 +4,11 @@ title: Events
 ---
 {% for event in site.categories.events reversed%} 
   {% if event.date > site.time %}
-    <h3>{{ event.date | date: "%A, %B %d - %I:%M %p" }} - <a href="{{ event.url }}">{{event.title}}</a></h3>
+    <div class="row">
+      <div class="twelve columns">
+        <h3>{{ event.date | date: "%A, %B %d - %I:%M %p" }} - <a href="{{ event.url }}">{{event.title}}</a></h3>
+      </div>
+    </div>
     {{ event.excerpt }}
   {% endif %}
 {% endfor %}

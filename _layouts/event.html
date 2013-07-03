@@ -14,8 +14,21 @@
     {% include std_header.html %}
 
     <!-- Add your site or application content here -->
-    {{ content }}
     
+    <div class="row">
+      <div class="twelve columns">
+        <h2>{{ page.title }}</h2>
+        <p><b>Date and Time:</b> {{ page.date | date: "%A, %B %d - %I:%M %p" }}</p>
+        {% if page.venue_name or page.venue_location %}
+        <p><b>Location:</b> {% if page.venue_name %}{{ page.venue_name }}{% endif %} {% if page.venue_location %} - {{ page.venue_location }} {% endif %} </p>
+        {% endif %}
+        {% if page.rsvp_url %}
+        <p><b>RSVP:</b> <a href="{{ page.rsvp_url }}">Click Here</a></p>
+        {% endif %}
+      </div>
+    </div>
+    {{ content }}
+   
     
     {% include std_footer.html %}
 
