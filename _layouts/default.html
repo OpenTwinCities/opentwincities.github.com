@@ -4,79 +4,21 @@
 <!--[if IE 8]>     <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{% if page.title %} {{ page.title }} | {% endif %} Open Twin Cities</title>
-    <meta name="description" content="A group for civic hackers, innovative government employees, and concerned citizens for the Twin Cities (Minneapolis and Saint Paul) metro area.  Focusing, but not limited to, on creating a better citizen and government collaborative experience in the Twin Cities through technology.  Associated with the Code for America Brigade.">
-    <meta name="viewport" content="width=device-width">
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
-    <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/foundation.min.css">
-    <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/accessibility_foundicons.css">
-    <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/general_foundicons.css">
-    <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/social_foundicons.css">
-    <!--[if lt IE 8]>
-      <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/accessibility_foundicons_ie7.css">
-      <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/general_foundicons_ie7.css">
-      <link rel="stylesheet" href="{{site.baseurl}}css/libs/foundation/stylesheets/social_foundicons_ie7.css">
-    <![endif]-->
-    <link rel="stylesheet" href="{{site.baseurl}}css/site.css">
-    
-    
-    <script src="{{site.baseurl}}js/libs/modernizr-2.6.2.min.js"></script>
-    <!-- IE Fix for HTML5 Tags -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    {% include std_head.html %}
   </head>
   <body>
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
     
-    <div class="row">
-      <div class="twelve columns">
-        <div class="two columns">
-          <a href="/"><img class="logo" src="/images/otc-o512.png"></a>
-        </div>
-        
-        <div class="ten columns">
-          <h2 class="title"><a href="/">Open Twin Cities</a></h2>
-          
-          <p>A group of civic hackers, technologists, public servants, and community leaders for the Twin Cities (Minneapolis, St. Paul, and metro area) focused on improving the technology of our cities.  We are a <a href="http://brigade.codeforamerica.org/" target="_blank">Code for America Brigade</a> partnered with <a href="http://forums.e-democracy.org/about" target="_blank">E-Democracy.org</a>.</p>
-          <p>See our <a href="/pages/mission/">Mission Statement and Goals</a> for more information.</p>
-        </div>
-
-        {% include nav_menu.html %}
-      </div>
-        
-      <hr />
-    </div>
+    {% include std_header.html %}
 
     <!-- Add your site or application content here -->
     {{ content }}
     
     
-    <div class="row">
-      <div class="twelve columns">
-        <hr />
-      
-        <p class="footer">Open Twin Cities</p>
-      </div>
-    </div>
+    {% include std_footer.html %}
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="{{site.baseurl}}/js/libs/jquery-1.8.2.min.js"><\/script>')</script>
-    <script src="{{site.baseurl}}js/libs/foundation.min.js"></script>
-    <script src="{{site.baseurl}}js/main.js"></script>
-
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script>
-      var _gaq=[['_setAccount','UA-36188627-1'],['_trackPageview'],['_setDomainName', 'opentwincities.org']];
-      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g,s)}(document,'script'));
-    </script>
+    {% include std_bottom_js.html %}
   </body>
 </html>
