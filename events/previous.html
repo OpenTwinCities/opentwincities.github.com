@@ -2,8 +2,8 @@
 layout: default
 title: Events
 ---
-{% for event in site.categories.events reversed%} 
-  {% if event.date > site.time %}
+{% for event in site.categories.events %} 
+  {% if event.date < site.time %}
     <div class="row">
       <div class="twelve columns">
         <h3>{{ event.date | date: "%A, %B %d - %I:%M %p" }} - <a href="{{ event.url }}">{{event.title}}</a></h3>
@@ -14,6 +14,6 @@ title: Events
 {% endfor %}
 <div class="row">
   <div class="twelve columns">
-    <p><a href="/events/previous/">View Previous Events</a></p>
+    <p><a href="/events/">View Upcoming Events</a></p>
   </div>
 </div>
