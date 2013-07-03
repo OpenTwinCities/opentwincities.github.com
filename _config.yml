@@ -17,3 +17,5 @@ auto: true
 
 # Makes pretty permalinks. See Jekyll docs for alternatives.
 permalink: pretty
+
+timezone: nil 
