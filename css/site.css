@@ -61,3 +61,32 @@
 .project-meta{
   margin-bottom: 0px;
 }
+
+/**
+ * Sponsors
+ */
+
+.goldSponsor img{
+  margin: 15px 0;
+}
+
+.silverSponsor {
+  text-align: center;
+}
+
+.silverSponsor p{
+  text-align: left;
+}
+
+.silverSponsor img{
+  margin: 15px;
+}
+
+.supporterSponsor{
+  text-align: center;
+}
+
+.supporterSponsor img{
+  max-width: 235px;
+  max-height: 100px;
+}
