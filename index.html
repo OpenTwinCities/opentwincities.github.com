@@ -4,70 +4,48 @@ title: Home
 ---
 
   <div class="row">
-    <div class="twelve columns">
-      <h3>4th Tuesdays at Free Geek</h3>
+    <!--Left Column-->
+    <div class="six columns">
+      <div class="row">
+        <h3>4th Tuesdays at Free Geek</h3>
 
-      <p>We'll be hacking away at <a href="http://goo.gl/maps/ydZy">Free
-      Geek Twin Cities</a> on the 4th Tuesday of every month. 
-      Show up anytime between 5:30pm and 8pm.  RSVP for meetings:
-        <a href="http://www.meetup.com/cfabrigade/Twin-Cities/928912/">June 25, 2013</a>
-      </p>
-      <hr />
-    </div>
-  </div>
+        <p>We'll be hacking away at <a href="http://goo.gl/maps/ydZy">Free Geek Twin Cities</a> on the 4th Tuesday of every month. RSVP so we know how much pizza to get.</p>
+        <p class="centerAlign"><a class="large success button" href="http://www.meetup.com/cfabrigade/Twin-Cities/"><i class="social foundicon-torso"></i> Join Meetup</a></p>
+        <hr />
+      </div>
   
-  <div class="row">
-    <div class="twelve columns">
-      <h3>What's new</h3>
+      <div class="row">
+        <h3>What's new</h3>
 
-        <ul>
-          {% for post in site.posts %}
-            <li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      <hr />
+          <ul>
+            {% for post in site.posts %}
+              <li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+      </div>
+    </div>
+    <!--/Left Column-->
+    <!--Right Column-->
+    <div id="socialColumn" class="six columns">
+      <div class="row">
+        <p>Join our mailing list to discuss civic topics.</p>
+        <p><a class="large success button" href="https://groups.google.com/forum/#!forum/twin-cities-brigade"><i class="social foundicon-chat"></i>Join Google Group</a></p>
+      </div>
+      <div class="row">
+        <p>Be social and follow us on Twitter.</p>
+        <p><a class="large success button" href="https://twitter.com/OpenTwinCities"><i class="social foundicon-twitter"></i>Follow us on Twitter</a></p>
+      </div>
+      <div class="row">
+        <p>Get the latest news on CityCamp Minnesota.</p>
+        <p><a class="large success button" href="http://citycampmn.govfresh.com/"><i class="social foundicon-torso"></i>Checkout CityCampMN</a></p>
+      </div>
+      <div class="row">
+        <p>Check out pictures from our past events.</p>
+        <p><a class="large success button" href="http://www.flickr.com/groups/opentwincities/"><i class="social foundicon-flickr"></i>Join us on Flickr</a></p>
+      </div>
     </div>
   </div>
-  
-
-  
-  <div class="row">
-    <div class="six columns">
-      <p>Join our mailing list to discuss civic topics.</p>
-      <a class="large success button" href="https://groups.google.com/forum/#!forum/twin-cities-brigade"><i class="social foundicon-chat"></i>
-      Join Google Group</a>
-    </div>
-    
-    <div class="six columns">
-      <p>Join our meetup group for scheduling face-to-face meetings.</p>
-      <a class="large success button" href="http://www.meetup.com/cfabrigade/Twin-Cities/"><i class="social foundicon-torso"></i> Join Meetup</a>
-    </div>
-  </div>
-  
-  <br>
-  
-  <div class="row">
-    <div class="six columns">
-      <p>Be social and follow us on Twitter.</p>
-      <a class="large success button" href="https://twitter.com/OpenTwinCities"><i class="social foundicon-twitter"></i>
-      Follow us on Twitter</a>
-    </div>
-    <div class="six columns">
-      <p>Get the latest news on CityCamp Minnesota.</p>
-      <a class="large success button" href="http://citycampmn.govfresh.com/"><i class="social foundicon-torso"></i>
-      Checkout CityCampMN</a>
-    </div>
-  </div>
-  
-  <br>
-
-  <div class="row">
-    <div class="six columns">
-      <p>Check out pictures from our past events.</p>
-      <a class="large success button" href="http://www.flickr.com/groups/opentwincities/"><i class="social foundicon-flickr"></i>
-      Join us on Flickr</a>
-    </div>
-  </div>
+  <!--/Right Column-->
   
   <div class="row">
     <div class="twelve columns">
@@ -105,26 +83,15 @@ title: Home
       <div class="logos">
         <div class="row">
           <div class="six columns sponsorLogo">
-            <a href="http://www.knightfoundation.org/" target="_blank"><img src="/images/sponsor_logos/knight_foundation.jpg"></a>
+            <a href="http://www.knightfoundation.org/" target="_blank"><img src="/images/sponsor_logos/knight_foundation_300.jpg"></a>
           </div>
           <div class="six columns sponsorLogo">
             <a href="http://www.devjam.com/" target="_blank"><img src="/images/sponsor_logos/devjam.png"></a>
           </div>
         </div>
         <div class="row">
-          <div class="six columns sponsorLogo">
-            <a href="http://www.govdelivery.com/" target="_blank"><img src="/images/sponsor_logos/govdelivery.png"></a>
-          </div>
-          <div class="six columns sponsorLogo">
-            <img src="/images/sponsor_logos/ben_damman.png">
-          </div>
-        </div>
-        <div class="row">
-          <div class="six columns sponsorLogo">
-            <a href="http://tech.mn/" target="_blank"><img src="/images/sponsor_logos/TechDotMnLogo.png"></a>
-          </div>
-          <div class="six columns sponsorLogo">
-            <a href="http://freegeektwincities.org/" target="_blank"><img src="/images/sponsor_logos/fgtc-logo.png"></a>
+          <div class="twelve columns rightAlign">
+            <p><a href="/sponsors/">See All Sponsors</a></p>
           </div>
         </div>
       </div>

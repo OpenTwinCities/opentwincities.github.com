@@ -15,6 +15,14 @@
   font-family: "GeneralFoundicons";
 }
 
+.centerAlign{
+  text-align: center;
+}
+
+.rightAlign{
+  text-align: right;
+}
+
 
 /**
  * Logo and title
@@ -40,6 +48,14 @@
 .footer {
   text-align: right;
 }
+
+#socialColumn{
+  padding-left: 100px;
+}
+
+/**
+ * Navigation Menu
+ */
 
 #nav {
   text-align: center;
