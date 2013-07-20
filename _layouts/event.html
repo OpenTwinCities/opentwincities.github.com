@@ -27,9 +27,22 @@
         {% endif %}
       </div>
     </div>
+
     {{ content }}
-   
-    
+
+    {% if page.related_tag and site.tags[page.related_tag] %}
+    <div class="row">
+      <div class="twelve columns">
+        <h3>Related Posts</h3>
+        <ul>
+          {% for post in site.tags[page.related_tag] %}
+            <li><a href="{{ post.url }}">{{post.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% endif %}
+
     {% include std_footer.html %}
 
     {% include std_bottom_js.html %}
