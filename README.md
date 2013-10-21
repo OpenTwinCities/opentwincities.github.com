@@ -13,6 +13,8 @@ with [Jekyll](http://jekyllrb.com/).
 1. ```jekyll server --watch```
 1. Go to ```http://localhost:4000``` in your web browser.
 
+GitHub runs the close-to-newest release of Jekyll, so be sure to `gem update jekyll` periodically.
+
 This should watch for changes, so there is no need to restart server
 while working on this.  Also, for reference see the [Jekyll install instructions](https://github.com/mojombo/jekyll/wiki/install).
 
