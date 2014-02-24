@@ -25,34 +25,35 @@ prose:
   media: "images"
   metadata:
     events/_posts:
-      -name: "layout"
-       field:
-         element: "hidden"
-         value: "event"
-      -name: "category"
-       field:
-         element: "hidden"
-         value: "Events"
-      -name: "title"
-       field:
-         element: "text"
-         label: "Name of the event"
-      -name: "date"
-         element: "text"
-         help: "Date and time the event will take place"
-         placeholder: "YYYY-MM-DD HH:MM:SS"
-      -name: "rsvp_url"
-       field:
-         element: "text"
-      -name: "venue_name"
-       field:
-         element: "text"
-      -name: "venue_location"
-       field:
-         element: "text"
-         label: "Address of the venue"
-      -name: "related_tag"
-       field:
-         element: "text"
-         help: "Posts with this tag will be listed at the bottom of the event page." 
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "event"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "Events"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Name of the event"
+      - name: "date"
+        field:
+          element: "text"
+          help: "Date and time the event will take place"
+          placeholder: "YYYY-MM-DD HH:MM:SS"
+      - name: "rsvp_url"
+        field:
+          element: "text"
+      - name: "venue_name"
+        field:
+          element: "text"
+      - name: "venue_location"
+        field:
+          element: "text"
+          label: "Address of the venue"
+      - name: "related_tag"
+        field:
+          element: "text"
+          help: "Posts with this tag will be listed at the bottom of the event page." 
         
