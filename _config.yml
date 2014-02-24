@@ -40,20 +40,26 @@ prose:
       - name: "date"
         field:
           element: "text"
+          label: "Event Date and Time"
           help: "Date and time the event will take place"
           placeholder: "YYYY-MM-DD HH:MM:SS"
       - name: "rsvp_url"
         field:
           element: "text"
+          label: "Registration URL"
+          help: "URL either to the page where people can signup (e.g. Meetup or Eventbrite page) or the primary site for the event."
       - name: "venue_name"
         field:
           element: "text"
+          label: "Venue Name"
       - name: "venue_location"
         field:
           element: "text"
-          label: "Address of the venue"
+          label: "Venue Address"
+          help: "Include Street Address, City, State Zip"
       - name: "related_tag"
         field:
           element: "text"
+          label: "Related Tag"
           help: "Posts with this tag will be listed at the bottom of the event page." 
         
