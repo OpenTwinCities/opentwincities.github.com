@@ -21,7 +21,7 @@ permalink: pretty
 timezone: nil 
 
 prose:
-  siteurl: http://opentwincities.org
+  siteurl: "http://opentwincities.org"
   media: "images"
   metadata:
     events/_posts:
