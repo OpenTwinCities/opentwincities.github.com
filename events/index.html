@@ -7,9 +7,9 @@ title: Events
     <div class="row">
       <div class="twelve columns">
         <h3>{{ event.date | date: "%A, %B %d - %I:%M %p" }} - <a href="{{ event.url }}">{{event.title}}</a></h3>
+        {{ event.excerpt }}
       </div>
     </div>
-    {{ event.excerpt }}
   {% endif %}
 {% endfor %}
 <div class="row">

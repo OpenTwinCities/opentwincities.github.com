@@ -28,7 +28,11 @@
       </div>
     </div>
 
-    {{ content }}
+    <div class="row">
+      <div class="twelve columns">
+        {{ content }}
+      </div>
+    </div>
 
     {% if page.related_tag and site.tags[page.related_tag] %}
     <div class="row">
