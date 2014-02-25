@@ -9,7 +9,6 @@ venue_location: 1010 W. Lake St., Suite 100, Minneapolis, MN 55408
 related_tag: capitolcode2014
 ---
 
-
 The Office of the Minnesota Secretary of State and its partners are proud to
 invite you to Capitol Code: An Open Data Jam, to help build the Minnesota of
 the 21st century using public data — and your ideas.
