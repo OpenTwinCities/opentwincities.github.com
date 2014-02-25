@@ -8,4 +8,6 @@ venue_name: Hubert H. Humphrey Center
 venue_location: Room 50, 301 19th Avenue South, Minneapolis, MN 
 ---
 
-      <p>We'll be having our monthly open work meetup again at Free Geek on November 26th at 6pm. Bring yourself, your skills, you passion, and your ideas. We'll bring pizza.</p>
+We'll be having our monthly open work meetup again at Free Geek on November
+26th at 6pm. Bring yourself, your skills, you passion, and your ideas. We'll
+bring pizza.

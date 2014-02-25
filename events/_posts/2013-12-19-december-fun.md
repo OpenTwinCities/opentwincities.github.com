@@ -8,6 +8,8 @@ venue_name: Chatterbox Pub St. Paul
 venue_location: 800 Cleveland Avenue South, Saint Paul, MN 
 ---
 
-      <p>Instead of our usually monthly open work time, let's have some fun and reflect on a great first year for Open Twin Cities.</p>
+Instead of our usually monthly open work time, let's have some fun and reflect
+on a great first year for Open Twin Cities.
 
-      <p>Join us at the Chatterbox Pub in St. Paul for food, drinks, and some old timey (pre-1995) video games.</p>
+Join us at the Chatterbox Pub in St. Paul for food, drinks, and some old timey
+(pre-1995) video games.
