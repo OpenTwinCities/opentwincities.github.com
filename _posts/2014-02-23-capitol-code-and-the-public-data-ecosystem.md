@@ -2,7 +2,7 @@
 layout: blog 
 title: Capitol Code and the Public Data Ecosystem
 author: <a href="https://twitter.com/roxLjohnson">Roxanne Johnson</a>
-tags: [opendata, capitolcode2014, dataportal]  
+tags: [opendata, capitolcode2014, dataportal, opendataday, codeacross]  
 ---
 
 Yesterday I attended [Capitol Code](http://capitolcode.mn.gov/): an Open Data
