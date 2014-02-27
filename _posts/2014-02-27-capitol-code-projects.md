@@ -85,6 +85,7 @@ Mapping tool aggregating food resources in Minnesota. People can find where thei
 ## Voter Registration
 
 - Contact: [Colin Lee](https://twitter.com/colinmlee)
+- [Slides](/files/CapitolCode/Presentations/Voter_Registration_Insights.pptx)
 - [Video](http://vimeo.com/87373491)
 
 Mashed up data from the voter registration by precinct dataset ([download](https://communities.socrata.com/dataset/Capitol-Code-MNSOS-Registered-Voters-By-Precinct-O/sb2j-g884) - [API](https://communities.socrata.com/developers/docs/capitol-code-mnsos-registered-voters-by-precinct-on-election-day)) with [Census data](http://factfinder2.census.gov/), and created a project plan to help community organizers and political activists identify underrepresented, unregistered voters in order to direct registration and political action activities.
