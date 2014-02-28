@@ -1,8 +1,14 @@
 ---
 layout: blog
 title: Capitol Code Projects
-author: <a href="https://twitter.com/wbushey">Bill Bushey</a> &amp; <a href="https://twitter.com/LA0811">Laura Andersen</a>
-tags: [opendata, capitolcode2014, dataportal, opendataday, codeacross]
+author: "<a href=\"https://twitter.com/wbushey\">Bill Bushey</a> &amp; <a href=\"https://twitter.com/LA0811\">Laura Andersen</a>"
+tags: 
+  - opendata
+  - capitolcode2014
+  - dataportal
+  - opendataday
+  - codeacross
+published: true
 ---
 
 *We would like to thank Tech.MN for recording and posting videos of the final 
@@ -48,6 +54,7 @@ spreadsheet data.
 - [Slides](/files/CapitolCode/Presentations/Immigration_Data.pdf)
 - [Video](http://vimeo.com/87376146)
 - [Github](https://github.com/gelicia/capitolCodeImmigrant)
+- [Demo](http://gelicia.com/capitolCode/)
 
 Cleaned and matched-up data to produce visualizations showing the most common
 countries of origin for immigrants moving to Minnesota between 1990 and 2010.
