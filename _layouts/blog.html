@@ -17,10 +17,11 @@
     
     <div class="row">
       <div class="twelve columns">
-        <h2>{{ page.title }}</h2>
+        <h1>{{ page.title }}</h1>
         {% if page.author %}
           <p><strong>By</strong>: {{ page.author }}</p>
         {% endif  %}
+        <hr/>
         {{ content }}
       </div>
     </div>
