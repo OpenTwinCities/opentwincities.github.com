@@ -37,8 +37,8 @@ Another big thank you goes out to photographers, especially
 [Tim Erickson](http://www.flickr.com/photos/27243356@N03/tags/ccmn13/) and 
 [Cirien Saadeh](https://www.facebook.com/media/set/?set=a.10151907422681696.1073741827.94327006695&type=3).
 
-<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?user_id=27243356@N03&tags=ccmn13" width="800" height="500" frameBorder="0" scrolling="no"></iframe>
-<center><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a>.</small></center>
+<div style="width:500px;height:500px;text-align:center;margin:auto;" ><object width="500" height="500" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F27243356%40N03%2Fshow&amp;user_id=27243356@N03&amp;tags=ccmn13" /> <param name="allowFullScreen" value="true" /> <param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /> <embed width="500" height="500" type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F27243356%40N03%2Fshow&amp;user_id=27243356@N03&amp;tags=ccmn13" allowFullScreen="true" /> </object>
+<br /><center><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a>.</small></center></div>
 
 ## Quick Takeaways
 
