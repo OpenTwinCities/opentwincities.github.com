@@ -24,7 +24,7 @@ their GIS data by approving open GIS resolutions!
   <param name="minRuntimeVersion" value="4.0.50401.0" />
   <param name="autoUpgrade" value="true" />
   <param name="enablehtmlaccess" value="true"/>
-  <a href="http://go.microsoft.com/fwlink/?LinkID=149156&amp;v=4.0.50401.0" style="text-decoration:none">
+  <a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50401.0" style="text-decoration:none">
     <img src="http://go.microsoft.com/fwlink/?LinkId=161376" alt="Get Microsoft Silverlight" style="border-style:none"/>
   </a>
 </object>
@@ -35,7 +35,7 @@ for its support of open data.
 
 ### Hennepin County Board Vote
 
-<iframe scrolling="no" style="border:0" width="500" height="381" id="GranicusFlashPlayerFrame" src="http://hennepinmn.granicus.com/MediaPlayer.php?clip_id=2106&amp;view_id=10&amp;embed=1&amp;player_width=500&amp;player_height=281&amp;entrytime=3164&amp;stoptime=3206&amp;auto_start=0"></iframe>
+<iframe scrolling="no" style="border:0" width="500" height="381" id="GranicusFlashPlayerFrame" src="http://hennepinmn.granicus.com/MediaPlayer.php?clip_id=2106&view_id=10&embed=1&player_width=500&player_height=281&entrytime=3164&stoptime=3206&auto_start=0"></iframe>
 
 The Hennepin County vote is a much quicker affair; the open GIS resolution was
 part of a larger, previously agreed upon consent item.

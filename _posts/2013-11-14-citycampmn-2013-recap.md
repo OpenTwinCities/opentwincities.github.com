@@ -37,7 +37,7 @@ Another big thank you goes out to photographers, especially
 [Tim Erickson](http://www.flickr.com/photos/27243356@N03/tags/ccmn13/) and 
 [Cirien Saadeh](https://www.facebook.com/media/set/?set=a.10151907422681696.1073741827.94327006695&type=3).
 
-<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?user_id=27243356@N03&amp;tags=ccmn13" width="800" height="500" frameBorder="0" scrolling="no"></iframe>
+<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?user_id=27243356@N03&tags=ccmn13" width="800" height="500" frameBorder="0" scrolling="no"></iframe>
 <center><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a>.</small></center>
 
 ## Quick Takeaways

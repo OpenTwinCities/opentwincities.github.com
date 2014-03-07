@@ -18,6 +18,9 @@ auto: true
 # Makes pretty permalinks. See Jekyll docs for alternatives.
 permalink: pretty
 
+# Use a better Markdown parser
+markdown: redcarpet
+
 timezone: nil 
 
 prose:
