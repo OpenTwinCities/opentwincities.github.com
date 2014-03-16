@@ -2,6 +2,46 @@
  * Specifc CSS for the open twin cities website.
  */
 
+html {
+  min-height:100%;
+  background:#FFF;
+}
+
+/**
+ *  Set Text and Font
+ */
+
+html,
+body,
+h1, h2, h3, h4, h5, h6,
+.top-bar-section ul li>a{
+  font-family:"Open Sans", Helvetica, Arial, sans-serif;
+  font-weight:400; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin:0 0 0.3em 0;
+	font-weight:800;
+}
+h1 {
+	font-size:3em;
+}
+h2 {
+	font-size:2.25em;
+}
+h3 {
+	font-size:1.5em;
+}
+h4 {
+	font-size:1.125em;
+}
+h5 {
+	font-size:1.125em;
+}
+h6 {
+	font-size:1.125em;
+}
+
 /**
  * Combine foundation icons
  */
@@ -40,11 +80,6 @@
   text-align: center;
 }
 
-.sponsorLogo{
-  padding-bottom: 20px;
-  padding-top: 20px;
-}
-
 .footer {
   text-align: right;
 }
@@ -57,18 +92,21 @@
  * Navigation Menu
  */
 
-#nav {
-  text-align: center;
+.top-bar .name h1 a,
+.top-bar-section ul li>a {
+  font-size: 0.9rem;
 }
 
-#nav ul {
-  list-style-type: none;
+.top-bar .name h1 a img{
+  max-width: 1.5rem;
 }
 
-#nav ul li {
-  display: inline;
-  padding: 0px 15px;
+.top-bar .name h1 a:hover,
+.top-bar-section li:not(.has-form) a:not(.button):hover{
+  background: #FFF;
+  color: #40372F;
 }
+
 
 /**
  * Projects
@@ -81,6 +119,11 @@
 /**
  * Sponsors
  */
+
+.sponsorLogo{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
 
 .goldSponsor img{
   margin: 15px 0;

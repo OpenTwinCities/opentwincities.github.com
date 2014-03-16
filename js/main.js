@@ -4,5 +4,5 @@
 
 
 (function(w, $, undefined) {
-  
+  $(document).foundation();
 })(window, jQuery);
