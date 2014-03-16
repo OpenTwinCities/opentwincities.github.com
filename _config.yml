@@ -27,6 +27,25 @@ prose:
   siteurl: "http://opentwincities.org"
   media: "images"
   metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Name of the event"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          help: "HTML can be used to link to the author's online presence"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
     events/_posts:
       - name: "layout"
         field:
@@ -65,4 +84,3 @@ prose:
           element: "text"
           label: "Related Tag"
           help: "Posts with this tag will be listed at the bottom of the event page." 
-        
