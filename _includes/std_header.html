@@ -1,4 +1,4 @@
-    <div id="topnav">
+    <div id="topnav" class="contain-to-grid">
       {% include nav_menu.html %}
     </div>
     <div id="hero">
@@ -25,13 +25,7 @@
               </div>
               <div class="join">
                 <p>Join us on:</p>
-                <ul>
-                  <li class="joinuslink"><a href="#nogo">Google Groups</a></li>
-                  <li class="joinuslink"><a href="#nogo">GitHub</a></li>
-                  <li class="joinuslink"><a href="#nogo">Twitter</a></li>
-                  <li class="joinuslink"><a href="#nogo">Flickr</a></li>
-                  <li class="joinuslink"><a href="#nogo">CityCamp MN</a></li>
-                </ul>
+                  {% include online_presence.html %}
               </div>
               <div class="clear"></div>
             </div>
