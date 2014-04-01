@@ -7,6 +7,14 @@ html {
   background:#FFF;
 }
 
+/*
+ * The Grid
+ */
+.row,
+.contain-to-grid .top-bar{
+  max-width: 79.4rem;
+}
+
 /**
  *  Set Text and Font
  */
@@ -65,20 +73,34 @@ h6 {
 
 
 /**
- * Logo and title
+ * Hero Section
  */
-.title a {
-  color: #41372E;
+
+#title {
+  padding: 2.5em;
+  color: #40372F;
 }
 
-.logo {
-  margin-top: 1em;
-  max-width: 100%;
+#title .logo {
+  margin: 0 0.625em 0 0;
+  float: left;
 }
 
-.centered{
-  text-align: center;
+#title .verbage {
+  float: left;
 }
+
+#title .verbage .name {
+  font-family: "Quicksand";
+  font-size: 3em;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1;
+}
+
+/**
+ * Footer
+ */
 
 .footer {
   text-align: right;
