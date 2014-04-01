@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5, h6,
   font-weight:400; 
 }
 
+body {
+  background: #46B1B8;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	margin:0 0 0.3em 0;
 	font-weight:800;
@@ -71,13 +75,22 @@ h6 {
   text-align: right;
 }
 
-
 /**
  * Hero Section
  */
 
+#hero {
+  background: orange;
+  background-image: url(/images/logos/otc/logo_bg_512.png);
+  background-repeat: no-repeat;
+  background-position: -180px -25px;
+  background-attachment: fixed;
+}
+
+
 #title {
-  padding: 2.5em;
+  padding-top: 2.5em;
+  padding-bottom: 1.5em;
   color: #40372F;
 }
 
@@ -98,6 +111,60 @@ h6 {
   line-height: 1;
 }
 
+#info {
+  background: #FFF;
+  border-radius: 10px;
+  margin-bottom: 1.5em;
+  padding: 1em;
+}
+
+#info h4 {
+  font-weight: 400;
+  /*font-size: 1.1em*/
+}
+
+ul.joinuslinks {
+  margin-bottom:0;
+}
+
+ul.joinuslinks > li {
+  line-height:1em;
+  margin-bottom:.5em;
+}
+
+ul.joinuslinks > li > a {
+  color: #333;
+  font-size: .9em;
+}
+
+ul.joinuslinks > li:hover > a {
+  text-decoration: underline;
+}
+
+
+#meetup {
+  border-radius: 25px;
+  margin-top:2.5em;
+  padding: 1.25em;
+  padding-bottom: 0;
+  background: rgba(255,255,255,0.8);
+}
+
+#meetup h1, #meetup h2, #meetup h3 {
+  font-family: 'Quicksand';
+  margin-bottom: .25em;
+}
+
+#meetup h1 {
+  line-height: 1em;
+  margin-bottom:0;
+}
+
+#meetup .button {
+  background: #46B1B8;
+  width: 100%;
+  margin-top:.5em;
+}
 /**
  * Footer
  */
