@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6,
 
 body {
   background: #46B1B8;
+  height: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -39,7 +40,7 @@ h1 {
 	font-size:3em;
 }
 h2 {
-	font-size:2.25em;
+	font-size:2em;
 }
 h3 {
 	font-size:1.5em;
@@ -73,6 +74,7 @@ h6 {
 
 .rightAlign{
   text-align: right;
+  float:right;
 }
 
 /**
@@ -169,7 +171,13 @@ ul.joinuslinks > li:hover > a {
  * Footer
  */
 
-.footer {
+div.footer {
+  background: #40372F;
+  color: white;
+}
+
+p.footer {
+  margin-top: 1em;
   text-align: right;
 }
 
@@ -196,10 +204,25 @@ ul.joinuslinks > li:hover > a {
   color: #40372F;
 }
 
+/**
+ * Posts list
+ */
+
+h3.post-title, h6.post-date {
+  font-family: 'Quicksand';
+  margin-bottom:5px;
+}
+
+
 
 /**
  * Projects
  */
+
+.project-panels .panel {
+  margin-top: 24px;
+}
+
 
 .project-meta{
   margin-bottom: 0px;
@@ -208,6 +231,10 @@ ul.joinuslinks > li:hover > a {
 /**
  * Sponsors
  */
+
+.partners-list li, .sponsors-list li {
+  margin-top: 2em;
+}
 
 .sponsorLogo{
   padding-bottom: 20px;
