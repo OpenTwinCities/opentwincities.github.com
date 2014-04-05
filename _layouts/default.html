@@ -14,8 +14,11 @@
     {% include std_header.html %}
 
     <div class="row" data-equalizer style="background:#FFF">
-      <!-- Add your site or application content here -->
-      {{ content }}
+      <div class="medium-8 columns" data-equalizer-watch style="padding:25px">
+        <!-- Add your site or application content here -->
+        {{ content }}
+      </div>
+      {% include right_sidebar.html %}
     </div>
     
     
