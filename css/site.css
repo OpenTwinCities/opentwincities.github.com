@@ -56,6 +56,41 @@ h6 {
 }
 
 /**
+ * Buttons
+ */
+
+.button{
+  color: #FFF;
+  border: 0.2em solid #FFF;
+  font-family: "Quicksand";
+  font-weight: 700 !important;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+
+.red.button{
+  background: linear-gradient(to bottom, #e7401a 0%,#a53917 100%);
+  transition: none;
+}
+
+.red.button:hover{
+  background: #e7401a;
+}
+
+.green.button{
+  background: linear-gradient(to bottom, #88bd09 0%,#62a908 100%);
+  transition: none;
+}
+
+.green.button:hover{
+  background: #88bd09;
+}
+
+.button.round{
+  border-radius: 2em;
+}
+
+/**
  * Combine foundation icons
  */
 [class*="social foundicon-"]:before {
@@ -164,7 +199,6 @@ ul.joinuslinks > li:hover > a {
 }
 
 #meetup .button {
-  background: #46B1B8;
   width: 100%;
   margin-top:.5em;
 }
