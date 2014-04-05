@@ -13,10 +13,8 @@
     
     {% include std_header.html %}
 
-    <!-- Add your site or application content here -->
-    
-    <div class="row">
-      <div class="twelve columns">
+    <div id="content-container" class="row">
+      <div id="content" class="content medium-8 columns">
         <h2>{{ page.title }}</h2>
         <p><b>Date and Time:</b> {{ page.date | date: "%A, %B %d - %I:%M %p" }}</p>
         {% if page.venue_name or page.venue_location %}
@@ -25,27 +23,22 @@
         {% if page.rsvp_url %}
         <p><b>RSVP:</b> <a href="{{ page.rsvp_url }}">Click Here</a></p>
         {% endif %}
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="twelve columns">
+        <hr/>
         {{ content }}
-      </div>
-    </div>
 
-    {% if page.related_tag and site.tags[page.related_tag] %}
-    <div class="row">
-      <div class="twelve columns">
-        <h3>Related Posts</h3>
-        <ul>
-          {% for post in site.tags[page.related_tag] %}
+        {% if page.related_tag and site.tags[page.related_tag] %}
+        <div>
+          <h3>Related Posts</h3>
+          <ul>
+            {% for post in site.tags[page.related_tag] %}
             <li><a href="{{ post.url }}">{{post.title}}</a></li>
-          {% endfor %}
-        </ul>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
       </div>
+      {% include right_sidebar.html %}
     </div>
-    {% endif %}
 
     {% include std_footer.html %}
 
