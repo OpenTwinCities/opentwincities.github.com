@@ -2,99 +2,114 @@
 layout: default
 title: Home
 ---
+<div class="row" data-equalizer style="background:#FFF">
+  
+    <div class="medium-8 columns" data-equalizer-watch style="padding:25px">
+      <div class="panel">
 
-  <div class="row">
-    <!--Left Column-->
-    <div class="six columns">
-      <div class="row">
-        <h3>4th Tuesdays at The Humphrey School</h3>
+        <h4>4th Tuesdays at The Humphrey School</h4>
+
+        <p class="rightAlign"><a class="success button" href="http://www.meetup.com/OpenTwinCities/"><i class="social foundicon-torso"></i> Join Meetup</a></p>
 
         <p>We'll be hacking away at <a href="http://goo.gl/maps/MPyWz">The Humphrey School</a> on the 4th Tuesday of every month. RSVP so we know how much pizza to get.</p>
-        <p class="centerAlign"><a class="large success button" href="http://www.meetup.com/OpenTwinCities/"><i class="social foundicon-torso"></i> Join Meetup</a></p>
-        <hr />
       </div>
-  
-      <div class="row">
-        <h3>What's new</h3>
 
-          <ul>
-            {% for post in site.posts limit:10%}
-              <li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-          <p><a href="/posts/">View All Posts</a></p>
-      </div>
-    </div>
-    <!--/Left Column-->
-    <!--Right Column-->
-    <div id="socialColumn" class="six columns">
-      <div class="row">
-        <p>Join our mailing list to discuss civic topics.</p>
-        <p><a class="large success button" href="https://groups.google.com/forum/#!forum/twin-cities-brigade"><i class="social foundicon-chat"></i>Join Google Group</a></p>
-      </div>
-      <div class="row">
-        <p>Be social and follow us on Twitter.</p>
-        <p><a class="large success button" href="https://twitter.com/OpenTwinCities"><i class="social foundicon-twitter"></i>Follow us on Twitter</a></p>
-      </div>
-      <div class="row">
-        <p>Get the latest news on CityCamp Minnesota.</p>
-        <p><a class="large success button" href="http://citycampmn.govfresh.com/"><i class="social foundicon-torso"></i>Checkout CityCampMN</a></p>
-      </div>
-      <div class="row">
-        <p>Check out pictures from our past events.</p>
-        <p><a class="large success button" href="http://www.flickr.com/groups/opentwincities/"><i class="social foundicon-flickr"></i>Join us on Flickr</a></p>
-      </div>
-    </div>
-  </div>
-  <!--/Right Column-->
-  
-  <div class="row">
-    <div class="twelve columns">
-      <hr />
-      <h3><a href="/projects/">Projects</a></h3>
+      <h2>What's News</h2>
+      <ul class="no-bullet">
+        {% for post in site.posts limit:5 %}
+          <h3 class="post-title">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h3>
+          <h6 class="post-date">
+            {{ post.date | date_to_string }}
+          </h6>
+          <p>
+          {{ post.excerpt }}
+          </p>
+          <hr/>
+        {% endfor %}
+      </ul>
+      <p style="text-align:center"><a href="/posts/">View All Posts</a></p>
+      <hr/>
+
+      <h2>Projects</h2>
       
-      <div class="six columns">
-        <a class="large round button" href="/projects/#adopt-a-hydrant"><i class="general foundicon-heart"></i> Adopt-a-Hydrant Twin Cities</a>
+      <div class="row project-panels">
+
+        <div class="medium-6 columns">
+          <div class="panel">
+            <h3 class="post-title">
+              <a href="/projects/#adopt-a-hydrant"><i class="general foundicon-heart"></i> Adopt-a-Hydrant Twin Cities</a>
+            </h3>
+            <p>Adopt-a-Hydrant allows you to claim a fire hydrant to keep clear of snow so that fire fighters will be able to fight fires more effectively in emergencies.</p>
+          </div>
+        </div>
+
+        <div class="medium-6 columns">
+          <div class="panel">
+            <h3 class="post-title">
+              <a href="/projects/#mn-data-collection"><i class="general foundicon-heart"></i> Minnesota Dataset List</a>
+            </h3>
+            <p>An advanced Google spreadsheet collecting and cataloging 1000's of datasets available for Minnesota. Including a single place to search for links to datasets included on MetroGIS, MNGeo, MN DNR, and more.</p>
+          </div>
+        </div>
+
+
       </div>
       
-      <div class="six columns">
-        <a class="large round button" href="/projects/#mn-data-collection"><i class="general foundicon-heart"></i> Minnesota Dataset List</a>
-      </div>
-    </div>
-  </div>
+      <hr/>
+      <p style="text-align:center"><a href="/projects/">All Projects</a></p>
+      <hr/>
 
-  <div class="row">
-    <div class="twelve columns">
-      <hr />
+
+
+    </div>
+    
+    <div class="medium-4 columns" data-equalizer-watch style="background:#eee;padding:25px">
+
       <h3>Partners</h3>
-      <div class="logos">
-        <div class="six columns">
+      <ul class="no-bullet partners-list">
+        <li>
           <a href="http://forums.e-democracy.org/about/" target="_blank"><img src="/images/logos/partners/edem_logo.png"></a>
-        </div>
-        <div class="six columns">
+        </li>
+        <li>
           <a href="http://brigade.codeforamerica.org/pages/about" target="_blank"><img src="/images/logos/partners/CfA_Brigade_logo.png"></a>
-        </div>
-      </div>
-    </div>
-  </div>
-   <div class="row">
-    <div class="twelve columns">
-      <hr />
+        </li>
+      </ul>
+
+      <div class="space" style="height:20px"></div>
+
       <h3>Sponsors</h3>
-      <div class="logos">
-        <div class="row">
-          <div class="six columns sponsorLogo">
-            <a href="http://www.knightfoundation.org/" target="_blank"><img src="/images/logos/sponsors/knight_foundation_300.jpg"></a>
-          </div>
-          <div class="six columns sponsorLogo">
-            <a href="http://www.devjam.com/" target="_blank"><img src="/images/logos/sponsors/devjam.png"></a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="twelve columns rightAlign">
-            <p><a href="/sponsors/">See All Sponsors</a></p>
-          </div>
-        </div>
-      </div>
+      <ul class="no-bullet sponsors-list">
+        <li>
+          <a href="http://www.knightfoundation.org/" target="_blank"><img src="/images/logos/sponsors/knight_foundation_300.jpg"></a>
+        </li>
+        <li>
+          <a href="http://www.devjam.com/" target="_blank"><img src="/images/logos/sponsors/devjam.png"></a>
+        </li>
+        <li>
+          <a href="/sponsors/">See All Sponsors</a>
+        </li>
+      </ul>
+
+      <div class="space" style="height:20px"></div>
+
+      <h3>Connect</h3>
+
+      <p>Join our mailing list to discuss civic topics.</p>
+      <p><a class="success button" href="https://groups.google.com/forum/#!forum/twin-cities-brigade"><i class="social foundicon-chat"></i>Join Google Group</a></p>
+
+      <p>Be social and follow us on Twitter.</p>
+      <p><a class="success button" href="https://twitter.com/OpenTwinCities"><i class="social foundicon-twitter"></i>Follow us on Twitter</a></p>
+
+      <p>Get the latest news on CityCamp Minnesota.</p>
+      <p><a class="success button" href="http://citycampmn.govfresh.com/"><i class="social foundicon-torso"></i>Checkout CityCampMN</a></p>
+
+      <p>Check out pictures from our past events.</p>
+      <p><a class="success button" href="http://www.flickr.com/groups/opentwincities/"><i class="social foundicon-flickr"></i>Join us on Flickr</a></p>
+
+
+
     </div>
-  </div>   
+
+</div>
