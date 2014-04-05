@@ -169,6 +169,32 @@ ul.joinuslinks > li:hover > a {
 }
 
 /**
+ * Content Containing Row
+ */
+
+#content-container{
+  background: transparent;
+}
+
+/**
+ * Primary Content
+ */ 
+
+div.content{
+  background: #FFF;
+  padding: 1.5625rem;
+}
+
+/**
+ * Sidebar
+ */
+
+div.sidebar{
+  background: #EEE;
+  padding: 1.5625rem;
+}
+
+/**
  * Footer
  */
 div.footer {
