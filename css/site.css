@@ -87,6 +87,7 @@ h6 {
   background-repeat: no-repeat;
   background-position: -180px -25px;
   background-attachment: fixed;
+  border-bottom: 0.6rem solid #40372F;
 }
 
 
@@ -174,6 +175,7 @@ ul.joinuslinks > li:hover > a {
 
 #content-container{
   background: transparent;
+  border-left: 0.6rem solid #40372F;
 }
 
 /**
