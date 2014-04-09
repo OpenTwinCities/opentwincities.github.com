@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true 
 title: Capitol Code in 3 Minutes
 tags: 
   - capitolcode2014
