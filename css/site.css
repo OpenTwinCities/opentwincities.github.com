@@ -326,3 +326,9 @@ h3.post-title, h6.post-date {
   max-width: 235px;
   max-height: 100px;
 }
+
+@media only screen and (min-width: 40.063em){
+  .top-bar{
+    height: auto;
+  }
+}
