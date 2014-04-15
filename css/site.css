@@ -188,20 +188,35 @@ ul.joinuslinks > li:hover > a {
   background: rgba(255,255,255,0.8);
 }
 
-#meetup h1, #meetup h2, #meetup h3 {
+#meetup p {
   font-family: 'Quicksand';
-  margin-bottom: .25em;
+  font-weight: bold;
 }
 
-#meetup h1 {
+#meetup_time{
+  font-size: 1.2em;
+  margin-bottom: 0;
+}
+
+#meetup_day {
+  font-size: 2.5em;
   line-height: 1em;
   margin-bottom:0;
+}
+
+#meetup_place{
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+
+#meetup_place a{
+  color: #805233;
 }
 
 #meetup .button {
   width: 100%;
   margin-top:.5em;
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 /**
@@ -327,8 +342,24 @@ h3.post-title, h6.post-date {
   max-height: 100px;
 }
 
+/* Large */
+@media only screen and (min-width: 64em){
+  #meetup{
+    font-size: 1.2em;
+  }
+}
+
+/* Medium and Large */
 @media only screen and (min-width: 40.063em){
   .top-bar{
     height: auto;
+  }
+}
+
+/* Small and Medium */
+
+@media only screen and (max-width: 64em){
+  #meetup{
+    font-size: 1em;
   }
 }
