@@ -2,18 +2,19 @@
 layout: default
 title: Events
 ---
+<ul class="no-bullet post-list">
 {% for event in site.categories.events %} 
   {% if event.date < site.time %}
-    <div class="row">
-      <div class="twelve columns">
-        <h3>{{ event.date | date: "%A, %B %d - %I:%M %p" }} - <a href="{{ event.url }}">{{event.title}}</a></h3>
-        {{ event.excerpt }}
-      </div>
-    </div>
+    <li>
+        <h2 class="post-title"><a href="{{ event.url }}">{{event.title}}</a></h2>
+        <p class="post-byline">{{ event.date | date: "%A, %B %d - %I:%M %p" }}</p>
+        <p class="post-excerpt">
+          {{ event.excerpt }}
+        </p>
+    </li>
   {% endif %}
 {% endfor %}
-<div class="row">
-  <div class="twelve columns">
-    <p><a href="/events/">View Upcoming Events</a></p>
-  </div>
+</ul>
+<div>
+  <p><a href="/events/">View Upcoming Events</a></p>
 </div>
