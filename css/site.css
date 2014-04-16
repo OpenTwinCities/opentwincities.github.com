@@ -118,11 +118,15 @@ h6 {
 
 #hero {
   background: orange;
+  background: url(/images/design/hero_blocks.png) top left;
+  border-bottom: 0.6rem solid #40372F;
+}
+
+#hero .row{
   background-image: url(/images/logos/otc/logo_bg_512.png);
   background-repeat: no-repeat;
-  background-position: -180px -25px;
+  background-position: -180px -50px;
   background-attachment: fixed;
-  border-bottom: 0.6rem solid #40372F;
 }
 
 
@@ -305,6 +309,10 @@ p.footer {
 /**
  * Navigation Menu
  */
+
+.top-bar{
+  box-shadow: 0 2px 16px rgba(0,0,0,0.4);
+}
 
 .top-bar .name h1 a,
 .top-bar-section ul li>a {
@@ -503,6 +511,10 @@ h3.post-title, h6.post-date {
 
   #title .verbage{
     float: none;
+  }
+
+  #info .meetup a{
+    max-width: none;
   }
 }
 
