@@ -128,6 +128,10 @@ h6 {
 
 #title {
   padding: 2.5em 1.5em;
+}
+
+#title h1,
+#title p{
   color: #40372F;
 }
 
@@ -396,10 +400,12 @@ h3.post-title, h6.post-date {
     margin: 0 0 1em;
     padding: 0;
     border: none;
+    text-align: center;
   }
 
   #info .partner{
     display: inline-block;
+    text-align: left;;
     vertical-align: top;
     margin: 0 2em 1em 0;
   }
@@ -461,9 +467,41 @@ h3.post-title, h6.post-date {
     padding: 1.5em 0.5em;
   }
   #info{
-    margin: 0 0 2.5em 8em;
+    padding: 1.25em;
+    margin: 0 2em 2em 5em;
   }
   .meetup{
     font-size: 1em;
+  }
+}
+
+/* Small */
+
+@media only screen and (max-width: 40.063em){
+  #title{
+    font-size: 0.8em;
+  }
+  #info{
+    margin: 0 2em 2em;
+  }
+}
+
+@media only screen and (max-width: 31.25em){
+  #title{
+    text-align: center;
+  }
+
+  #title .logo{
+    display: none;
+  }
+
+  #title .verbage{
+    float: none;
+  }
+}
+
+@media only screen and (max-width: 25em){
+  #title{
+    font-size: 0.6em;
   }
 }
