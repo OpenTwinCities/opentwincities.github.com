@@ -127,8 +127,7 @@ h6 {
 
 
 #title {
-  padding-top: 2.5em;
-  padding-bottom: 1.5em;
+  padding: 2.5em;
   color: #40372F;
 }
 
@@ -145,8 +144,12 @@ h6 {
   font-family: "Quicksand";
   font-size: 3em;
   font-weight: 400;
-  margin: 0;
   line-height: 1;
+  margin: 0;
+}
+
+#title .verbage p{
+  margin: 0;
 }
 
 #info {
@@ -388,6 +391,12 @@ h3.post-title, h6.post-date {
 /* Small and Medium */
 
 @media only screen and (max-width: 64em){
+  #title{
+    padding: 1.5em;
+  }
+  #info{
+    margin: 0 0 2.5em 8em;
+  }
   #meetup{
     font-size: 1em;
   }
