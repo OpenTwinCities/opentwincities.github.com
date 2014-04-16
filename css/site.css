@@ -255,7 +255,7 @@ h6 {
 .meetup .button {
   width: 100%;
   margin-top:.5em;
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 /**
@@ -437,10 +437,12 @@ h3.post-title, h6.post-date {
     margin: 0;
     border-radius: 0;
     background: none;
+    text-align: center;
   }
 
   #info .meetup a{
     margin-bottom: 0.5em;
+    max-width: 50%;
   }
 
   #hero .primary-column{
@@ -478,6 +480,10 @@ h3.post-title, h6.post-date {
 /* Small */
 
 @media only screen and (max-width: 40.063em){
+  .top-bar .name h1 a{
+    width: auto;
+  }
+
   #title{
     font-size: 0.8em;
   }
@@ -503,5 +509,9 @@ h3.post-title, h6.post-date {
 @media only screen and (max-width: 25em){
   #title{
     font-size: 0.6em;
+  }
+
+  #title .name{
+    display: none;
   }
 }
