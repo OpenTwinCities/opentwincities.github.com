@@ -21,7 +21,7 @@ html {
 
 html,
 body,
-h1, h2, h3, h4, h5, h6,
+.top-bar .name h1,
 .top-bar-section ul li>a{
   font-family:"Open Sans", Helvetica, Arial, sans-serif;
   font-weight:400; 
@@ -33,26 +33,40 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	margin:0 0 0.3em 0;
-	font-weight:800;
+  margin:0 0 0.3em 0;
+  font-weight: 700;
+  color: #40372F;
+  font-family: "Quicksand";
 }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+h1 a:hover, h2 a:hover, h3 a:hover,
+h4 a:hover, h5 a:hover, h6 a:hover{
+  color: #40372F;
+}
+
 h1 {
-	font-size:3em;
+  font-size:3em;
 }
+
 h2 {
-	font-size:2em;
+  font-size:2em;
 }
+
 h3 {
-	font-size:1.5em;
+  font-size:1.5em;
 }
+
 h4 {
-	font-size:1.125em;
+  font-size:1.125em;
 }
+
 h5 {
-	font-size:1.125em;
+  font-size:1.125em;
 }
+
 h6 {
-	font-size:1.125em;
+  font-size:1.125em;
 }
 
 /**
@@ -330,15 +344,27 @@ p.footer {
 }
 
 /**
- * Posts list
+ * Posts
  */
 
-h3.post-title, h6.post-date {
-  font-family: 'Quicksand';
-  margin-bottom:5px;
+.post-title{
+  margin: 0;
 }
 
+.post-byline{
+  margin: 0 0 1em 0;
+  color: #805233;
+  font-size: 0.9em;
+}
 
+/**
+ * Posts List
+ */
+
+.post-list li{
+  border-bottom: 1px solid #A2D8DB;
+  margin: 1em;
+}
 
 /**
  * Projects
@@ -497,6 +523,10 @@ h3.post-title, h6.post-date {
   }
   #info{
     margin: 0 2em 2em;
+  }
+
+  .post-list li{
+    margin: 0.5em;
   }
 }
 
