@@ -13,8 +13,8 @@
     
     {% include std_header.html %}
 
-    <div id="content-container" class="row" data-equalizer>
-      <div id="content" class="content medium-8 columns" data-equalizer-watch>
+    <div id="content-container" class="row">
+      <div id="content" class="content medium-8 columns">
         <h2>{{ page.title }}</h2>
         <p><b>Date and Time:</b> {{ page.date | date: "%A, %B %d - %I:%M %p" }}</p>
         {% if page.venue_name or page.venue_location %}
