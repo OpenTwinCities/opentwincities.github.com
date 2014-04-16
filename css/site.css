@@ -308,10 +308,14 @@ div.content{
  */
 
 div.sidebar{
+  padding: 0;
+  margin: 0;
+}
+
+div.sidebar .container{
   background: #EEE;
   padding: 1.5625rem;
 }
-
 .support-options{
   text-align: center;
 }
