@@ -151,14 +151,39 @@ h6 {
 
 #info {
   background: #FFF;
-  border-radius: 10px;
-  margin-bottom: 1.5em;
-  padding: 1em;
+  border-radius: 1em;
+  margin: 0 0 2.5em 9.5em;
+  padding: 1.4em;
+  color: #805233;
+  font-size: 0.8em;
+  max-width: 28em;
+  box-sizing: content-box;
 }
 
-#info h4 {
-  font-weight: 400;
-  /*font-size: 1.1em*/
+#info p{
+  line-height: 1;
+  padding: .4em 0 0;
+  margin-bottom: 0;
+}
+
+#info p,
+#info ul{
+  font-size: 1em;
+}
+
+#info img{
+  width: 160px;
+}
+
+#info .partners{
+  float: left;
+  margin: 0 2em 0 0;
+}
+
+#info .join{
+  padding: 0 0 0 2em;
+  border-left: 1px solid #DDD;
+  float: right;
 }
 
 ul.joinuslinks {
@@ -167,16 +192,17 @@ ul.joinuslinks {
 
 ul.joinuslinks > li {
   line-height:1em;
-  margin-bottom:.5em;
+  margin: 0.2em 0;
+  font-size: 1.4em;
 }
 
 ul.joinuslinks > li > a {
   color: #333;
-  font-size: .9em;
 }
 
 ul.joinuslinks > li:hover > a {
-  text-decoration: underline;
+  background: #F1410B;
+  color: #FFF;
 }
 
 
