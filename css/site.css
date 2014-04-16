@@ -189,21 +189,21 @@ h6 {
   float: right;
 }
 
-ul.joinuslinks {
+.join ul{
   margin-bottom:0;
 }
 
-ul.joinuslinks > li {
+.join ul > li {
   line-height:1em;
   margin: 0.2em 0;
   font-size: 1.4em;
 }
 
-ul.joinuslinks > li > a {
-  color: #333;
+.join ul > li > a {
+  color: #40372F;
 }
 
-ul.joinuslinks > li:hover > a {
+.join ul > li:hover > a {
   background: #F1410B;
   color: #FFF;
 }
@@ -386,8 +386,49 @@ h3.post-title, h6.post-date {
 
 /* Medium-Large */
 @media only screen and (max-width: 53.75em){
+  #info{
+    max-width: none;
+  }
+
+  #info .partners,
+  #info .join{
+    float: none;
+    margin: 0 0 1em;
+    padding: 0;
+    border: none;
+  }
+
+
+  #info .join ul{
+    list-style-type: none;
+    border-top: 1px solid #ecebea;
+    border-bottom: 1px solid #ecebea;
+    margin: 0.5em 0;
+    padding: 0.5em 0;
+  }
+
+  #info .join ul > li{
+    font-size: 1.2em;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    display: inline-block;
+    margin: 0.6em 0.4em;
+  }
+
+  #info .join ul > li > a{
+    padding: 0.4em;
+    text-decoration: underline;
+  }
+
   #info .meetup{
     display: block;
+    clear: both;
+    margin: 0;
+    border-radius: 0;
+    background: none;
+  }
+
+  #info .meetup a{
+    margin-bottom: 0.5em;
   }
 
   #hero .primary-column{
