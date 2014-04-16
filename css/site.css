@@ -130,19 +130,22 @@ h6 {
  * Hero Section
  */
 
-#hero {
+.hero {
   background: orange;
   background: url(/images/design/hero_blocks.png) top left;
   border-bottom: 0.6rem solid #40372F;
 }
 
-#hero .row{
+.hero .row{
   background-image: url(/images/logos/otc/logo_bg_512.png);
   background-repeat: no-repeat;
   background-position: -180px -50px;
   background-attachment: fixed;
 }
 
+.hero .primary-column{
+  min-height: 114px;
+}
 
 #title {
   padding: 2.5em 1.5em;
@@ -174,7 +177,12 @@ h6 {
   margin: 0;
 }
 
+#home_hero #info{
+  display: block;
+}
+
 #info {
+  display: none;
   background: #FFF;
   border-radius: 1em;
   margin: 0 0 2.5em 9.5em;
@@ -237,6 +245,7 @@ h6 {
 .meetup {
   border-radius: 25px;
   margin-top:2.5em;
+  margin-bottom: 2.5em;
   padding: 1.25em;
   padding-bottom: 0;
   background: rgba(255,255,255,0.5);
@@ -437,7 +446,13 @@ p.footer {
 /* Medium-Large */
 @media only screen and (max-width: 53.75em){
   #info{
+    display: block;
     max-width: none;
+    background: rgba(255,255,255,0.5);
+  }
+
+  #home_hero #info{
+    background: #FFF;
   }
 
   #info .partners,
@@ -491,7 +506,7 @@ p.footer {
     max-width: 50%;
   }
 
-  #hero .primary-column{
+  .hero .primary-column{
     width: 100%;
   }
 
