@@ -185,12 +185,13 @@ ul.joinuslinks > li:hover > a {
   margin-top:2.5em;
   padding: 1.25em;
   padding-bottom: 0;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.5);
 }
 
 #meetup p {
   font-family: 'Quicksand';
   font-weight: bold;
+  line-height: 1;
 }
 
 #meetup_time{
