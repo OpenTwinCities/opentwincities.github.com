@@ -208,6 +208,8 @@ ul.joinuslinks > li:hover > a {
 #meetup_place{
   font-size: 1.5em;
   margin-bottom: 0;
+  padding-left: 1em;
+  text-indent: -1em;
 }
 
 #meetup_place a{
