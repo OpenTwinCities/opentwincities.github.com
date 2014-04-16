@@ -303,6 +303,18 @@ div.sidebar{
   padding: 1.5625rem;
 }
 
+.support-options{
+  text-align: center;
+}
+
+.support-options .button{
+  max-width: 300px;
+}
+
+.support-options .button:last-child{
+  margin-bottom: 0;
+}
+
 /**
  * Footer
  */
