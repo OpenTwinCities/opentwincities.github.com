@@ -398,6 +398,12 @@ h3.post-title, h6.post-date {
     border: none;
   }
 
+  #info .partner{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 2em 1em 0;
+  }
+
 
   #info .join ul{
     list-style-type: none;
