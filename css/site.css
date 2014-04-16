@@ -208,8 +208,11 @@ ul.joinuslinks > li:hover > a {
   color: #FFF;
 }
 
+#info .meetup{
+  display:none;
+}
 
-#meetup {
+.meetup {
   border-radius: 25px;
   margin-top:2.5em;
   padding: 1.25em;
@@ -217,35 +220,35 @@ ul.joinuslinks > li:hover > a {
   background: rgba(255,255,255,0.5);
 }
 
-#meetup p {
+.meetup p {
   font-family: 'Quicksand';
   font-weight: bold;
   line-height: 1;
 }
 
-#meetup_time{
+.meetup .time{
   font-size: 1.2em;
   margin-bottom: 0;
 }
 
-#meetup_day {
+.meetup .day {
   font-size: 2.5em;
   line-height: 1em;
   margin-bottom:0;
 }
 
-#meetup_place{
+.meetup .place{
   font-size: 1.5em;
   margin-bottom: 0;
   padding-left: 1em;
   text-indent: -1em;
 }
 
-#meetup_place a{
+.meetup .place a{
   color: #805233;
 }
 
-#meetup .button {
+.meetup .button {
   width: 100%;
   margin-top:.5em;
   font-size: 1em;
@@ -381,6 +384,22 @@ h3.post-title, h6.post-date {
   }
 }
 
+/* Medium-Large */
+@media only screen and (max-width: 53.75em){
+  #info .meetup{
+    display: block;
+  }
+
+  #hero .primary-column{
+    width: 100%;
+  }
+
+  .meetup-column{
+    display: none;
+  }
+
+}
+
 /* Medium and Large */
 @media only screen and (min-width: 40.063em){
   .top-bar{
@@ -397,7 +416,7 @@ h3.post-title, h6.post-date {
   #info{
     margin: 0 0 2.5em 8em;
   }
-  #meetup{
+  .meetup{
     font-size: 1em;
   }
 }
