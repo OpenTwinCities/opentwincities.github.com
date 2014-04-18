@@ -2,6 +2,7 @@
 name: Open Twin Cities
 
 # Short description (will also be used in the RSS feed)
+# Doubles as OTC's Mission statement
 description: A group for civic hackers, innovative government employees, and concerned citizens for the Twin Cities (Minneapolis and Saint Paul) metro area.  Focusing, but not limited to, on creating a better citizen and government collaborative experience in the Twin Cities through technology.  Associated with the Code for America Brigade.
 
 # Uncomment if you are planning to run the blog in a subdirectory
@@ -11,6 +12,9 @@ description: A group for civic hackers, innovative government employees, and con
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://opentwincities.org/
+
+# Default image that social media platforms should display with a page from this site
+social_image: http://opentwincities.org/images/logos/otc/otc-o512.png
 
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
 auto: true
@@ -41,6 +45,11 @@ prose:
           element: "text"
           label: "Author"
           help: "HTML can be used to link to the author's online presence"
+      - name: "social_image"
+        field:
+          element: "text"
+          label: "Social Image"
+          help: "Absolute URL of an image that Facebook/Twitter/G+ should display with this post"
       - name: "tags"
         field:
           element: "multiselect"
@@ -79,6 +88,11 @@ prose:
           element: "text"
           label: "Venue Address"
           help: "Include Street Address, City, State Zip"
+      - name: "social_image"
+        field:
+          element: "text"
+          label: "Social Image"
+          help: "Absolute URL of an image that Facebook/Twitter/G+ should display with this event"
       - name: "related_tag"
         field:
           element: "text"
