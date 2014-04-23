@@ -96,3 +96,6 @@ uses the **home** layout.
 * HTML5Boilerplate
 * Modernizer
 * jQuery
+* [Foundation](http://foundation.zurb.com/) 
+* [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
+* [snaptortise's jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)
