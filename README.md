@@ -26,6 +26,10 @@ is handled with basic HTML or Markdown in flat files in the repository.
 If you just want to update content, consider using [prose.io](http://prose.io/), as
 it is a nice web based interface for editing text files on Github.
 
+If you want to include some type of icon in content, consider using an icon from
+the [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
+that are already made available to all pages on OpenTwinCities.org.
+
 ### Content Types
 
 There are three main types of content on Open Twin Cities.
@@ -90,6 +94,15 @@ such as post/event listing pages, also fall into this category.
 
 All other content uses the **default** layout, except for the homepage, which
 uses the **home** layout.
+
+## RSS Feeds
+
+OpenTwinCitis.org provides a couple of RSS feeds:
+
+* /feed.xml - RSS of the 10 most recent posts of any type on the site
+* /events/feed.xml - RSS of the 10 events with the latest date on the site
+
+Both of these RSS feeds are linked to in the Head of every page on the site.
 
 ## Giants
 
