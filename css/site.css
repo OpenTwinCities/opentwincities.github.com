@@ -417,25 +417,31 @@ p.footer {
   padding-top: 20px;
 }
 
-.goldSponsor img{
-  margin: 15px 0;
+.sponsor{
+  vertical-align: top;
 }
 
-.silverSponsor {
-}
-
-.silverSponsor p{
-}
-
-.silverSponsor img{
+.sponsor img{
   margin: 15px;
 }
 
-.supporterSponsor{
+.gold.sponsor{
+  padding: 1em;
+}
+
+.silver.sponsor{
+  width: 49%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.supporter.sponsor{
+  width: 265px; 
+  display: inline-block;
   text-align: center;
 }
 
-.supporterSponsor img{
+.supporter.sponsor img{
   max-width: 235px;
   max-height: 100px;
 }
@@ -576,6 +582,10 @@ p.footer {
 
   #info .meetup a{
     max-width: none;
+  }
+
+  .silver.sponsor{
+    width: 100%;
   }
 }
 
