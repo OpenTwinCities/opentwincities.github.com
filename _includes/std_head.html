@@ -29,9 +29,9 @@
     {% endif %}
     <link rel="publisher" href="https://plus.google.com/u/0/112909925725311528041/"/>
 
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}"/>
-    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}"/>
-    <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}"/>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}"/>
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}"/>
+    <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}"/>
 
     <meta property="og:image" content="{% if page.social_image %}{{ page.social_image }}{% else %}{{ site.social_image }}{% endif %}"/>
     <meta property="twitter:image" content="{% if page.social_image %}{{ page.social_image }}{% else %}{{ site.social_image }}{% endif %}"/>
