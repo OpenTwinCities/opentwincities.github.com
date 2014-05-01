@@ -46,3 +46,22 @@ browsing. Datasets from the following organizations are listed:
 * State Demographic Center
 * US Census
 * Center for Urban and Regional Affairs at the University of Minnesota
+
+### Hennepin County GIS Data Portal
+
+<http://www.hennepin.us/your-government/open-government/gis-open-data>
+
+Following [Hennepin County's resolution to allow open access to the county's
+GIS data](/2014/02/12/ramsey-and-hennepin-pass-opengis/), the County created
+a GIS data portal. Currently, this portal includes GIS data on taxable parcels,
+address points, the boundaries of the county, street centerlines, alternate
+names for streets, municipal boundaries, aerial imagery, commissioner 
+districts, and topography.
+
+It should be noted that while Hennepin County is sharing data on this portal
+free of license and charge, there are [concerns that the format in which the
+data are provided does not lend itself to free and accessible use](https://groups.google.com/d/msg/twin-cities-brigade/kAip-krnO8g/Yht9GvUq3JMJ).
+These data are provided in the same format that Hennepin County stores and uses
+these data. The community is currently working on a solution for the problem of
+how to convert these data into a more reusable format, and potentially how to
+host these converted datasets.
