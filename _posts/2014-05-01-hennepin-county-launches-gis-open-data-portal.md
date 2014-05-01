@@ -2,16 +2,19 @@
 layout: blog
 published: true
 title: Hennepin County Launches GIS Open Data Portal
-social_image: "http://opentwincities.org/images/Big_Hennepin_logo__2009.jpg"
+social_image: http://opentwincities.org/images/posts/Big_Hennepin_logo__2009.jpg
 tags: 
   - open data
   - open gis
   - hennepin county
 ---
 
-![Hennepin County Logo](/images/Big_Hennepin_logo__2009.jpg)
 
-**Portal URL**: http://www.hennepin.us/your-government/open-government/gis-open-data
+**Portal URL**: <http://www.hennepin.us/your-government/open-government/gis-open-data>
+
+<div class="right">
+ <img src="/images/posts/Big_Hennepin_logo__2009.jpg" alt="Hennepin County Logo"/>
+</div>
 
 On April 28th, [Hennepin County unvailed it's new GIS Open Data Portal](https://groups.google.com/d/msg/twin-cities-brigade/kAip-krnO8g/bfJC1MAoCucJ)! This comes just 10 weeks after the [Hennepin County Board of Commissioners voted to pass an Open GIS resolution](/2014/02/12/ramsey-and-hennepin-pass-opengis/), a vote put into motion thanks in large part the [work and formal recommenation of MetroGIS](https://groups.google.com/d/msg/twin-cities-brigade/lV0wUHgqyLI/4Fcso32sdy8J).
 
