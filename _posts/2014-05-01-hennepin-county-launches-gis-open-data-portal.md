@@ -7,6 +7,11 @@ tags:
   - open data
   - open gis
   - hennepin county
+excerpt: |
+  On April 28th, Hennepin County unvailed it's new GIS Open Data Portal! This
+  comes just 10 weeks after the Hennepin County Board of Commissioners voted to
+  pass an Open GIS resolution, a vote put into motion thanks in large part the
+  work and formal recommenation of MetroGIS.
 ---
 
 
