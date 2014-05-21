@@ -69,6 +69,13 @@ h6 {
   font-size:1.125em;
 }
 
+div.highlight{
+  border: 1px solid #d8d8d8;
+  background: #f2f2f2;
+  margin-bottom: 1.25rem;
+  padding: 1.25rem;
+}
+
 /**
  * Buttons
  */
