@@ -24,12 +24,13 @@ that will need to be installed:
 
 * Postgres
 * SQLite 3 Development Files
+* node.js
 
 Of course, you'll also need git, and a few required packages for rbenv (build packages and ssl development packages).
 
 To install all of these, run
 
-    apt-get install postgresql libsqlite3-dev build-essential libssl-dev libcurl4-openssl-dev libreadline-dev -y
+    apt-get install postgresql libsqlite3-dev nodejs build-essential libssl-dev libcurl4-openssl-dev libreadline-dev -y
 
 ##Setting up the DB
 
