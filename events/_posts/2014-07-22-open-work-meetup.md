@@ -1,11 +1,14 @@
 ---
-layout: event 
-title: July Open Work Meetup
 category: Events
-date: 2014-07-22 18:00:00
-rsvp_url: http://www.meetup.com/OpenTwinCities/events/182131872/ 
-venue_name: Metro State Midway Campus 
-venue_location: Room P, 1450 Energy Park Drive, St. Paul, MN 
+layout: event
+title: July Open Work Meetup
+date: 
+  - 2014-07-22T18:00:00.000Z
+  - "Tue Jul 22 2014 13:00:00 GMT-0500 (CDT)"
+rsvp_url: "http://www.meetup.com/OpenTwinCities/events/182131872/"
+venue_name: Metro State Midway Campus
+venue_location: "Room P, 1450 Energy Park Drive, St. Paul, MN"
+published: false
 ---
 
 **Note the location change. We will be meeting at Metro State while construction occurs at the Humphrey School.**
