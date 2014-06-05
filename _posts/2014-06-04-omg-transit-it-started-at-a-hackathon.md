@@ -4,8 +4,12 @@ published: true
 title: "OMG Transit: It started at a hackathon"
 author: Laura Andersen
 tags: 
-  - Hack for MN
+  - hackformn
+  - hackformn2013
+  - hackformn2014
+  - omgtransit
   - OMG Transit
+  - Hack for MN
 ---
 
 <a href="http://www.omgtransit.com/" target="_blank">OMG Transit</a> has come a long way since Matt, Jason and Richard met and got to work creating a real-time bus app at <a href="http://www.hackformn.org/" target="_blank">Hack for MN</a> 2013. After two days of development, the team presented their funtional website to a team of judges including MN.IT Director of Innovation, James Kauth and City of Minneapolis CIO, Otto Doll. 
