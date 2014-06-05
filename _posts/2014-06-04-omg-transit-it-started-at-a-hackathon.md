@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: "OMG Transit: It started at a hackathon"
 author: Laura Andersen
 tags: 
