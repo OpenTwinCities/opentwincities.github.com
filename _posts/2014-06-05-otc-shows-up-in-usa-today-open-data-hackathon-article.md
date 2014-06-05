@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: OTC shows up in USA Today Open Data/Hackathon Article
 tags: 
   - meetup
