@@ -78,6 +78,23 @@ Austin, Chicago, Philadelphia, Portland, New York, San Francisco, Washington,
 D.C. At the federal level, the White House has also implemented an open data
 policy for the  executive branch.
 
+### How can activists use open data?###
+
+Open data can have a big impact on what activists can learn about their governments,
+how they decide to take action, and how they tell their stories to the broader
+public.
+
+If you want to find out how open data can become part of your campaigns and 
+activism, [Tactical Tech](https://tacticaltech.org/) has a couple of great 
+resources to get you started:
+
+* The [Info-Activism How-To Guide](https://howto.informationactivism.org/): A
+  great set of how-tos and references on how to think about open data in
+  activism and tools to help you use open data in activism.
+* [Visualising Information for Advocacy](https://visualisingadvocacy.org/): A
+  book all about Tacitcal Tech's experiences using open data in various 
+  campaigns and activists activities all around the world.
+
 ### Is there more information available on Open Data?
 
 Yes, tons more. The Kansas City Code for America Fellowship Class put together 
