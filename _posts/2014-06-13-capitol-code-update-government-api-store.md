@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: "Capitol Code Update: Government API Store"
 author: Laura Andersen
 tags: 
