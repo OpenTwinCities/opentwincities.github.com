@@ -55,6 +55,15 @@ The City of Minneapolis provides GIS datasets on an ArcGIS Dataportal. Datasets
 include Fire Station Locations, Snow Emergency Routes, Community Gardens, and
 much more.
 
+### City of Minneapolis Other Useful Map Data
+
+<http://www.minneapolismn.gov/maps/about_maps_public-maps-links>
+
+Minneapolis also provides a number of GIS datasets that can be downloaded.
+Includes City, Community, Neighborhood, Ward, and Park boundaries. Also 
+includes street centerlines, bodies of water, railroads, precinct finder,
+police maps, historic districts, and much more.
+
 ### Hennepin County GIS Data Portal
 
 * **Official Portal**: <http://www.hennepin.us/your-government/open-government/gis-open-data>
