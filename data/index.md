@@ -47,6 +47,14 @@ browsing. Datasets from the following organizations are listed:
 * US Census
 * Center for Urban and Regional Affairs at the University of Minnesota
 
+### City of Minneapolis GIS Data Portal
+
+<http://cityoflakes.maps.arcgis.com/home/index.html>
+
+The City of Minneapolis provides GIS datasets on an ArcGIS Dataportal. Datasets
+include Fire Station Locations, Snow Emergency Routes, Community Gardens, and
+much more.
+
 ### Hennepin County GIS Data Portal
 
 * **Official Portal**: <http://www.hennepin.us/your-government/open-government/gis-open-data>
