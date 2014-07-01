@@ -8,7 +8,7 @@ date:
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/182131872/"
 venue_name: Metro State Midway Campus
 venue_location: "Room P, 1450 Energy Park Drive, St. Paul, MN"
-published: false
+published: true 
 ---
 
 **Note the location change. We will be meeting at Metro State while construction occurs at the Humphrey School.**
