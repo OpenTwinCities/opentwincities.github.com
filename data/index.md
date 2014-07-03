@@ -84,3 +84,15 @@ To address these concerns, the Open Twin Cities community has worked
 together to convert Hennepin County's provided Geodatabase files into GeoJSON
 and Shapefiles, and [dbSpatial](http://dbspatial.com) has provided space to
 host these converted files.
+
+### State of Minneosta Geospatial Commons
+
+<http://gisdata.mn.gov/>
+
+The Minnesota Geospatial Commons (the Commons) is a collaborative place for users and publishers of geospatial resources in Minnesota.
+
+The Commons is primarily for geospatial data consumers: people who need data for a project, services for an application, or some other resource required for a GIS-based use. It is a robust data distribution site that can be used by both traditional and non-traditional GIS users, such as web developers, journalists and others. The Commons is not intended to provide web mapping functionality like “Google Maps” or “ArcGIS Online.”
+
+#### Timeline for the Commons
+
+The Commons will be publicly released by June 30, 2014. On June 30 there will be many GIS datasets on the site. Over the summer and fall of 2014, more datasets will be added as GIS data sites, like DNR Data Deli, are fully transitioned to the Minnesota Geospatial Commons. The plan for the Commons is to replace the existing state agency geospatial data delivery systems, including DNR Data Deli, MetroGIS DataFinder and MnGeo's GeoGateway.  
