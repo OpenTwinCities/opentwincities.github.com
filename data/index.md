@@ -9,7 +9,7 @@ published: true
 
 ### Open Twin Cities Socrata Community Data Portal
 
-<https://communities.socrata.com/catalog/open-twin-cities/>
+<https://brigades.opendatanetwork.com/brigade?brigade=Open%20Twin%20Cities>
 
 Socrata has graciously provided Open Twin Cities with a Community data portal
 to host datasets that we have received or requested from local governments. The
