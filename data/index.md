@@ -7,15 +7,15 @@ published: true
 
 ## {{page.title}}
 
-### Open Twin Cities Socrata Community Data Portal
+### Open Twin Cities Socrata Data Portal
 
 <https://brigades.opendatanetwork.com/brigade?brigade=Open%20Twin%20Cities>
 
-Socrata has graciously provided Open Twin Cities with a Community data portal
-to host datasets that we have received or requested from local governments. The
-datasets found on this portal can be downloaded in a number of formats,
-investigated in browser, and many are also available in a APIs hosted on the
-platfrom.
+Socrata has graciously provided Open Twin Cities with a Code for America Brigade 
+data portal to host datasets that we have received or requested from local 
+governments. The datasets found on this portal can be downloaded in a number of
+formats, investigated in browser, and many are also available in a APIs hosted 
+on the platfrom.
 
 ### Minnesota Data Collection Spreadsheet
 
