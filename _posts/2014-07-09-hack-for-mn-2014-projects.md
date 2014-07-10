@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: true 
+published: false 
 title: Hack for MN 2014 Projects 
 tags: 
   - hackformn2014
@@ -8,6 +8,8 @@ tags:
   - citycampmn2013
   - capitolcode2014
 ---
+
+* We'd like to thank Tech.MN and The Nerdery for recording all of the project presentations. *
 
 ## Open Hack Projects ##
 
@@ -110,6 +112,8 @@ important information.
 - Contact: [Colin Lee](https://twitter.com/colinmlee)
 - [Video](http://vimeo.com/98969462)
 - Awarded: Service Design consultation with Laura Andersen, Owner of Praidea
+- [GitHub](https://github.com/colintheshots/HomelessHomeScreen)
+- [Play Store Page](https://play.google.com/store/apps/details?id=colintheshots.homelesshomescreen)
 
 Based on the observation that smartphones are becoming more prevalent among
 homeless populations, and that basic information about resources available for
@@ -149,3 +153,96 @@ Going forward, the team will present its first analysis of a technology group
 at the July Twin Cities PyMNTos meetup. The team also plans to analyze other
 Twin Cities technology groups, and to apply text analysis to understand how men
 and women describe themselves in Twin Cities technology groups.
+
+## Heading Home Challenge Teams ##
+
+### Blue Star Landlords ###
+
+- [Video](http://youtu.be/z3QebOq4blQ?t=1h3m23s)
+
+"How do we transform landlords into touch points for veterans - sources of knowledge and how to uptain them."
+
+Make homeless veterans feel more hopeful and in control of their lives
+Transform landlords into stable, local, face to face resouces for information.
+
+
+Direct mailing to landlords to participate, and advistising at landlord events
+Stand Down Participantion:
+  * Landlord information booth
+  * Veterans housing rights/benefits booths
+Brochures for landlords to handout to venterans about healthcare, financial aid, transit
+Phone operators for landlords
+Use a bluestar logo on buildings to indetify housing providers that participate in the program
+
+
+Training for landlords provided:
+
+ * Availability of guarenteed rent for housed veterans
+ * Availability of rent subsidies for veterans
+ * Training for veterans to be tenants (communicating with landlord and other tenants)
+
+Case management support
+Complaint triage
+Contracting templates and Interview questions between landlord and potential tenants
+
+
+Veteran centric map/GIS resource, available in print
+  Include county service officer locations, transit, sympathetic housing locations, food and temporary housing shelters, work force centers
+
+
+### Habitat for Vets ###
+
+- [Video](http://youtu.be/z3QebOq4blQ?t=1h10m35s)
+
+"How might we increase housing resources for homeless vets"
+
+Veterans and volunteers work together to rehab a house that a veteran will live in when it is finished.
+
+Emails with volunteer signup forms to forward amongst friends/networks
+
+Work with general contractors to provide work oversight
+Teams of 15 work on houses
+
+Take a vacant house (which would be cheap to purchase), remodel it via the veteran/volunteer team, and give it to a veteran
+Thinking of vets who have been dishonorably discharged, who do not qualify for many other veteran programs
+
+Potential options:
+
+* Group houses
+* Remodel rental units on the condition that the unit must go to a homeless veteran
+
+Understand that individuals want to be part of their own solution, want to feel like they've earned their house
+A veteran receiving housing in this program would not have to be part of the rehab team. The option is available for individuals who want to be part of rehabing a house.
+Veteran would likely work on the unskilled portions of rehabbing (not electrical or plumbing)
+
+On going costs for the house would be property taxes and maintenance - which leads to the group house idea and rental remodeling
+
+
+### Veterans Serving Veterans ###
+
+- [Video](http://youtu.be/z3QebOq4blQ?t=1h21m53s)
+
+"How might we establish personal relationships between homeless veterans and other veterans?"
+
+Website to connect mentors and mentees and provide structure for veterans who are struggling
+Website can also help mentors and mentees communicate
+Mentors would have to be former military personnel (at least initially; later might branch out to other people in communities that serve veterans and the homeless)
+
+St. Stevens Homeless Shelter would be a pilot location
+
+Already started desiging the website - planning to use Django, Bootstrap, and considering using Twilio to allow mentors and mentees to communicate without sharing personal numbers if perfer not to
+
+Initial plan is to partner with an established organization that has homeless and/or veteran programming. The organization would create a mentorship program between veterans and homeless veterans.
+
+Understand that homeless veterans may not have consistent access to communications. Also understand that homeless population includes a small number of homeless on the street and a larger portion of individuals who move between places to stay
+
+Mentee Interface:
+Application would be simple for mentees, only listing a couple of potential actions in order to lower the barrier to taking an action (especially reaching out to a mentor)
+Mentee can provide information on where they will be and their time availability
+Potential Idea: can display other resources available to the veteran
+
+Mentor Interface:
+A bit more sophisticated
+Includes projects/ideas to do to help the mentee
+
+
