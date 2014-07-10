@@ -7,15 +7,28 @@ tags:
   - hackformn
 ---
 
-## Open Hack Projects##
+## Open Hack Projects ##
 
 ### Airstatus ### 
 
-* [GitHub](https://github.com/r-barnes/airquality)
-* [Demo](http://airstatus.info/)
-* SMS Number: 443-201-AIRQ (text zipcode for air status in your area)
+- Contact: Richard Barnes
+- [Video](http://vimeo.com/98969465)
+- [GitHub](https://github.com/r-barnes/airquality)
+- [Demo](http://airstatus.info/)
+- SMS Number: 443-201-AIRQ (text zipcode for air status in your area)
 
-Create a single API of airquality statues for visualizing/mapping status of air quality around North America - 
+Aiming to create a single API of air quality information based on many different
+data sources across the U.S. and the world, to make it easy for designers and 
+developers to include air quality information in their apps and sites. By the 
+end of Hack for MN, the API could provide information from approximately 3000
+stations across North America, and the team was working on pulling in 
+air quality information from the U.K. and Germany.
+
+The team also created a demo web and text application to map, visualize, and 
+retrieve air quality information based on the Airstatus API. Besides 
+demonstrating how to use of the API, this application also provides an 
+enviornment for the team to experiment with ways of displaying highly technical
+information to the general public.
 
 ### PLANIT ###
 A web and text platform for planning and learning about informal events at city parks
