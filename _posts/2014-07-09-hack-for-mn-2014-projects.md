@@ -64,6 +64,7 @@ to use this platform via text messaging.
 - Contact: [David Ching](http://www.linkedin.com/profile/view?id=159829397)
 - [Video](http://vimeo.com/98969464)
 - Awarded: Meeting with Carolyn Parnell, CIO of the State of Minnesota
+- [Post of History](/2014/06/13/capitol-code-update-government-api-store/)
 
 Continuing their work from [Capitol Code/CodeAcross 2014](/2014/02/27/capitol-code-projects/), 
 the API Store team has been tackeling the business, policy, and political issues
@@ -83,10 +84,68 @@ data).
 
 ### Voter Guide ###
 
-* [Demo](http://dev-voter-guide.gotpantheon.com/)
+- Contact: [Steve Clift](https://twitter.com/democracy) and [Tim Erikson](https://twitter.com/stpaultim) 
+- [Video](http://vimeo.com/98969463)
+- Awarded: Agile consulting session with Dion Stewart, Agile Coach at DevJam Studios
+- [Project Notes](https://docs.google.com/document/d/1x2NYYG3_rUPLK_VujVXORndnFUXLiVs_DJZZbcgmqNE/edit) - Includes links to crowdsourced MN House Candidate social media accounts
+- [Demo](http://dev-voter-guide.gotpantheon.com/)
 
-Listings and profiles of state and local candidates for office in 2014, including social media accounts - * Home Screen for the Homeless - Android app to set the home screen of the phone to a list of urls/phone numbers/apps of local social service and homelessness organizations
+Building upon the crowdsourcing and visualization work of a [Capitol Code 2014 project(/2014/02/27/capitol-code-projects/),
+the Voter Guide team began by seeking to expand the collected social media 
+accounts of Minnesota politicians to include 2014 candidates for office.
+Once they expanded their scope to candidates, the team decided they could also
+expand their scope to create a full guide for voters on all of the candidates
+that are running in their district(s), beginning with a site that makes it easy
+for voters to find the social media accounts of their candidates.
+
+With a Drupal site running that does just that, the team is now looking at what
+other information would be useful to include for voters, including 'offical' 
+information (such as campaign contributions). The team is also planning on
+creating an API so other sites and developers can easily incorporate this
+important information.
+
+
+### Homescreen for the Homeless ###
+
+- Contact: [Colin Lee](https://twitter.com/colinmlee)
+- [Video](http://vimeo.com/98969462)
+- Awarded: Service Design consultation with Laura Andersen, Owner of Praidea
+
+Based on the observation that smartphones are becoming more prevalent among
+homeless polulations, and that basic information about resources available for
+the homeless can be very hard to find, this team created an Android app to 
+provide a single listing of social services and homeless assistance programs.
+
+Homescreen for the Homeless organizes and lists phone numbers, URLs, and apps
+that can connect homeless populations with various resources, such as 
+job search apps and shelters. These resources are organized based on focus or
+situtation, and intelligently integrate with the smartphone to form appropriate
+actions, such as dialing a phone number or opening an installed app. 
+
+With a prototype of the Android app built, the team is now looking at the
+problem of gathering lists of homelessness and social service resources. To
+that end, the team is planning to crowdsrouce phone numbers, URLs, and apps
+that can connect homeless individuals with resources they want or need.
+
 
 ### PyLadies Web Scrapping ###
 
-Scrapping, tracking, and visualizing demographics of technology meetups/user groups, with the purpose of increasing the number of women participating in these groups.
+- Contact: [Dana Engebretson](https://twitter.com/DanaKE/)
+- [Video](http://vimeo.com/98964771)
+- Awarded: Meeting with Nancy Lyons, President & CEO of Clockwork Active Media
+
+By combining data from the Meetup API with the power of Python web scrapping, 
+the new [PyLadies Twin Cities](http://www.meetup.com/PyLadiesTC/) group wanted
+to track, analyize, and visualize the representation of women in Twin Cities
+technology meetups. And ultimately, they want more women to be part of the Twin
+Cities' technology community.
+
+To begin with, the PyLadies have established a set of metrics to use when 
+analyzing the populations, attendees, and speakers of Twin Cities technology
+groups. The team also spent the weekend learning how to scrape webpages using
+Python and Beautiful Soup.
+
+Going forward, the team will present its first analysis of a technology group
+at the July Twin Cities PyMNTos meetup. The team also plans to analyize other
+Twin Cities technology groups, and to apply text analysis to understand how men
+and women describe themselves in Twin Cities technology groups.
