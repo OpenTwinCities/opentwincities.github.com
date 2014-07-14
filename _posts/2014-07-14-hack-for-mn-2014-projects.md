@@ -9,7 +9,7 @@ tags:
   - capitolcode2014
 ---
 
-* We'd like to thank Tech.MN and The Nerdery for recording all of the project presentations. *
+*We'd like to thank Tech.MN and The Nerdery for recording all of the project presentations.*
 
 ## Open Hack Projects ##
 
@@ -158,91 +158,93 @@ and women describe themselves in Twin Cities technology groups.
 
 ### Blue Star Landlords ###
 
+- **Problem Statement**: *"How do we transform landlords into touch points for veterans - sources of knowledge and how to uptain them."*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h3m23s)
 
-"How do we transform landlords into touch points for veterans - sources of knowledge and how to uptain them."
+Landlords are a major stakeholder in any housing discussion. Knowing this, the 
+team thought about how landlords can be a unique asset in an effort to end 
+homelessness - how landlords can be a stable and local in person source of 
+information for veterans seeking housing. At the sametime, the team wondered 
+how an initiative might instil hope and a sense of control to homeless veterans.
 
-Make homeless veterans feel more hopeful and in control of their lives
-Transform landlords into stable, local, face to face resouces for information.
+Blue Star Landlords addresses both of these "how to" questions through a 
+combination of supportive resources for both landlords and veterans, and a
+communications plan that raises awareness of their initiative while highlighting
+a community of allies for homeless veterans.
 
+The Blue Star Landlords program would provide training to veterans and 
+participating landlords on such issues as the rights and responsibilities of
+tenants, the availabity of rent subsidies for veterans, and the availability of
+guarenteed rent for veteran tenants. The program would also provide supportive
+information materials, including contracting templates, interview questions
+for landlords to understand the needs of their veteran tenants, and veteran
+centric maps offering locations of near by county service officers, transit,
+food and housing shelters, work force centers, and landlords participating
+in the program. Finally, the program would also provide supportive services to
+landlords and tenants, including the already mentioned rent subsidies and 
+guarentees, case management support, and complaint arbitration.
 
-Direct mailing to landlords to participate, and advistising at landlord events
-Stand Down Participantion:
-  * Landlord information booth
-  * Veterans housing rights/benefits booths
-Brochures for landlords to handout to venterans about healthcare, financial aid, transit
-Phone operators for landlords
-Use a bluestar logo on buildings to indetify housing providers that participate in the program
-
-
-Training for landlords provided:
-
- * Availability of guarenteed rent for housed veterans
- * Availability of rent subsidies for veterans
- * Training for veterans to be tenants (communicating with landlord and other tenants)
-
-Case management support
-Complaint triage
-Contracting templates and Interview questions between landlord and potential tenants
-
-
-Veteran centric map/GIS resource, available in print
-  Include county service officer locations, transit, sympathetic housing locations, food and temporary housing shelters, work force centers
+This is a comprehensive set of resources, but the Blue Star team understood
+that it would mean little if nobody knew of their availability. To that end, 
+the team created a communications plan that includes direct mailings to landlords,
+participation in landlord conferences and events, and participation in Stand 
+Down events for new veterans. At the core of this plan is the namesake Blue Star,
+a logo for landlords to display to show their participation in the program, and 
+a signel to veterans of where look for supportive landlords and helpful information. 
 
 
 ### Habitat for Vets ###
 
+- **Problem Statement**: *"How might we increase housing resources for homeless vets"*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h10m35s)
 
-"How might we increase housing resources for homeless vets"
+Veterans share a sense of duty and a desire to do things. This is as true for a
+homeless veteran as it is for a veteran who rents or owns a home. The Habitat 
+for Vets team took this fact and mixed it with two others: the Twin Cities is 
+facing a general shortage in its housing stock, and the Twin Cities contain 
+many beautiful but currently uninhabital houses. Considering these together, the
+team developed an initiative that would allow volunteers, including veterans,
+to work together to rehabilitate a house that veterans can live in.
 
-Veterans and volunteers work together to rehab a house that a veteran will live in when it is finished.
+Logistically, rehab teams would be made up of 15 volunteers that work with 
+general contractors and licensed electricians and plumbers. The Habitat for Vets
+program would purchases low cost houses, such as houses owned by a city as a result
+of unpaid taxes. Depending on the circumstances of the veteran who will live in 
+the rehibilitated house, the house will be given to the veteran, opperated as 
+a group home for veterans, or turned over to a manager to rent out to  veterans.
 
-Emails with volunteer signup forms to forward amongst friends/networks
-
-Work with general contractors to provide work oversight
-Teams of 15 work on houses
-
-Take a vacant house (which would be cheap to purchase), remodel it via the veteran/volunteer team, and give it to a veteran
-Thinking of vets who have been dishonorably discharged, who do not qualify for many other veteran programs
-
-Potential options:
-
-* Group houses
-* Remodel rental units on the condition that the unit must go to a homeless veteran
-
-Understand that individuals want to be part of their own solution, want to feel like they've earned their house
-A veteran receiving housing in this program would not have to be part of the rehab team. The option is available for individuals who want to be part of rehabing a house.
-Veteran would likely work on the unskilled portions of rehabbing (not electrical or plumbing)
-
-On going costs for the house would be property taxes and maintenance - which leads to the group house idea and rental remodeling
-
+All houses rehabilitated through this program would be lived in by veterans,
+though it would not require that veterans who eventually live in a house be part
+of its rehabilitation. The goal of this program is not to mandate actions. Habitat
+for Vets would instead expand the options availabile to veterans - especially 
+dishonorably discharged veterans who do not qualify for many veteran aid programs - 
+and allow veterans the option to take part in the creation of their own homes.
 
 ### Veterans Serving Veterans ###
 
+- **Problem Statement**: *"How might we establish personal relationships between homeless veterans and other veterans?"*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h21m53s)
 
-"How might we establish personal relationships between homeless veterans and other veterans?"
+Homelessness isn't simply an issue of economics. Even more than money, homeless
+individuals often need guidance on how to navigate processes, make plans, find
+stablility, and cope with emotional hardships. This is all the more true when
+veterans return to civilian life, having experienced the trama of combat, and
+finding a society that can be crushingly indifferent.
 
-Website to connect mentors and mentees and provide structure for veterans who are struggling
-Website can also help mentors and mentees communicate
-Mentors would have to be former military personnel (at least initially; later might branch out to other people in communities that serve veterans and the homeless)
+Considering this need for connection and guidence, the Veterans Serving Veterans
+team looked at veteran mentorship options and prototyped an initiative and
+website that could connect homeless veterans with veteran mentors.
 
-St. Stevens Homeless Shelter would be a pilot location
+To get started, the Veterans Serving Veterans team would partner with an 
+organization like the St. Stephens Homeless Shelter to pilot a veteran 
+mentorhsip program. Such a program would require that mentors be former
+military personnel - so that mentors can better understand the trials of their
+mentees and connect with their mentees.
 
-Already started desiging the website - planning to use Django, Bootstrap, and considering using Twilio to allow mentors and mentees to communicate without sharing personal numbers if perfer not to
-
-Initial plan is to partner with an established organization that has homeless and/or veteran programming. The organization would create a mentorship program between veterans and homeless veterans.
-
-Understand that homeless veterans may not have consistent access to communications. Also understand that homeless population includes a small number of homeless on the street and a larger portion of individuals who move between places to stay
-
-Mentee Interface:
-Application would be simple for mentees, only listing a couple of potential actions in order to lower the barrier to taking an action (especially reaching out to a mentor)
-Mentee can provide information on where they will be and their time availability
-Potential Idea: can display other resources available to the veteran
-
-Mentor Interface:
-A bit more sophisticated
-Includes projects/ideas to do to help the mentee
-
-
+Over the weekend, Veterans Serving Veterans made significant strids in technical
+development. Specifically, the team designed a website to support the mentorship
+program by helping veterans find mentors, helping mentors and mentees communicate,
+and providing resources and structure to mentors to help them connect and advice
+their mentee. The team has also begun to answer technical questions, such as 
+what platform should be used (Django), and what other services should be 
+integrated with the webste (a text message interface via Twilio).
