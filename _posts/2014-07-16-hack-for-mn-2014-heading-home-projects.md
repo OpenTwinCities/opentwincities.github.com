@@ -9,7 +9,8 @@ tags:
 
 *We'd like to thank The Nerdery for recording all of the project presentations.*
 
-### Blue Star Landlords ###
+
+### Blue Star Landlords 
 
 - **Problem Statement**: *"How do we transform landlords into touch points for veterans - sources of knowledge and how to obtain them."*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h3m23s)
@@ -45,7 +46,7 @@ a logo for landlords to display to show their participation in the program, and
 a signal to veterans of where to look for supportive landlords and helpful information. 
 
 
-### Habitat for Vets ###
+### Habitat for Vets
 
 - **Problem Statement**: *"How might we increase housing resources for homeless vets"*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h10m35s)
@@ -72,7 +73,8 @@ for Vets would instead expand the options availabile to veterans - especially
 dishonorably discharged veterans who do not qualify for many veteran aid programs - 
 and allow veterans the option to take part in the rehabilitation of their own homes.
 
-### Veterans Serving Veterans ###
+
+### Veterans Serving Veterans
 
 - **Problem Statement**: *"How might we establish personal relationships between homeless veterans and other veterans?"*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h21m53s)

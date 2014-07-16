@@ -11,7 +11,8 @@ tags:
 
 *We'd like to thank Tech.MN for recording all of the project presentations.*
 
-### Airstatus ### 
+
+### Airstatus 
 
 - Contact: [Richard Barnes](http://rbarnes.org/)
 - [Video](http://vimeo.com/98969465)
@@ -34,7 +35,7 @@ environment for the team to experiment with ways of displaying highly technical
 information to the general public.
 
 
-### PLANIT ###
+### PLANIT 
 
 - Contact: [Alison Link](https://twitter.com/linkalis)
 - [Video](http://vimeo.com/98969467)
@@ -59,7 +60,7 @@ residents to be able to submit their own activities, and for folks to be able
 to use this platform via text messaging.
 
 
-### The API Store ###
+### The API Store
 
 - Contact: [David Ching](http://www.linkedin.com/profile/view?id=159829397)
 - [Video](http://vimeo.com/98969464)
@@ -82,7 +83,7 @@ users (to better understand performance issues of applications that use open
 data).
 
 
-### Voter Guide ###
+### Voter Guide
 
 - Contact: [Steve Clift](https://twitter.com/democracy) and [Tim Erikson](https://twitter.com/stpaultim) 
 - [Video](http://vimeo.com/98969463)
@@ -104,7 +105,7 @@ creating an API so other sites and developers can easily incorporate this
 important information.
 
 
-### Homescreen for the Homeless ###
+### Homescreen for the Homeless
 
 - Contact: [Colin Lee](https://twitter.com/colinmlee)
 - [Video](http://vimeo.com/98969462)
@@ -129,7 +130,7 @@ that end, the team is planning to crowd-source phone numbers, URLs, and apps
 that can connect homeless individuals with resources they want or need.
 
 
-### PyLadies Web Scrapping ###
+### PyLadies Web Scrapping
 
 - Contact: [Dana Engebretson](https://twitter.com/DanaKE/)
 - [Video](http://vimeo.com/98964771)
