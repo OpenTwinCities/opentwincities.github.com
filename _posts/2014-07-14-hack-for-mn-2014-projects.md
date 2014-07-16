@@ -1,7 +1,7 @@
 ---
 layout: blog
-published: false 
-title: Hack for MN 2014 Projects 
+published: false
+title: Hack for MN 2014 Projects
 tags: 
   - hackformn2014
   - hackformn
@@ -39,12 +39,13 @@ information to the general public.
 
 ### PLANIT ###
 
-- Contact:
+- Contact: <a href="mailto:linkalis@gmail.com" target="_new">
+Alison Link</a> 
 - [Video](http://vimeo.com/98969467)
 - Awarded: Meeting with DeAnna Cummings, Executive Director of Juxtaposition Arts
 - [Minneapolis Park Boundaries Dataset](https://brigades.opendatanetwork.com/dataset/Metro-Parks-in-Minneapolis/hnpv-xa5t)
 
-This project, which was first pitched at the [CityCampMN 2013 hackathon](/events/2013/11/09/citycampmn/), 
+This project, which was first pitched at [CityCampMN 2013 hackathon](/events/2013/11/09/citycampmn/), 
 started with the task of creating a single place for residents to be able to view and 
 plan informal activities at city parks, like pickup basketball games. The team 
 was also motivated by the questions of how to engage youth in nearby activities, 
@@ -118,11 +119,11 @@ important information.
 Based on the observation that smartphones are becoming more prevalent among
 homeless populations, and that basic information about resources available for
 the homeless can be very hard to find, this team created an Android app to 
-provide a single listing of social services and homeless assistance programs.
+provide a simplified listing of social services and homeless assistance programs.
 
 Homescreen for the Homeless organizes and lists phone numbers, URLs, and apps
 that can connect homeless populations with various resources, such as 
-job search apps and shelters. These resources are organized based on focus or
+shelters, health and legal resources. These resources are organized based on focus or
 situation, and intelligently integrate with the smartphone to form appropriate
 actions, such as dialing a phone number or opening an installed app. 
 
@@ -158,7 +159,7 @@ and women describe themselves in Twin Cities technology groups.
 
 ### Blue Star Landlords ###
 
-- **Problem Statement**: *"How do we transform landlords into touch points for veterans - sources of knowledge and how to uptain them."*
+- **Problem Statement**: *"How do we transform landlords into touch points for veterans - sources of knowledge and how to obtain them."*
 - [Video](http://youtu.be/z3QebOq4blQ?t=1h3m23s)
 
 Landlords are a major stakeholder in any housing discussion. Knowing this, the 
@@ -167,7 +168,7 @@ homelessness - how landlords can be a stable and local in person source of
 information for veterans seeking housing. At the sametime, the team wondered 
 how an initiative might instil hope and a sense of control to homeless veterans.
 
-Blue Star Landlords addresses both of these "how to" questions through a 
+Blue Star Landlords addresses both of these "how might we?" questions through a 
 combination of supportive resources for both landlords and veterans, and a
 communications plan that raises awareness of their initiative while highlighting
 a community of allies for homeless veterans.
@@ -175,14 +176,13 @@ a community of allies for homeless veterans.
 The Blue Star Landlords program would provide training to veterans and 
 participating landlords on such issues as the rights and responsibilities of
 tenants, the availabity of rent subsidies for veterans, and the availability of
-guarenteed rent for veteran tenants. The program would also provide supportive
+guaranteed rent for veteran tenants. The program would also provide supportive
 information materials, including contracting templates, interview questions
-for landlords to understand the needs of their veteran tenants, and veteran
-centric maps offering locations of near by county service officers, transit,
+for landlords to understand the needs of their veteran tenants, and veteran-centric maps offering locations of nearby county service officers, transit,
 food and housing shelters, work force centers, and landlords participating
-in the program. Finally, the program would also provide supportive services to
+in the program. Finally, the program would also provide support services to
 landlords and tenants, including the already mentioned rent subsidies and 
-guarentees, case management support, and complaint arbitration.
+guarantees, case management support, and complaint mediation.
 
 This is a comprehensive set of resources, but the Blue Star team understood
 that it would mean little if nobody knew of their availability. To that end, 
@@ -190,7 +190,7 @@ the team created a communications plan that includes direct mailings to landlord
 participation in landlord conferences and events, and participation in Stand 
 Down events for new veterans. At the core of this plan is the namesake Blue Star,
 a logo for landlords to display to show their participation in the program, and 
-a signel to veterans of where look for supportive landlords and helpful information. 
+a signal to veterans of where to look for supportive landlords and helpful information. 
 
 
 ### Habitat for Vets ###
@@ -200,7 +200,7 @@ a signel to veterans of where look for supportive landlords and helpful informat
 
 Veterans share a sense of duty and a desire to do things. This is as true for a
 homeless veteran as it is for a veteran who rents or owns a home. The Habitat 
-for Vets team took this fact and mixed it with two others: the Twin Cities is 
+for Vets team took this insight and mixed it with two others: the Twin Cities is 
 facing a general shortage in its housing stock, and the Twin Cities contain 
 many beautiful but currently uninhabital houses. Considering these together, the
 team developed an initiative that would allow volunteers, including veterans,
@@ -218,7 +218,7 @@ though it would not require that veterans who eventually live in a house be part
 of its rehabilitation. The goal of this program is not to mandate actions. Habitat
 for Vets would instead expand the options availabile to veterans - especially 
 dishonorably discharged veterans who do not qualify for many veteran aid programs - 
-and allow veterans the option to take part in the creation of their own homes.
+and allow veterans the option to take part in the rehabilitation of their own homes.
 
 ### Veterans Serving Veterans ###
 
@@ -228,23 +228,23 @@ and allow veterans the option to take part in the creation of their own homes.
 Homelessness isn't simply an issue of economics. Even more than money, homeless
 individuals often need guidance on how to navigate processes, make plans, find
 stablility, and cope with emotional hardships. This is all the more true when
-veterans return to civilian life, having experienced the trama of combat, and
+veterans return to civilian life, having experienced the trauma of combat, and
 finding a society that can be crushingly indifferent.
 
-Considering this need for connection and guidence, the Veterans Serving Veterans
+Considering this need for connection and guidance, the Veterans Serving Veterans
 team looked at veteran mentorship options and prototyped an initiative and
 website that could connect homeless veterans with veteran mentors.
 
 To get started, the Veterans Serving Veterans team would partner with an 
 organization like the St. Stephens Homeless Shelter to pilot a veteran 
-mentorhsip program. Such a program would require that mentors be former
-military personnel - so that mentors can better understand the trials of their
+mentorship program. Such a program would prefer that mentors be former
+military personnel - so that mentors can better understand the experiences of their
 mentees and connect with their mentees.
 
-Over the weekend, Veterans Serving Veterans made significant strids in technical
+Over the weekend, Veterans Serving Veterans made significant strides in technical
 development. Specifically, the team designed a website to support the mentorship
 program by helping veterans find mentors, helping mentors and mentees communicate,
-and providing resources and structure to mentors to help them connect and advice
+and providing resources and structure to mentors to help them connect and advise
 their mentee. The team has also begun to answer technical questions, such as 
 what platform should be used (Django), and what other services should be 
 integrated with the webste (a text message interface via Twilio).
