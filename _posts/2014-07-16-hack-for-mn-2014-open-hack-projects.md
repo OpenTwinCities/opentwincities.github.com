@@ -91,7 +91,7 @@ data).
 - [Project Notes](https://docs.google.com/document/d/1x2NYYG3_rUPLK_VujVXORndnFUXLiVs_DJZZbcgmqNE/edit) - Includes links to crowdsourced MN House Candidate social media accounts
 - [Demo](http://dev-voter-guide.gotpantheon.com/)
 
-Building upon the crowd-sourcing and visualization work of a [Capitol Code 2014 project(/2014/02/27/capitol-code-projects/),
+Building upon the crowd-sourcing and visualization work of a [Capitol Code 2014 project](/2014/02/27/capitol-code-projects/),
 the Voter Guide team began by seeking to expand the collected social media 
 accounts of Minnesota politicians to include 2014 candidates for office.
 Once they expanded their scope to candidates, the team decided they could also
