@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: true 
+published: true
 title: Hack for MN 2014 Open Hack Projects
 tags: 
   - hackformn2014
@@ -11,7 +11,7 @@ tags:
 
 *We'd like to thank Tech.MN for recording all of the project presentations.*
 
-
+<span id="airstatus"></span>
 ### Airstatus 
 
 - Contact: [Richard Barnes](http://rbarnes.org/)
@@ -34,7 +34,7 @@ demonstrating how to use of the API, this application also provides an
 environment for the team to experiment with ways of displaying highly technical
 information to the general public.
 
-
+<span id="planit"></span>
 ### PLANIT 
 
 - Contact: [Alison Link](https://twitter.com/linkalis)
@@ -60,6 +60,7 @@ residents to be able to submit their own activities, and for folks to be able
 to use this platform via text messaging.
 
 
+<span id="api-store"></span>
 ### The API Store
 
 - Contact: [David Ching](http://www.linkedin.com/profile/view?id=159829397)
@@ -83,6 +84,7 @@ users (to better understand performance issues of applications that use open
 data).
 
 
+<span id="voter-guide"></span>
 ### Voter Guide
 
 - Contact: [Steve Clift](https://twitter.com/democracy) and [Tim Erikson](https://twitter.com/stpaultim) 
@@ -105,6 +107,7 @@ creating an API so other sites and developers can easily incorporate this
 important information.
 
 
+<span id="homescreen-for-the-homeless"></span>
 ### Homescreen for the Homeless
 
 - Contact: [Colin Lee](https://twitter.com/colinmlee)
@@ -130,6 +133,7 @@ that end, the team is planning to crowd-source phone numbers, URLs, and apps
 that can connect homeless individuals with resources they want or need.
 
 
+<span id="pyladies-web-scrapping"></span>
 ### PyLadies Web Scrapping
 
 - Contact: [Dana Engebretson](https://twitter.com/DanaKE/)
