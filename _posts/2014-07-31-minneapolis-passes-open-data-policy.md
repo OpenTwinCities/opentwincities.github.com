@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true 
 title: Minneapolis Passes Open Data Policy
 tags: 
   - open data
