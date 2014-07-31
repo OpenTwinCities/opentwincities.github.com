@@ -10,7 +10,7 @@ tags:
 social_image: "http://upload.wikimedia.org/wikipedia/commons/f/f1/Minneapolis_City_Hall_2012_cropped.jpg"
 ---
 
-At about noon today, Minneapolis became the 16th city in the United States to enact an Open Data Policy. This policy is both a significant step forward in the accessibility of Minneapolis city government, and a neccessary evolution of the [city's work via innovation, engagement, trust, and collaboration](http://www.ci.minneapolis.mn.us/citygoals/index.htm) in the 21st century. It is both the result of a lot of hard work, and the foundation of more work to come from city leaders, city staff, private organizations, and the citizens of Minneapolis.
+At about noon yesterday, Minneapolis became the 16th city in the United States to enact an Open Data Policy. This policy is both a significant step forward in the accessibility of Minneapolis city government, and a neccessary evolution of the [city's work via innovation, engagement, trust, and collaboration](http://www.ci.minneapolis.mn.us/citygoals/index.htm) in the 21st century. It is both the result of a lot of hard work, and the foundation of more work to come from city leaders, city staff, private organizations, and the citizens of Minneapolis.
 
 http://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall_2012_cropped.jpg - IMAGE TO SHRINK AND INCLUDE
 
@@ -32,7 +32,7 @@ More specifically, the policy:
 
 ## Council Discussion and Vote
 
-Despite being the last item for discussion in a fairly lengthy Council meeting, the Open Data Policy prompted some noteable discussion among the City Council. Video of today's City Council meeting is available at <http://mpls.dev.implex.net/?p=1991#>.
+Despite being the last item for discussion in a fairly lengthy Council meeting, the Open Data Policy prompted some noteable discussion among the City Council. Video of yesterday's City Council meeting is available at <http://mpls.dev.implex.net/?p=1991#>.
 
 Even before the policy came up for discussion, Council Member Reich proposed an amendment to the policy as submitted to the City Council ([draft version here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MTM3MzM4MTQzNjA0NjkxNTgwMzUBMDE1NDI4MjQyMDI4NDcwOTcxMzUBRi04Yk1FbXpxNElKATAuMQEBdjI)). Council Member Reich's amendment converted some of the requirements imposed on city departments into advisements. This amendment stemed from Council Member Reich's concern that the Open Data Policy represented an unfunded imposition of actions by one city department onto other city departments. Some of these amendments eventually were included as proposed by Council Member Reich in the voted upon policy, while others were themselves amended by a proposal from Council Chair Glidden to balance the need to not impose unfunded actions on departments with the need to support the Open Data Advisory Group as a means of coordination, lesson sharing, and discussion. The amended and voted upon version of the policy can be [downloaded here](http://www.ci.minneapolis.mn.us/www/groups/public/@clerk/documents/webcontent/wcms1p-128978.pdf).
 
