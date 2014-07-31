@@ -12,7 +12,8 @@ social_image: "http://upload.wikimedia.org/wikipedia/commons/f/f1/Minneapolis_Ci
 
 At about noon yesterday, Minneapolis became the 16th city in the United States to enact an Open Data Policy. This policy is both a significant step forward in the accessibility of Minneapolis city government, and a neccessary evolution of the [city's work via innovation, engagement, trust, and collaboration](http://www.ci.minneapolis.mn.us/citygoals/index.htm) in the 21st century. It is both the result of a lot of hard work, and the foundation of more work to come from city leaders, city staff, private organizations, and the citizens of Minneapolis.
 
-http://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall_2012_cropped.jpg - IMAGE TO SHRINK AND INCLUDE
+![Minneapolis City Hall](/images/posts/2014/07/Minneapolis_City_Hall_750px.jpg)
+<h3><small>Image from <a href="http://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall_2012_cropped.jpg">Wikimedia</a>/<a href="https://www.flickr.com/photos/jason-riedy/7592547842/">Jason Riedy</a> - <a href="https://creativecommons.org/licenses/by/2.0/">License</a></small></h3>
 
 ## What the Policy Does
 
