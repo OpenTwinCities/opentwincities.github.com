@@ -133,8 +133,8 @@ that end, the team is planning to crowd-source phone numbers, URLs, and apps
 that can connect homeless individuals with resources they want or need.
 
 
-<span id="pyladies-web-scrapping"></span>
-### PyLadies Web Scrapping
+<span id="pyladies-web-scraping"></span>
+### PyLadies Web Scraping
 
 - Contact: [Dana Engebretson](https://twitter.com/DanaKE/)
 - [Video](http://vimeo.com/98964771)
