@@ -2,9 +2,7 @@
 category: Events
 layout: event
 title: July Open Work Meetup
-date: 
-  - 2014-07-22T18:00:00.000Z
-  - "Tue Jul 22 2014 13:00:00 GMT-0500 (CDT)"
+date: 2014-07-22 18:00:00
 event_date: 2014-07-22T18:00:00.000Z
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/182131872/"
 venue_name: Metro State Midway Campus
