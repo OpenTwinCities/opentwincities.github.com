@@ -3,6 +3,7 @@ layout: event
 title: January Open Work Meetup
 category: Events
 date: 2014-01-28 18:00:00
+event_date: 2014-01-28 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/154469682/
 venue_name: Hubert H. Humphrey Center 
 venue_location: Room 50, 301 19th Avenue South, Minneapolis, MN 

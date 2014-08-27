@@ -3,6 +3,7 @@ layout: event
 title: Hack for MN 2013 
 category: Events
 date: 2013-06-01 10:00:00
+event_date: 2013-06-01 10:00:00
 rsvp_url: http://hackformn.eventbrite.com/
 venue_name: DevJam Studios
 venue_location: 818 W 46th St Minneapolis, MN

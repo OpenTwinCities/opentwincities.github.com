@@ -3,6 +3,7 @@ layout: event
 title: February Open Work Meetup
 category: Events
 date: 2014-02-25 18:00:00
+event_date: 2014-02-25 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/162995392/
 venue_name: Hubert H. Humphrey Center 
 venue_location: Room 50, 301 19th Avenue South, Minneapolis, MN 

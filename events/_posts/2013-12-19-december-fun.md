@@ -3,6 +3,7 @@ layout: event
 title: December Fun Meetup
 category: Events
 date: 2013-12-19 18:00:00
+event_date: 2013-12-19 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/155784192/
 venue_name: Chatterbox Pub St. Paul
 venue_location: 800 Cleveland Avenue South, Saint Paul, MN 

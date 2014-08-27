@@ -3,6 +3,7 @@ layout: event
 title: Minnneapolis Open Data Policy Discussion
 category: Events
 date: 2014-01-27 18:00:00
+event_date: 2014-01-27 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/159858462/
 venue_name: Minneapolis IT
 venue_location: 310 4th Avenue South – Suite 400, Minneapolis, MN 

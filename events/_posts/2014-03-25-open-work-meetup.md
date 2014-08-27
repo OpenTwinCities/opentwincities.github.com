@@ -3,6 +3,7 @@ layout: event
 title: March Open Work Meetup
 category: Events
 date: 2014-03-25 18:00:00
+event_date: 2014-03-25 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/167840592/ 
 venue_name: Hubert H. Humphrey Center 
 venue_location: Room 50, 301 19th Avenue South, Minneapolis, MN 

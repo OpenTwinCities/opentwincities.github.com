@@ -3,6 +3,7 @@ layout: event
 title: CityCampMN 2013 
 category: Events
 date: 2013-11-09 09:00:00
+event_date: 2013-11-09 09:00:00
 rsvp_url: http://citycampmn2013.eventbrite.com/ 
 venue_name: Schulze Hall, University of St. Thomas 
 venue_location: 1000 Lasalle Avenue, Minneapolis, MN

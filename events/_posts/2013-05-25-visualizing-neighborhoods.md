@@ -3,6 +3,7 @@ layout: event
 title: Visualizing Neighborhoods 
 category: Events
 date: 2013-05-25 10:00:00
+event_date: 2013-05-25 10:00:00
 rsvp_url: http://visualizingneighborhoods.eventbrite.com/
 venue_name: Minneapolis Central Library 
 venue_location: 300 Nicollet Mall, Minneapolis, MN

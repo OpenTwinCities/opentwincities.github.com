@@ -3,6 +3,7 @@ layout: event
 title: August Open Work Meetup
 category: Events
 date: 2013-08-27 18:00:00
+event_date: 2013-08-27 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/134948422/ 
 venue_name: Free Geek
 venue_location: 2537 25th Ave S, Minneapolis, MN

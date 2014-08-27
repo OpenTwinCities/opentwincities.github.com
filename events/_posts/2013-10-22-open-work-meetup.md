@@ -3,6 +3,7 @@ layout: event
 title: October Open Work Meetup
 category: Events
 date: 2013-10-22 18:00:00
+event_date: 2013-10-22 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/134957382/
 venue_name: Hubert H. Humphrey Center 
 venue_location: Room 50, 301 19th Avenue South, Minneapolis, MN

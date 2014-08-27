@@ -5,6 +5,7 @@ title: August Open Work Meetup
 date: 
   - 2014-08-26T18:00:00.000Z
   - "Tue Aug 26 2014 13:00:00 GMT-0500 (CDT)"
+event_date: 2014-08-26T18:00:00.000Z
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/195465532/"
 venue_name: Hubert H. Humphrey Center
 venue_location: "Room 15, 301 19th Avenue South, Minneapolis, MN"

@@ -2,8 +2,8 @@
 category: Events
 layout: event
 title: CURA Housing Forum on Open Data and Rental Housing 
-date: 
-  - 2014-08-04 12:00:00
+date: 2014-08-04 12:00:00
+event_date: 2014-08-04 12:00:00
 rsvp_url: "http://www.cura.umn.edu/forum-signup"
 venue_name: Carlson School of Management
 venue_location: "Room 1-110, 321 19th Avenue South, Minneapolis, MN 55455"

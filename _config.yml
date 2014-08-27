@@ -68,7 +68,7 @@ prose:
         field:
           element: "text"
           label: "Name of the event"
-      - name: "date"
+      - name: "event_date"
         field:
           element: "text"
           label: "Event Date and Time"

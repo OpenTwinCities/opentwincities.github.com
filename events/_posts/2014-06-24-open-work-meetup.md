@@ -3,6 +3,7 @@ layout: event
 title: June Open Work Meetup
 category: Events
 date: 2014-06-24 18:00:00
+event_date: 2014-06-24 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/182131202/ 
 venue_name: Metro State Midway Campus 
 venue_location: Room P, 1450 Energy Park Drive, St. Paul, MN 

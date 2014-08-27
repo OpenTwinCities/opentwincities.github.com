@@ -3,6 +3,7 @@ layout: event
 title: Capitol Code - An Open Data Jam 
 category: Events
 date: 2014-02-22 09:00:00
+event_date: 2014-02-22 09:00:00
 rsvp_url: http://capitolcode.mn.gov 
 venue_name: CoCo Uptown
 venue_location: 1010 W. Lake St., Suite 100, Minneapolis, MN 55408

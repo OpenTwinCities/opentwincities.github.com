@@ -4,6 +4,7 @@ layout: event
 published: true
 title: Open Data at the Theater of Public Policy
 date: 2014-04-14 19:00:00
+event_date: 2014-04-14 19:00:00
 rsvp_url: "http://www.brownpapertickets.com/event/597532"
 related_tag: opendata t2p2
 venue_name: Bryant Lake Bowl
