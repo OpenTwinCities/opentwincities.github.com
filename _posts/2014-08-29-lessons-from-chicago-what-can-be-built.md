@@ -29,29 +29,3 @@ So what can such a healthy and mature civic technology community do? Well, in th
 - [TIF Illumination Project](http://www.tifreports.com/) - Description of Chicago's Tax Increment Financing (TIF) program, changes in the program, and the economic impact the TIF program is having on communities in Chicago
 
 These projects, which cover tech infrastructure, citizen oversight tools, and issue advocacy tools, is just a sample of what Chicago's civic tech community has built and is continuing to build. It might not be possible to list every civic tech project that has come out of Chicago, but if you want to see more Chicago projects, checkout [Open City's projects page](http://opencityapps.org/#projects), [Smart Chicago's projects page](http://www.smartchicagocollaborative.org/projects/), and the [projects page of the Data Science for Social Good program](http://dssg.io/projects/).
-
-## Institutions of the Community
-
-Yes, the Chicago civic tech community has made a lot of things. Yet, what's more impressive than what has been made is who is making it. When people talk about Chicago's civic tech community, what they are usually talking about is a civic tech ecosystem of organizations that span the public, non-profit, and for-profit sectors. 
-
-- [Data Science for Social Good Fellowship](http://dssg.io/) - A summer long fellowship program that invites college and graduate students to create visualization and analysis applications for community projects all across the country
-
-- Weekly Open Gov Hack Nights that draw [75+ civic hackers](https://twitter.com/OpenTwinCities/status/496804923833851904)
-
-
-
-http://datasmart.ash.harvard.edu/news/article/funding-civic-technology-521
-
-http://www.chicagohealthatlas.org/
-
-http://en.wikipedia.org/wiki/Merchandise_Mart#mediaviewer/File:Chicago_River_from_Lake_Street_bridge.jpg
-
-http://www.macfound.org/press/from-field/chicago-launches-first-comprehensive-public-data-dictionary/
-
-http://datadictionary.cityofchicago.org/about.php
-
-http://opencityapps.org/#projects
-
-http://www.webitects.com/
-
-http://datamade.us/
