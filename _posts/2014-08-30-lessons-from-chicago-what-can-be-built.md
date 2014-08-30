@@ -34,7 +34,7 @@ tools, including:
 - [Chicago's Data Dictionary](http://datadictionary.cityofchicago.org/), which catelogs and describes the data (published and not) that City of Chicago agencies have
 - [Connect Chicago](http://weconnectchicago.org/) - A database of locations in Chicago that provide publicly accessible computers
 - [Chicago Works for You](http://chicagoworksforyou.com/) - A daily ward by ward reports on the city's delivery of services
-- [Chicago Lobbiests](http://chicagolobbyists.org/) - Information on the activities, clients, and financing of lobbiests in the City of Chicago
+- [Chicago Lobbyists](http://chicagolobbyists.org/) - Information on the activities, clients, and financing of lobbyists in the City of Chicago
 - [School Cuts](http://www.schoolcuts.org/) - An interactive website about Chicago's decision to close over 100 schools, including criteria for these decisions, statuses of all involved schools, and metrics of all involved schools
 - [TIF Illumination Project](http://www.tifreports.com/) - A description of Chicago's Tax Increment Financing (TIF) program, changes in the program, and the economic impact the TIF program is having on communities in Chicago
 
