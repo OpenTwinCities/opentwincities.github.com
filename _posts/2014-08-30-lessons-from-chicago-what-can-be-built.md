@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false 
+published: true 
 title: "Lessons from Chicago: What Can Be Built"
 author: "<a href=\"https://twitter.com/wbushey\">Bill Bushey</a>"
 social_image: "http://upload.wikimedia.org/wikipedia/commons/9/91/Chicago_River_from_Lake_Street_bridge.jpg"
@@ -35,7 +35,7 @@ tools, including:
 - [Connect Chicago](http://weconnectchicago.org/) - A database of locations in Chicago that provide publicly accessible computers
 - [Chicago Works for You](http://chicagoworksforyou.com/) - A daily ward by ward reports on the city's delivery of services
 - [Chicago Lobbiests](http://chicagolobbyists.org/) - Information on the activities, clients, and financing of lobbiests in the City of Chicago
-- [School Cuts](http://www.schoolcuts.org/) - An interactive website about Chicago's decision to close over 100+, including criteria for these decisions, statuses of all involved schools, and metrics of all involved schools
+- [School Cuts](http://www.schoolcuts.org/) - An interactive website about Chicago's decision to close over 100 schools, including criteria for these decisions, statuses of all involved schools, and metrics of all involved schools
 - [TIF Illumination Project](http://www.tifreports.com/) - A description of Chicago's Tax Increment Financing (TIF) program, changes in the program, and the economic impact the TIF program is having on communities in Chicago
 
 These projects are just a sampling of what Chicago's civic tech community has 
@@ -57,8 +57,8 @@ new public forum in which to learn, discuss, and take action on the core civic
 issues such as education and climate.
 
 A count of apps and websites is often thrown around as the metric of success of
-civic tech. I'll contend that this measure overlooks what civic tech groups are
-really building - a new avenue for passionate civic engagement. This is what 
+civic tech. I'll contend that this measure overlooks civic tech's true 
+potential - to be a new avenue for passionate civic engagement. This is what 
 Chicago has built.
 
 ![Chicago's Open Gov Hack Night Meeting](/images/posts/2014/08/chicago_open_gov_hack_night.jpg)
