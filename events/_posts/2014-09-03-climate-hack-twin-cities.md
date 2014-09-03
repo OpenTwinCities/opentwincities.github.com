@@ -20,11 +20,16 @@ The first half of the event will include a tour of the MIA's new [Nature of Natu
 # Event details
 
 Date: Saturday, Sept. 13
+
 Time: 10am-2pm (Doors will open at 9:30am)
+
 Location: [Hothouse coworking space](http://www.artsjournal.com/speaker/2014/07/announcing-hothouse-exploring-new-ideas-in-co-working-with-the-minneapolis-institute-of-arts/), [Minneapolis Institute of Arts](http://new.artsmia.org/)
+
 2400 Third Avenue South
+
 Minneapolis, MN 55404
-Directions and Parking
+
+[Directions and Parking](http://new.artsmia.org/visit/directions-maps-and-parking/)
 
 # How you can contribute
 
