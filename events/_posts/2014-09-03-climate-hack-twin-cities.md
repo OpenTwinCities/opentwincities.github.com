@@ -1,7 +1,7 @@
 ---
 category: Events
 layout: event
-published: false
+published: true
 title: Climate Hack Twin Cities
 event_date: "2014-09-13 10:00"
 rsvp_url: "http://climatehacktc.eventbrite.com/?aff=otcorg"
