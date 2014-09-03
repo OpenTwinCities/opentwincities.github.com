@@ -55,13 +55,13 @@ Whatever else you make happen!
 
 #Event Agenda
 
-9:30am - Doors Open
-10am - Tour of Nature by Nature MIA exhibit
-10:30am - Introduction to hackathons, conversation about potential outcomes of this event
-11am - for climate people: workshop on working with data
-11am- for hacker people: some context on climate
-11:30am - Lunch
-12:00pm - Unconference: participants design the second half!
+- 9:30am - Doors Open
+- 10am - Tour of Nature by Nature MIA exhibit
+- 10:30am - Introduction to hackathons, conversation about potential outcomes of this event
+- 11am - for climate people: workshop on working with data
+- 11am- for hacker people: some context on climate
+- 11:30am - Lunch
+- 12:00pm - Unconference: participants design the second half!
  
 #Background
 
