@@ -3,11 +3,15 @@ layout: default
 title: Events
 ---
 <ul class="no-bullet post-list">
-{% for event in site.categories.events %} 
-  {% if event.date < site.time %}
+{% assign sorted_events = (site.categories.events | sort: 'event_date', 'last') %}
+{% for event in sorted_events reversed %} 
+
+  {% include set_event_date event=event %}
+
+  {% if event_date < site.time %}
     <li>
         <h2 class="post-title"><a href="{{ event.url }}">{{event.title}}</a></h2>
-        <p class="post-byline">{{ event.date | date: "%A, %B %d - %I:%M %p" }}</p>
+        <p class="post-byline">{{ event_date | date: "%A, %B %d - %I:%M %p" }}</p>
         <p class="post-excerpt">
           {{ event.excerpt }}
         </p>

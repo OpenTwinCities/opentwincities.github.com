@@ -384,9 +384,7 @@ p.footer {
 }
 
 .post-byline{
-  margin: 0 0 1em 0;
-  color: #805233;
-  font-size: 0.9em;
+  margin: 0 0 0 0;
 }
 
 /**
@@ -396,6 +394,16 @@ p.footer {
 .post-list li{
   border-bottom: 1px solid #A2D8DB;
   margin: 1em;
+}
+
+.post-list .post-byline{
+  margin: 0 0 0 0;
+  color: #805233;
+  font-size: 0.9em;
+}
+
+.post-list .post-byline + .post-excerpt{
+  margin-top: 1em;
 }
 
 /**

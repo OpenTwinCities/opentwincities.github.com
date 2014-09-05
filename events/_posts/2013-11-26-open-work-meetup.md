@@ -2,7 +2,6 @@
 layout: event 
 title: November Open Work Meetup
 category: Events
-date: 2013-11-26 18:00:00
 event_date: 2013-11-26 18:00:00
 rsvp_url: http://www.meetup.com/OpenTwinCities/events/134957432/
 venue_name: Hubert H. Humphrey Center 

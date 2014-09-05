@@ -2,19 +2,32 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+                   xmlns:ev="http://purl.org/rss/1.0/modules/event/">
 	<channel>
 		<title>{{ site.name | xml_escape }} - Events</title>
 		<description>Upcoming and previous events held by or promoted by {{ site.name }}</description>		
 		<link>{{ site.url }}</link>
+        <image>
+            <url>http://opentwincities.org/images/logos/otc/otc-o128-brand-stacked.png</url>
+            <title>{{ site.name | xml_escape }} Logo</title>
+		    <link>{{ site.url }}</link>
+        </image>
+        <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<atom:link href="{{ site.url }}/events/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.categories.events limit:10 reversed %}
+        {% assign sorted_events = (site.categories.events | sort: 'event_date', 'last') %}
+        {% assign start = sorted_events | size | minus: 10 %}
+		{% for post in sorted_events reversed offset:start %}
+            {% include set_event_date event=post  %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+                <ev:startdate>{{ event_date  }}</ev:startdate>
+                <ev:location>{% if post.venue_name %}{{ post.venue_name | xml_escape }}{% endif %} {% if post.venue_location %} - {{ post.venue_location | xml_escape }} {% endif %}</ev:location>
 			</item>
 		{% endfor %}
 	</channel>

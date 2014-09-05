@@ -3,7 +3,7 @@ category: Events
 layout: event
 published: true
 title: Climate Hack Twin Cities
-event_date: "2014-09-13 10:00"
+event_date: 2014-09-13 10:00:00
 rsvp_url: "http://climatehacktc.eventbrite.com/?aff=otcorg"
 venue_name: "HotHouse @ Minneapolis Institute of Arts"
 venue_location: "2400 Third Avenue South Minneapolis, MN 55404"

@@ -1,0 +1,5 @@
+  {% if include.event.event_date %}
+    {% assign event_date = include.event.event_date %}
+  {% else %}
+    {% assign event_date = include.event.date %}
+  {% endif %}
