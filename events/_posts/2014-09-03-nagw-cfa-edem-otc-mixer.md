@@ -3,7 +3,7 @@ category: Events
 layout: event
 published: true
 title: Civic Innovation Mixer 
-event_date: "2014-09-13 10:00"
+event_date: "2014-09-10 17:00"
 rsvp_url: "http://civicmixer.eventbrite.com/"
 venue_name: "Amsterdam Bar & Hall"
 venue_location: "6 W 6th St, St Paul, MN 55102"
