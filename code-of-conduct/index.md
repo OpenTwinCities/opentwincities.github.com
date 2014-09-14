@@ -3,17 +3,17 @@ layout: default
 title: Open Twin Cities Code of Conduct 
 ---
 
-# {{page.title}}
+## {{page.title}}
 
 <span id="short"></span>
-## Short
+### Short
 
 Open Twin Cities is dedicated to a harassment-free community and event 
 experience for everyone. Be kind to one another. Do not insult or put down 
 other community members or event attendees. Behave civilly.
 
 <span id="medium"></span>
-## Medium
+### Medium
 
 Open Twin Cities is a community about having fun, exploring ideas, tackling 
 problems, and meeting new people. Though it is more informal than a 
@@ -32,7 +32,7 @@ be sanctioned or expelled from the community or event, without a refund, at
 the discretion of the organizers. 
 
 <span id="long"></span>
-## Long
+### Long
 
 Open Twin Cities is a community about having fun, exploring ideas, tackling 
 problems, and meeting new people. Though it is more informal than a 
@@ -71,7 +71,7 @@ security, contacting local law enforcement, or providing escorts).
 
 We value your membership and in-person attendance.
 
-### Exhibitors and sponsors
+#### Exhibitors and sponsors
 
 Exhibitors or sponsors at community events or online are also subject to the 
 code of conduct. In particular, exhibitors or sponsors should not use 
@@ -84,7 +84,7 @@ the Open Twin Cities community activities, organizers may take appropriate
 action, including warning the offender or breaking of any non-legally-binding
 agreement with no refund.
 
-## Contact Information
+### Contact Information
 
 As of publication of this policy, the Open Twin Cities organizers can be 
 reached via:
@@ -92,7 +92,7 @@ reached via:
 - contact [at] opentwincities.org
 - (612) 568-3889
 
-#### Other relevant contact information. 
+##### Other relevant contact information. 
 
 These are not endorsements, but meant to be an easy place to find immediate help in a situation:
 
@@ -104,7 +104,7 @@ These are not endorsements, but meant to be an easy place to find immediate help
 - Blue and White taxi service: (612) 333-3331
 - [Chey Cab](https://www.facebook.com/cheycab) taxi service: (612) 805-1295
 
-## License
+### License
 
 This anti-harassment policy is based on the example policy from the 
 [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), 
