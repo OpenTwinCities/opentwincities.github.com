@@ -10,11 +10,12 @@ with [Jekyll](http://jekyllrb.com/).
 ## Run locally
 
 1. Install Ruby and NodeJS
-2. ```gem install jekyll redcarpet```
+2. ```gem install bundler```
+2. ```bundle install```
 3. ```jekyll server --watch```
 4. Go to ```http://localhost:4000``` in your web browser.
 
-GitHub runs the close-to-newest release of Jekyll, so be sure to `gem update jekyll` periodically.
+GitHub runs the close-to-newest release of Jekyll, so be sure to `bundle install` often.
 
 This should watch for changes, so there is no need to restart server
 while working on this.  Also, for reference see the [Jekyll install instructions](https://github.com/mojombo/jekyll/wiki/install).
@@ -63,17 +64,15 @@ will be displayed on post listing pages as an excerpt.
 A special type of Post for OTC associated events.
 
 Event posts live in /events/_posts and use the **event** layout. All published
-events will appear in post listing pages *and* event listing pages. Again, the
-first paragraph of a blog post will be displayed on post listing pages as an
-excerpt.
+events will appear in post listing pages (ordered by publication date) *and* 
+event listing pages (ordered by date of the event). Again, the first paragraph 
+of a blog post will be displayed on post listing pages as an excerpt.
 
 ##### Metadata Variables
 
 * title - Name of the event
 * published - If True, the event will be visable to site goers. Otherwise, the
   event is a draft.
-* date - Date and time that the event will take place. This will appear on the
-  event's page and in post listings. Format is YYYY-MM-DD HH:MM:SS
 * rsvp_url - Absolute URL to a webpage that allows the user to register for the
   event. This will appear on the event's page.
 * venue_name - Name of the place that the event is being held at. This will
@@ -86,6 +85,13 @@ excerpt.
 * related_tag (Optional) - If provided, the event's page will list any blog
   posts that have this tag. Useful for gathering all content about an event
   on one page.
+* event_date - Date and time that the event will take place. Format is 
+  YYYY-MM-DD HH:MM:SS, and if set, event_date *must* be in this format or else
+  the site will fail to build. If using Prose.io, this variable must currently 
+  be set via the Raw Metadata field in. If not set, event_date will default to 
+  the date of publication of the event post, and the event will always appear
+  at the top of event lists. This will appear on the event's page and in post 
+  listings. 
 
 #### Everything Else
 
