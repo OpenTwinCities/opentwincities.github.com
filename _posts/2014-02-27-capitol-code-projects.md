@@ -14,6 +14,7 @@ published: true
 *We would like to thank Tech.MN for recording and posting videos of the final 
 project presentations, which are linked to below.*
 
+<span id="ambitor"></span>
 ## Ambitor
 
 - **Most Design Driven**
@@ -29,6 +30,7 @@ data from the
 [Friends of the Boundary Waters Wilderness](http://www.friends-bwca.org/visit/bwcaw/google-earth/),
 and [OpenStreetMap](http://www.openstreet[map.org/#map=7/47.302/-94.219).
 
+<span id="civic-social-media-finder"></span>
 ## Civic Social Media Finder
 
 - **Most Civically Engaging**
@@ -48,6 +50,7 @@ updated by the public, and a
 for a [demo application](http://polar-tor-9146.herokuapp.com/) that maps
 spreadsheet data.
 
+<span id="immigration-to-MN-visualization"></span>
 ## Immigration to MN Visualization
 
 - Contact: [Kristina Durivage](https://twitter.com/gelicia)
@@ -61,6 +64,7 @@ countries of origin for immigrants moving to Minnesota between 1990 and 2010.
 Uses [Immigration Data](http://www.demography.state.mn.us/immigration.htm) from
 the State Demographic Center.
 
+<span id="myciv"></span>
 ## MyCiv
 
 - **Most Whoa...**
@@ -77,6 +81,7 @@ Combines data from the Polling Place Finder
 Office of the Secretary of State Voter Registration Status lookup, and the
 Civic Social Media Finder’s social media map.
 
+<span id="people-of-color-mn"></span>
 ## People of Color MN
 
 - **Most Entrepreneurial**
@@ -91,6 +96,7 @@ Promoting and Supporting People of Color in Business in Minnesota
 * Develop pipeline by matching constituents with economic development opportunities
 * Create and provide mentoring from resident entrepreneurs and business professional
 
+<span id="public-data-ecosystem"></span>
 ## Public Data Ecosystem
 
 - Contact: [David Ching](http://www.linkedin.com/profile/view?id=159829397)
@@ -104,12 +110,14 @@ Store" that allows developers to find all publicly available government APIs in
 the state, and a portal containing templates that end users can apply to APIs
 to view human consumable displays of publicly available government APIs.
 
+<span id="the-trojan-horse-radish"></span>
 ## The Trojan Horse Radish
 
 - **Best Mashup**
 - Contact: [Justin Moen](http://www.linkedin.com/profile/view?id=211096763)
 - [Slides](/files/CapitolCode/Presentations/BestMashup_FoodMapping.pptx)
 - [Video](http://vimeo.com/87373490)
+- [GitHub](https://github.com/jdalt/capitol_code)
 - [Demo](http://www.thetrojanhorseradish.com/)
 
 Mapping tool aggregating food resources in Minnesota. People can find where
@@ -119,6 +127,7 @@ data from the [Department of Natural Resources](http://deli.dnr.state.mn.us/),
 [GardeningMatters.org](http://gardeningmatters.org) and
 [MetroGIS](http://www.datafinder.org/).
 
+<span id="voter-registration"></span>
 ## Voter Registration
 
 - Contact: [Colin Lee](https://twitter.com/colinmlee)
@@ -133,6 +142,7 @@ to help community organizers and political activists identify underrepresented,
 unregistered voters in order to direct registration and political action
 activities.
 
+<span id="voter-wait-time"></span>
 ## Voter Wait Time
 
 - Contact: [Secretary Mark Ritchie](https://twitter.com/mritchie)
