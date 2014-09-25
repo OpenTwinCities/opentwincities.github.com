@@ -8,7 +8,11 @@ rsvp_url: "http://climatehacktc.eventbrite.com/?aff=otcorg"
 venue_name: "HotHouse @ Minneapolis Institute of Arts"
 venue_location: "2400 Third Avenue South Minneapolis, MN 55404"
 social_image: ""
-related_tag: "hackathon, climate"
+related_tag: climatehacktc2014
+tags:
+ - hackathon
+ - climate
+ - climatehacktc2014
 ---
 
 The Hack4Good Hack Against Climate Change is a global event happening around Climate Week NYC and the Sept. 24th UN Summit on Climate Change. In Minneapolis, we're using this event as inspiration to explore the potential for environmental groups and activists to collaborate with the civic tech community to create innovative solutions to climate-related problems using technology.
