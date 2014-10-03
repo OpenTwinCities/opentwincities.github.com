@@ -1,9 +1,9 @@
 ---
 layout: blog
-published: true 
-title: "ClimateHackTC Recap"
+published: true
+title: ClimateHackTC Recap
 author: "<a href=\"https://twitter.com/roxLjohnson\">Roxanne Johnson</a>"
-social_image: "http://opentwincities.org/images/posts/2014/09/to-change-everything.jpg" 
+social_image: "http://opentwincities.org/images/posts/2014/09/to-change-everything.jpg"
 tags: 
   - climatehacktc2014
   - recap
@@ -67,9 +67,9 @@ Andy Walz presented the [Minnesota Solar Suitability Analysis app](http://maps.u
 that won at the [Esri Global Disaster Resilience App Challenge 2014](https://www.hackerleague.org/hackathons/esri-global-disaster-resilience-app-challenge-2014/hacks/minnesota-solar-suitability-analysis-citizen), 
 and [Richard Barnes](https://twitter.com/finog_) talked about [OMG Transit](https://omgtransit.com/),
 [AirStatus](/2014/07/16/hack-for-mn-2014-open-hack-projects/#airstatus), and 
-[My Future Climate](http://myfutureclimate.com/), which actually won the 
-[Hack4Good Personal Impact and Compelling Visualization theme](http://blog.geekli.st/post/97978462607/announcing-12-challenge-theme-winners-hackers-choice) 
-in the global hackathon challenge that inspired this event.
+[My Future Climate](http://myfutureclimate.com/), which actually won [1st Place Overall](http://blog.geekli.st/post/98065680547/the-winning-teams-of-the-geeklist-hack4good-against) and the 
+[Personal Impact and Compelling Visualization category](http://blog.geekli.st/post/97978462607/announcing-12-challenge-theme-winners-hackers-choice) 
+in the Hack4Good hack against Climate Change global hackathon challenge that inspired this event.
 
 ![Jacob Dalton (@jdaltsalt) presenting Trojan Horseradish](/images/posts/2014/09/jacob-trojan-horseradish.jpg)
 
