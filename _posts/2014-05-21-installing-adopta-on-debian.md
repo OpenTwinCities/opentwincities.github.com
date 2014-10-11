@@ -30,7 +30,7 @@ Of course, you'll also need git, and a few required packages for rbenv (build pa
 
 To install all of these, run
 
-    apt-get install postgresql libsqlite3-dev nodejs build-essential libssl-dev libcurl4-openssl-dev libreadline-dev -y
+    apt-get install postgresql libpq-dev libsqlite3-dev nodejs build-essential libssl-dev libcurl4-openssl-dev libreadline-dev -y
 
 ##Setting up the DB
 
