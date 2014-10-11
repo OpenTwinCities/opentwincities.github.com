@@ -46,7 +46,7 @@ Save and close the file. If you have multiple versions of Postgres installed, yo
 
 Finally, run:
 
-    service postfix restart
+    service postgresql restart
 
 ##Get rbenv
 
