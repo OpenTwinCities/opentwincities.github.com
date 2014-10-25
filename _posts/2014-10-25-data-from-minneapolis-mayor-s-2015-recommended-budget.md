@@ -2,6 +2,10 @@
 layout: blog
 published: false
 title: "Data from Minneapolis Mayor's 2015 Recommended Budget"
+tags: 
+  - minneapolis
+  - budget
+  - open data
 ---
 
 In case you haven't seen it yet, Minneapolis Council Member Andrew Johnson [recently shared spreadsheets containing data on Mayor Hodges' recommended 2015 Budget](https://groups.google.com/d/msg/twin-cities-brigade/cfTtrIX1RNU/MnCD4dcXG5oJ) with the Open Twin Cities community. These spreadsheets exist thanks to requests by Council Members Johnson, Elizabeth Glidden, and Cam Gordon, as well as the work of the Finance Department of the City of Minneapolis. The spreadsheets have since been added to Open Twin Cities' data portal, making that data available in a variety of formats, as well as an API.
