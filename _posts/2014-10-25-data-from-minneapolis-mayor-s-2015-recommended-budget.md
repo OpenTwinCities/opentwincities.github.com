@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: "Data from Minneapolis Mayor's 2015 Recommended Budget"
 tags: 
   - minneapolis
