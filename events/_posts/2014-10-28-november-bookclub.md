@@ -2,12 +2,16 @@
 category: Events
 layout: event
 title: November Book Club
-event_date: 2014-11-18 18:00:00
+event_date: {}
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/216121952/"
-venue_name:  
-venue_location: 
+venue_name: null
+venue_location: null
 published: true
 ---
+
+**The November Open Twin Cities Book Club will be co-hosted by the University of Minnesota Center for Urban and Regional Affairs**
+
+![Center for Urban and Regional Affairs](/images/logos/sponsors/cura-logo.jpg)
 
 Civic tech isn't just about coding and designing. There are a lot of great books and articles out there that address society, culture, technology, discrimination, economics, and all those other things we care about. So lets read and talk about some of them.
 
@@ -24,5 +28,4 @@ As usual, food will be provided.
 
 Want to help organize future book clubs? Let us know at <contact@opentwincities.org> 
 
-Got ideas of what to read for future book club meetings? Add them to <https://workflowy.com/shared/7c2f4fb4-41d4-d38d-55c7-ec631e6d0436/> . 
-
+Got ideas of what to read for future book club meetings? Add them to <https://workflowy.com/shared/7c2f4fb4-41d4-d38d-55c7-ec631e6d0436/> .
