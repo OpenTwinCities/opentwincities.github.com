@@ -3,3 +3,4 @@
   {% else %}
     {% assign event_date = include.event.date %}
   {% endif %}
+
