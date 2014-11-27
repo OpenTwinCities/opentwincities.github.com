@@ -11,7 +11,7 @@ description: A group for civic hackers, innovative government employees, and con
 #baseurl: /path/to/blog 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://opentwincities.org/
+url: http://opentwincities.org
 
 # Default image that social media platforms should display with a page from this site
 social_image: http://opentwincities.org/images/logos/otc/otc-o512.png

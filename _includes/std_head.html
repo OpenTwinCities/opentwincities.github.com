@@ -5,10 +5,11 @@
     <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
     <meta property="og:site_name" content="{{ site.name }}"/>
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}"/>
+    <meta property="twitter:card" content="summary" />
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}"/>
 
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    <meta name="twitter:url" content="{{ site.url}}{{ page.url}}"/>
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}"/>
 
     {% if page.path contains '_posts' %}
       <meta property="og:type" content="article"/>
