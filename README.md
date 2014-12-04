@@ -55,7 +55,7 @@ will be displayed on post listing pages as an excerpt.
   some profile is recommended.
 * social_image (Optional) - Absolute URL to an image that social media
   platforms should display with this post. Image should be fairly large (at
-  least 500px square). If not provided, the default image is the OTC logo.
+  least 200px square). If not provided, the default image is the OTC logo.
 * tags (Optional) - Similar to tags on any other blog. Used by other content types to
   list similar posts.
 
