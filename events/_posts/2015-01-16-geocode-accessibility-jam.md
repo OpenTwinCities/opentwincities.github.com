@@ -31,7 +31,7 @@ excerpt: |
 ![Geo:Code Design](/images/posts/2015/01/geocode_designing_598px.jpg)
 
 - [Share Project Ideas and Open Data Requests](http://geocodehc.ideascale.com/)
-- Learn about the February 21st [Geo:Code Code-a-thon](/2015/01/2015-01-16-geocode-codeathon/)
+- Learn about the February 21st [Geo:Code Code-a-thon](/events/2015/01/16/geocode-codeathon/)
 - Visit the [official Geo:Code website](http://www.hennepin.us/geocode)
 
 ## Transparency & Accessibility

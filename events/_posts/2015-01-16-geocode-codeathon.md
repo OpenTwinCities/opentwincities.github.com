@@ -31,7 +31,7 @@ meals will be provided.
 ![Geo:Code Logo](/images/posts/2015/01/geocode-logo-512px.png)
 
 - [Share Project Ideas and Open Data Requests](http://geocodehc.ideascale.com/)
-- Learn about the January 31st [Geo:Code Accessibility Jam](/2015/01/2015-01-16-geocode-accessibility-jam/)
+- Learn about the January 31st [Geo:Code Accessibility Jam](/events/2015/01/16/geocode-accessibility-jam/)
 - Visit the [official Geo:Code website](http://www.hennepin.us/geocode)
 
 ## Transparency & Accessibility
