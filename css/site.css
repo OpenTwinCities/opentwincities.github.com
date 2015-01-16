@@ -134,6 +134,15 @@ div.highlight{
 }
 
 /**
+ * Images
+ */
+#content img,
+.post-excerpt img{
+  margin: 1rem auto;
+  display: block;
+}
+
+/**
  * Hero Section
  */
 
@@ -405,6 +414,8 @@ p.footer {
 .post-list .post-byline + .post-excerpt{
   margin-top: 1em;
 }
+
+
 
 /**
  * Projects
