@@ -10,6 +10,8 @@ with [Jekyll](http://jekyllrb.com/).
 ## Run locally
 
 1. Install Ruby and NodeJS
+    1. If you are using rbenv, do a ```rbenv version``` and ```ruby install``
+       whatever rbenv version reports
 2. ```gem install bundler```
 2. ```bundle install```
 3. ```jekyll server --watch```
