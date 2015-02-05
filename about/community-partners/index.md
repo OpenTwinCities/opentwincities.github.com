@@ -35,6 +35,6 @@ postively impact the lives of Twin Cities residents.
 - Space and programming for the Civic Tech Book Club is provided by CodeWorks
 
 
-### Brewing a Better Forest
+### [Brewing a Better Forest](http://www.brewingabetterforest.com/)
 
 - [Adopt-a-Tree Minneapolis](https://github.com/ballPointPenguin/adopt-a-tree/)
