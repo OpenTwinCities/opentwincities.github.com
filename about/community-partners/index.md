@@ -28,6 +28,7 @@ postively impact the lives of Twin Cities residents.
 #### [Center for Urban and Regional Affairs](http://www.cura.umn.edu/)
 
 - [CURA:Tech](http://www.cura-tech.org/)
+- [Visualizing Neighborhoods](http://www.cura.umn.edu/visualizingneighborhoods)
 - Space at the Humphrey School for our monthly meetups is arranged by CURA
 
 #### [CodeWorks](http://umncodework.github.io/)
