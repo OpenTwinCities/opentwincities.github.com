@@ -38,7 +38,19 @@ for its support of open data.
 <iframe scrolling="no" style="border:0" width="500" height="381" id="GranicusFlashPlayerFrame" src="http://hennepinmn.granicus.com/MediaPlayer.php?clip_id=2106&view_id=10&embed=1&player_width=500&player_height=281&entrytime=3164&stoptime=3206&auto_start=0"></iframe>
 
 The Hennepin County vote is a much quicker affair; the open GIS resolution was
-part of a larger, previously agreed upon consent item.
+part of a larger, previously agreed upon consent item. However, a more 
+significant discussion about the open GIS did occur a week earlier during the 
+Februrary 4th meeting of the Library, Technology & General Government 
+Committee. Video of that discussion is below.
+
+<iframe scrolling="no" style="border:0" width="500" height="381" id="GranicusFlashPlayerFrame" src="http://hennepinmn.granicus.com/MediaPlayer.php?clip_id=2098&view_id=10&embed=1&player_width=500&player_height=281&entrytime=6891&stoptime=7421&auto_start=0"></iframe>
 
 Congratulations and thank you to MetroGIS on everything they've done to reach
 this point.
+
+## Updates
+
+### 2015-02-22
+
+Added video of the February 4th, 2014 Hennepin County Library, Technology & 
+General Government Committee meeting.
