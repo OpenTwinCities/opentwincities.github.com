@@ -38,7 +38,7 @@ of time researching and planning policy and business arguments to present to
 County leadership on why the Broader Needs Assessment tool should be made 
 publicly available.
 
-## Parcels Though Time
+## Parcels Through Time
 
 - Michael Altman
 - Jacob Dalton
@@ -46,23 +46,27 @@ publicly available.
 - Rosie Hoyem
 - Eero Kilkson
 
-Visualizing economic information by parcel in Hennepin County
+We're in a building boom in the Twin Cities. Transit, buildings, and stadiums
+are being constructed everywhere, prompting property owners near all this 
+contruction to ask, what is going to happen to the value and taxes of their
+property? The Parcels Through Time team aimed to find data and build a tool
+that could help owners investigate that question, and did produce a rough
+prototype web application that visualizes and animates the changes in a
+property's valuation over time.
 
-Problem: Can I know if property values have gone up or down over the long term 
+During Geo:Code, the Parcels Through Time team did find useful data for 
+investigating property values over time. Though, in the words of one team 
+member, "thank you for the data, and yes, we want more". The team found that
+the availability and quality of data can differ alot depending on the 
+jurisdiction providing the data, the time frame the data covers, the information
+the data is meant to represent, and more.
 
-Learned tools: QGIS, Leaflet, how to clean and process this data
-Question - is the needed data already there?
-  Yesish - depending on jurisdiction, date, domain, etc...
-  Thank you for the data, and yes, we want more.
-
-County had published a map along the lines of what they were looking for,
-decided to see if they could use data to build their own map with a slider to
-view a map overtime.
-
-Created map of estimated property value change.
-
-Created tool to create a map of animated changes of parcel data. Got a decent
-way into a general tool that will generate these animations of maps.
+This team also looked at existing tools for invetigating property value data
+over time, but they wanted more. More data, more speed, more general. Thus,
+the team started on a prototype of a general, map based, property value 
+explorer capable of visualizing and animating changes in property over time.
+Along the way, team members learned about QGIS, Leaflet, and how to prepare
+data for these tools.
 
 ## Minnesota Bike Ways / The Bike App
 
