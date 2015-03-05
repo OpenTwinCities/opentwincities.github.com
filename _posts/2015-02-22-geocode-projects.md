@@ -1,11 +1,10 @@
 ---
 layout: blog
 published: false 
-title: "Geo:Code 2015 Projects"
+title: Geo:Code 2015 Projects
 tags: 
-  - minneapolis
-  - budget
-  - open data
+  - geocodehc
+  - geocodehc2015
 ---
 
 ## Broader Needs Assessment
@@ -17,27 +16,27 @@ tags:
 - Lindsey Van Klei
 - Deb Grundmanis
 
-Making an existing internal Hennepin County tool publicly usable and accessible
+Often times, the solution to a problem isn't to build a new tool, but to reuse
+an existing tool.
 
-Problem: if a rsident needs a service, they need to visit Hennepin County location
-in person during business hours, very time consuming
+The Broader Needs Assessment team spent the weekend figuring out how to shorten 
+the time residents spend seeking out Hennepin County services. Currently, a
+resident has to travel to a Hennepin County location and speak with a county
+employee to find out what county services they may need or qualify for, and to
+schedule follow up visits - a time consuming process that could be improved 
+upon for many with an online tool. As it turns out, Hennepin County already has
+this tool in the form of an internal Broader Needs Assessment website used by 
+county staff.
 
-Solution: Taking an exisitng Broader Needs Assessment tool that does scheduling
-and needs assessment, and make it public so residents to go thought the process
-itself
-
-Prototype: Images of current BNA available to County 
-
-What was did: Talk about chagnes to BNA for a public version - mobile friendly,
-  more user centered design, device independent, includea analytics on site
-  visitors
-
-  Also talked about future wishlist: Push notifications, geo-fencing, lots of
-  other ideas
-
-  Looked at tools offering some similar services: Ohana, etc...
-
-  Next step: Present idea to Hennepin County for public deployment
+With much of the required technology already being used by Hennepin County, 
+this team focused on figuring out how to make the Broader Needs Assessment tool 
+accessible and useable to the public. This involved defining some technical 
+additions to the tool to be more user friendly, which the team presented at the
+end of the weekend. However, the technical barriers to public access are small
+compared to the administrative barriers. As such, this team spent quite a bit
+of time researching and planning policy and business arguments to present to
+County leadership on why the Broader Needs Assessment tool should be made 
+publicly available.
 
 ## Parcels Though Time
 

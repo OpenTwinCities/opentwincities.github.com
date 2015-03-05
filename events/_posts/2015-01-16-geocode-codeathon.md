@@ -8,9 +8,11 @@ social_image: "http://opentwincities.org/images/posts/2015/01/geocode-logo-1024p
 venue_name: Hennepin County Library - Minneapolis Central 
 venue_location: "300 Nicollet Mall, Minneapolis, MN 55401"
 published: true 
+related_tag: geocodehc2015
 tags:
  - geocode
- - geocode2015
+ - geocodehc
+ - geocodehc2015
  - codeacross
  - opendataday
  - hennepincounty
