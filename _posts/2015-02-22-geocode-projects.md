@@ -77,26 +77,26 @@ data for these tools.
 - Tyler Johnson
 - Dylan Edwards
 
-Bicycle map to help people navigate biking trails and resources
+Biking is strong in the Twin Cities, thanks to miles of trails and lanes, a big 
+community, and lots of bike focused organizations. There are also a number of
+applications out there for bikers, but none that really meet the needs of Twin
+Cities bikers. The Minnesota Bike Ways team set out to fix that, and was able 
+to deploy a responsive prototype baed on Open Street Maps and Leaflet.
 
-Built prototype of mobile responsive site deployed to Heroku
+In building their prototype, the Minnesota Bike Ways team put a lot of thought
+into identifying the needs of Twin Cities bikers, including: 
 
-Problem: There are a lot of apps with data about biking, but wanted a tool that
-  collects that data into a tool tailored to Twin Cities. Also trails provided
-  by lots of different jurisdictions.
+ - Maps of trails and paths from multiple jurisdictions
+ - Locations of Fix-It stations
+ - Information on Nice Ride locations
+ - Trail and path repair and maintenance information
+ - Bike routes by infrastructure
+ - Offline access to directions
 
-Using Open Street Maps (crowd sourced data) and Leaflet
-
-Includes Fix-It stations.
-
-Want to add more info about bike shops, Nice Ride (pretty close to getting that
-into prototype), trail repair & maintenance info, bike routes by infrastructure
-type layered on map, 
-
-Hennepin County is working on getting County bike trails on their open data 
-portal
-
-Looked at Cyclopath, found it very slow in performance
+Addressing many of these needs is now put of future work the team intends to 
+perform on their prototype. In addition, spurred by the work and requests of the
+Minnesota Bike Ways team, Hennepin County is now working to add data on County
+bike trails to their open data portal.
 
 ## Hennepin Mobility App
 
