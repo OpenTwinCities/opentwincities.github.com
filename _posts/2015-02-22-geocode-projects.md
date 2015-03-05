@@ -105,23 +105,26 @@ bike trails to their open data portal.
 - Tom Sayward
 - Donn O'Malley
 
-Yelp for Accessibility
+Datasets that cover locations, transportation, or almost anything, often 
+overlook the needs of people with disabilities. This can make it difficult for
+people with disabilities to plan meetings or visits, and can also prevent the
+operators of buildings or the governments that manage public space from 
+realizing that a given location has accessibility issues.
 
-Found that accessibility attributes are missing for locations. Looking to
-augment existing datasets of locations with accessibility information by building
-a new database with crowd-sourced info on accessibility attributes of locations.
+To address this issue, the Hennepin Mobility App team decided to build a 
+crowd-sourced dataset of their own, and a mobile app to enable Twin Cities 
+residents to use and contribute to this dataset. Their goal is to create a
+dataset that can suplement existing datasets, so that applications (including
+their own app) can pull accessibility data from their dataset and mash it up
+with the information in existing datasets. As the team said, this accessibility
+dataset could cover any location. And by making it crowd-sourced, the Hennepin
+Mobility App team is also creating a Yelp for Accessibility by enabling people
+to comment and vote on locations based on their accessibility.
 
-Idea: send shame emails to locations that get a lot of downvotes based on
-accessibility. Hennepin County data provides existing 
-
-Android prototype includes food shelves, farmers markets, county facilities, etc...
-  Includes graphics for accessibility ratings. Also ability to fetch more 
-  information on lcoations.
-
-Audience would be pretty much anybody in Hennepin County.
-
-Still lots of types of data that can be integrated. Could cover virtually any
-location (public, private, buildings, sidewalks, etc...)
+By the end of the weekend, the team had already put together a prototype
+Android app that included information on food shelves, farmers markets,
+Hennepin County facilities, and more. The prototype also included graphics for
+locations based on their accessibility ratings.
 
 ## Digital Time Travel
 
