@@ -197,33 +197,25 @@ national community of developers who create maps.
 - Dustin Huibregtse,
 - Brad Neuhauser
 
-Mobile responsive website to find free or low-cost activities for kids in
-Hennepin County
+There are a lot of things for families to do in the Twin Cities for low or no
+cost. Yet, these events and organizations can sometimes be hard to find, and
+there currently is no website focused on helping Twin Cities families to find 
+fun and inexpensive activities. The Kids Just Wanna Have Fun team wants to fix
+that by creating a responsive website that helps Twin Cities families find free
+or low-cost activities.
 
-How do you find free or low-cost family activities right now?
+This team spent much of its time focused on designing with an understanding 
+their problem and their users. Thus, the team spent time defining what an 
+"event" is, looking at sites like EventBrite and What's up 612 for inspiration,
+and a lot of brainstorming. The team then organized everything they found and 
+came up with into various sets of principles, needs, and wants for thier 
+application.
 
-Inspired by EventBrite, What's up 612/Sprockets, Padmapper, etc...
-
-Did a lot of brainstorming around examples, types of info, etc...
-
-Organized brainstorming into various principles and need/want
-
-Developed base design principles, want to use as much data as already existing,
-and allow users to submit things.
-
-Spent a lot of time talking about just what an "event" is i.e. one time events
-versous "on-going" events like libraries
-
-Looked at lots of data sources, potential partnerships, created a paper 
-wireframe, then a digital wireframe.
-
-Gotta improve datasets -
-
-Future ideas - app, API, push communications, account profiles, crowdsourcing,
-etc.
-
-folksonomy
-
+With user experience ideas in order, prototyping began. Continuing their focus
+on designing a user experience, the team started with paper prototypes to
+express what they wanted and test out their ideas. From there, the team
+developed a set of digital wireframes to guide future development of their 
+site.
 
 ## Urban Agricultural Suitability
 
