@@ -164,26 +164,29 @@ might prevent or discourage the reuse of historical information.
 - Mitch Schaps
 - Github Page: http://github.com/OpenTwinCities/map-accessibility-guidelines/wiki
 
+At an event named Geo:Code, it's no surprise most of the projects involved a
+map in some way. This is also not surprising given how useful maps can be for
+presenting location based information, especially digital maps that can 
+dynamicly adjust what and how they present. Unfortunately, maps often present 
+usability problems for people with visual impairments, and have thus far seen
+little energy put into improving their accessibility. This team decided to work
+on a set of guidelines for digital maps as a way to prevent these usability
+issues.
 
-Principles to make maps more accessible to visually-impaired, color blind and
-limited mobility users.
+Over the weekend, the Accessibility Guidelines for Maps team looked through
+existing research on accessibility practises and technologies. Out of this
+research came a set of principles for developers wishing to use maps, such as:
 
-Looked through research to create guidelines for developers to make their maps
-as accessible as possible. Found principles that could be applied across multiple
-disability types.
+- make accessibility a developer-side concern
+- consider diverse users
+- don't have a map be your only format for displaying data
+- use simple, high-contrast color schemes
+- use smaller words and bigger text with highly legible typefaces
 
-Researched various usertypes that developers and designers might not consider
-at first. Provided pages focused on some usertypes to help guide developers in
-who to consider.
-
-Placed this information on a set of Github pages
-
-First principle - make accessibility a developer-side concern.
-
-Cosider diverse users, offer both route and map options, don't have a map be
-the only format for data display, use simple, high-contrast color scheme, use
-smaller words and bigger test with highly legible typefaces, error on the side
-of too few layers, display layer data 
+Currently, the team is sharing these principles with developers via a wiki
+on the Open Twin Cities GitHub organization. The team's goal is to eventually
+move this wiki to the Maptime GitHub organization to gain visability in the
+national community of developers who create maps.
 
 ## Kids Just Wanna Have Fun
 
