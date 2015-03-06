@@ -132,18 +132,29 @@ locations based on their accessibility ratings.
 - Marv Bunnell
 - Emmett Davis
 
-A way to view/compare historical imagery, plat maps, historical census data,
-photos, etc.
+There is a lot of historical information out there about locations. For any
+given address in Hennepin County, there might be photographs, plat maps, census
+data, purchase information, construction information, business records, or any
+of a variety of other types of information from the past. This can be extremely
+interesting and useful information about the history of a location. The Digital
+Time Travelers spent the Geo:Code weekend exploring where all of this 
+information is and how it can be investigated.
 
-Given any geographic location, pull information from multiple sources, display
-summaries and provide links to original items. Be able to see a location and
-changes in that location overtime - changes in what was visiable, changes in
-attributes. Thinking this could be useful for geneologists, researchers, social
-science analysts.
+In their exploration, the Digital Time Travelers created a concept for a 
+general historical information investigation web application. Such an 
+application would pull and mash up data from multiple sources to create 
+summaries and displays of historical information about locations. Researchers,
+geneologists, social science analysts, or anybody interested in the history of
+a place would be able to find a location and view information associated with 
+that location, organized by the time.
 
-Found issues with availablity or integrity of past data, evolving location data,
-TOS on data or photographs, APIs across some of these data stores, security
-implications of 
+The Digital Time Travlers discovered some significant issues that would need to
+be addressed before or during the development of their application. Historical
+information about locations is scattered across a lot of organizations, and a 
+lot of media. In many cases, data is currently in non-digital media. They also 
+found that the availability, integrity, and security of data can vary a lot by 
+time, medium, and managing organization. Finally, licensing on available data
+might prevent or discourage the reuse of historical information.
 
 ## Accessibility Guidelines for Maps
 
