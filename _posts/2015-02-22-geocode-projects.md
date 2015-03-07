@@ -221,21 +221,25 @@ site.
 
 - Zach Aaberg
 - Andrew Dahl
+- Application: <http://www.minneapolismn.gov/sustainability/homegrown/vacant/index.htm>
 
-Finding best places for urban gardening in Hennepin County
+Urban farming is an increasingly popular way to produce local food, and a novel
+way to use land that otherwise sits vacant. The [Homegrown Minneapolis Food
+Council](http://www.ci.minneapolis.mn.us/sustainability/homegrown/WCMS1P-130114)
+has been working on policies and tools to promote urban farming in Minneapolis,
+including a tool to help urban farmers, policy makers, and property owners 
+identify suitable vacant lots for urban farming. During Geo:Code, the Urban
+Agricultural Suitability team worked to further build out this tool.
 
-Problem: Which parcels are suitable for urban farming? Goal is to increase the
-amount of urban farming that is occurring in the Twin Cities.
+Over the weekend, this team focused on adding features that would help 
+government officials decide which government owned vacant lots would be good
+candidates for urban farming. This led to the creation of an interactive map of
+vacant lots in Minneapolis, with accompanying information about the size, 
+zoning, estimated market value, and owner of the lot. The map can also be 
+filtered by property type, zoning code, ward, and type of owner.
 
-Trying to convence Minneapolis and Hennepin County argencies to allow for urban
-farming on some of the land they own.
-
-Weekend project was intended more for government officials. Presents a map
-of vacant lots with information parcels, can filter by ward/type/owner.
-
-Created dynamic frontend for investigating this data.
-
-Long term goals - provide info on the suitability of a given vacant lot for
-urban farming, link to state and county data on contamination. Include info
-on fire hydrant locations for watering. Also include solar suitability for 
-parcels.
+The team also created some long term feature goals for the application. To 
+improve on the tool's ability to help individuals and organizations to find
+suitable lots for farming, the team wants to add information from the state and
+county on contamination, add locations of fire hydrants to help in watering, 
+and include data on the solar suitability of a parcel.
