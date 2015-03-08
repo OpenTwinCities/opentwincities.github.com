@@ -7,6 +7,9 @@ tags:
   - geocodehc2015
 ---
 
+Here is a summary of the eight projects that were worked on and presented at
+Hennepin County's 2015 Geo:Code Code-a-thon.
+
 <span id="accessibility_guidelines_for_maps"></span>
 ## Accessibility Guidelines for Maps
 
@@ -79,8 +82,9 @@ publicly available.
 
 - **Team Members**
   - Tom Edwards
-  - Marv Bunnell
   - Emmett Davis
+  - Gabriel Goldstein
+  - Marv Bunnell
 
 There is a lot of historical information out there about locations. For any
 given address in Hennepin County, there might be photographs, plat maps, census
@@ -208,6 +212,7 @@ bike trails to their open data portal.
   - Kristen Murray
   - Rosie Hoyem
   - Eero Kilkson
+- [**Project Reflection**](https://docs.google.com/document/d/1HQrVXMAHidFnxTsU_NKbUB5FWslhmLy-2qJTPS0SOwA/edit)
 
 We're in a building boom in the Twin Cities. Transit, buildings, and stadiums
 are being constructed everywhere, prompting property owners near all this 
