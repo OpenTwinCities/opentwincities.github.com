@@ -10,11 +10,12 @@ tags:
 <span id="accessibility_guidelines_for_maps"></span>
 ## Accessibility Guidelines for Maps
 
-- Alison Link
-- Jessie Wang
-- Liz Puhl
-- Mitch Schaps
-- GitHub Page: http://github.com/OpenTwinCities/map-accessibility-guidelines/wiki
+- **Team Members**
+  - Alison Link
+  - Jessie Wang
+  - Liz Puhl
+  - Mitch Schaps
+- [**GitHub Wiki**](http://github.com/OpenTwinCities/map-accessibility-guidelines/wiki)
 
 At an event named Geo:Code, it's no surprise most of the projects involved a
 map in some way. This is also not surprising given how useful maps can be for
@@ -43,12 +44,13 @@ national community of developers who create maps.
 <span id="broader_needs_assessment"></span>
 ## Broader Needs Assessment
 
-- Erin Callahan
-- Anna Carpenter
-- Tony Hirt
-- Boise Jones
-- Lindsey Van Klei
-- Deb Grundmanis
+- **Team Members**
+  - Erin Callahan
+  - Anna Carpenter
+  - Tony Hirt
+  - Boise Jones
+  - Lindsey Van Klei
+  - Deb Grundmanis
 
 Often times, the solution to a problem isn't to build a new tool, but to reuse
 an existing tool.
@@ -75,9 +77,10 @@ publicly available.
 <span id="digital_time_travel"></span>
 ## Digital Time Travel
 
-- Tom Edwards
-- Marv Bunnell
-- Emmett Davis
+- **Team Members**
+  - Tom Edwards
+  - Marv Bunnell
+  - Emmett Davis
 
 There is a lot of historical information out there about locations. For any
 given address in Hennepin County, there might be photographs, plat maps, census
@@ -106,10 +109,11 @@ might prevent or discourage the reuse of historical information.
 <span id="hennepin_mobility_app"></span>
 ## Hennepin Mobility App
 
-- Brian Nguyen
-- Alan Armstrong
-- Tom Sayward
-- Donn O'Malley
+- **Team Members**
+  - Brian Nguyen
+  - Alan Armstrong
+  - Tom Sayward
+  - Donn O'Malley
 
 Datasets that cover locations, transportation, or almost anything, often 
 overlook the needs of people with disabilities. This can make it difficult for
@@ -135,12 +139,13 @@ locations based on their accessibility ratings.
 <span id="kids_just_wanna_have_fun"></span>
 ## Kids Just Wanna Have Fun
 
-- Mai Xiong
-- Pamela-Rose Virtucio
-- Ashley Schweitzer
-- Sean Guthnecht
-- Dustin Huibregtse
-- Brad Neuhauser
+- **Team Members**
+  - Mai Xiong
+  - Pamela-Rose Virtucio
+  - Ashley Schweitzer
+  - Sean Guthnecht
+  - Dustin Huibregtse
+  - Brad Neuhauser
 
 There are a lot of things for families to do in the Twin Cities for low or no
 cost. Yet, these events and organizations can sometimes be hard to find, and
@@ -165,12 +170,13 @@ site.
 <span id="minnesota_bike_ways"></span>
 ## Minnesota Bike Ways / The Bike App
 
-- Adam Gardner
-- Boyd Johnson
-- Marvin Monsah
-- Kisha Delain
-- Tyler Johnson
-- Dylan Edwards
+- **Team Members**
+  - Adam Gardner
+  - Boyd Johnson
+  - Marvin Monsah
+  - Kisha Delain
+  - Tyler Johnson
+  - Dylan Edwards
 
 Biking is strong in the Twin Cities, thanks to miles of trails and lanes, a big 
 community, and lots of bike focused organizations. There are also a number of
@@ -196,11 +202,12 @@ bike trails to their open data portal.
 <span id="parcels_through_time"></span>
 ## Parcels Through Time
 
-- Michael Altman
-- Jacob Dalton
-- Kristen Murray
-- Rosie Hoyem
-- Eero Kilkson
+- **Team Members**
+  - Michael Altman
+  - Jacob Dalton
+  - Kristen Murray
+  - Rosie Hoyem
+  - Eero Kilkson
 
 We're in a building boom in the Twin Cities. Transit, buildings, and stadiums
 are being constructed everywhere, prompting property owners near all this 
@@ -227,9 +234,10 @@ data for these tools.
 <span id="urban_agricultural_suitability"></span>
 ## Urban Agricultural Suitability
 
-- Zach Aaberg
-- Andrew Dahl
-- Application: <http://www.minneapolismn.gov/sustainability/homegrown/vacant/index.htm>
+- **Team Members**
+  - Zach Aaberg
+  - Andrew Dahl
+- [**Live Web Application**](http://www.minneapolismn.gov/sustainability/homegrown/vacant/index.htm)
 
 Urban farming is an increasingly popular way to produce local food, and a novel
 way to use land that otherwise sits vacant. The [Homegrown Minneapolis Food
