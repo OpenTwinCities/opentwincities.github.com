@@ -11,7 +11,7 @@ Here is a summary of the eight projects that were worked on and presented at
 Hennepin County's 2015 Geo:Code Code-a-thon.
 
 <span id="accessibility_guidelines_for_maps"></span>
-## Accessibility Guidelines for Maps
+##[Accessibility Guidelines for Maps](#accessibility_guidelines_for_maps)
 
 - **Team Members**
   - Alison Link
@@ -45,7 +45,7 @@ move this wiki to the Maptime GitHub organization to gain visibility in the
 national community of developers who create maps.
 
 <span id="broader_needs_assessment"></span>
-## Broader Needs Assessment
+##[Broader Needs Assessment](#broader_needs_assessment)
 
 - **Team Members**
   - Erin Callahan
@@ -78,7 +78,7 @@ County leadership on why the Broader Needs Assessment tool should be made
 publicly available.
 
 <span id="digital_time_travel"></span>
-## Digital Time Travel
+##[Digital Time Travel](#digital_time_travel)
 
 - **Team Members**
   - Tom Edwards
@@ -111,7 +111,7 @@ time, medium, and managing organization. Finally, licensing on available data
 might prevent or discourage the reuse of historical information.
 
 <span id="hennepin_mobility_app"></span>
-## Hennepin Mobility App
+##[Hennepin Mobility App](#hennepin_mobility_app)
 
 - **Team Members**
   - Brian Nguyen
@@ -141,7 +141,7 @@ Hennepin County facilities, and more. The prototype also included graphics for
 locations based on their accessibility ratings.
 
 <span id="kids_just_wanna_have_fun"></span>
-## Kids Just Wanna Have Fun
+##[Kids Just Wanna Have Fun](#kids_just_wanna_have_fun)
 
 - **Team Members**
   - Mai Xiong
@@ -172,7 +172,7 @@ developed a set of digital wireframes to guide future development of their
 site.
 
 <span id="minnesota_bike_ways"></span>
-## Minnesota Bike Ways / The Bike App
+##[Minnesota Bike Ways / The Bike App](#minnesota_bike_ways)
 
 - **Team Members**
   - Adam Gardner
@@ -204,7 +204,7 @@ Minnesota Bike Ways team, Hennepin County is now working to add data on County
 bike trails to their open data portal.
 
 <span id="parcels_through_time"></span>
-## Parcels Through Time
+##[Parcels Through Time](#parcels_through_time)
 
 - **Team Members**
   - Michael Altman
@@ -237,7 +237,7 @@ Along the way, team members learned about QGIS, Leaflet, and how to prepare
 data for these tools.
 
 <span id="urban_agricultural_suitability"></span>
-## Urban Agricultural Suitability
+##[Urban Agricultural Suitability](#urban_agricultural_suitability)
 
 - **Team Members**
   - Zach Aaberg
