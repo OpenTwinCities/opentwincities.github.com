@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false 
+published: true 
 title: Geo:Code 2015 Projects
 tags: 
   - geocodehc
@@ -194,7 +194,7 @@ national community of developers who create maps.
 - Pamela-Rose Virtucio
 - Ashley Schweitzer
 - Sean Guthnecht
-- Dustin Huibregtse,
+- Dustin Huibregtse
 - Brad Neuhauser
 
 There are a lot of things for families to do in the Twin Cities for low or no
