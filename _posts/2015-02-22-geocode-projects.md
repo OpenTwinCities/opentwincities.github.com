@@ -30,7 +30,7 @@ county staff.
 
 With much of the required technology already being used by Hennepin County, 
 this team focused on figuring out how to make the Broader Needs Assessment tool 
-accessible and useable to the public. This involved defining some technical 
+accessible and usable to the public. This involved defining some technical 
 additions to the tool to be more user friendly, which the team presented at the
 end of the weekend. However, the technical barriers to public access are small
 compared to the administrative barriers. As such, this team spent quite a bit
@@ -48,7 +48,7 @@ publicly available.
 
 We're in a building boom in the Twin Cities. Transit, buildings, and stadiums
 are being constructed everywhere, prompting property owners near all this 
-contruction to ask, what is going to happen to the value and taxes of their
+construction to ask, what is going to happen to the value and taxes of their
 property? The Parcels Through Time team aimed to find data and build a tool
 that could help owners investigate that question, and did produce a rough
 prototype web application that visualizes and animates the changes in a
@@ -57,11 +57,11 @@ property's valuation over time.
 During Geo:Code, the Parcels Through Time team did find useful data for 
 investigating property values over time. Though, in the words of one team 
 member, "thank you for the data, and yes, we want more". The team found that
-the availability and quality of data can differ alot depending on the 
+the availability and quality of data can differ a lot depending on the 
 jurisdiction providing the data, the time frame the data covers, the information
 the data is meant to represent, and more.
 
-This team also looked at existing tools for invetigating property value data
+This team also looked at existing tools for investigating property value data
 over time, but they wanted more. More data, more speed, more general. Thus,
 the team started on a prototype of a general, map based, property value 
 explorer capable of visualizing and animating changes in property over time.
@@ -81,7 +81,7 @@ Biking is strong in the Twin Cities, thanks to miles of trails and lanes, a big
 community, and lots of bike focused organizations. There are also a number of
 applications out there for bikers, but none that really meet the needs of Twin
 Cities bikers. The Minnesota Bike Ways team set out to fix that, and was able 
-to deploy a responsive prototype baed on Open Street Maps and Leaflet.
+to deploy a responsive prototype based on Open Street Maps and Leaflet.
 
 In building their prototype, the Minnesota Bike Ways team put a lot of thought
 into identifying the needs of Twin Cities bikers, including: 
@@ -114,7 +114,7 @@ realizing that a given location has accessibility issues.
 To address this issue, the Hennepin Mobility App team decided to build a 
 crowd-sourced dataset of their own, and a mobile app to enable Twin Cities 
 residents to use and contribute to this dataset. Their goal is to create a
-dataset that can suplement existing datasets, so that applications (including
+dataset that can supplement existing datasets, so that applications (including
 their own app) can pull accessibility data from their dataset and mash it up
 with the information in existing datasets. As the team said, this accessibility
 dataset could cover any location. And by making it crowd-sourced, the Hennepin
@@ -144,11 +144,11 @@ In their exploration, the Digital Time Travelers created a concept for a
 general historical information investigation web application. Such an 
 application would pull and mash up data from multiple sources to create 
 summaries and displays of historical information about locations. Researchers,
-geneologists, social science analysts, or anybody interested in the history of
+genealogists, social science analysts, or anybody interested in the history of
 a place would be able to find a location and view information associated with 
 that location, organized by the time.
 
-The Digital Time Travlers discovered some significant issues that would need to
+The Digital Time Travelers discovered some significant issues that would need to
 be addressed before or during the development of their application. Historical
 information about locations is scattered across a lot of organizations, and a 
 lot of media. In many cases, data is currently in non-digital media. They also 
@@ -162,19 +162,19 @@ might prevent or discourage the reuse of historical information.
 - Jessie Wang
 - Liz Puhl
 - Mitch Schaps
-- Github Page: http://github.com/OpenTwinCities/map-accessibility-guidelines/wiki
+- GitHub Page: http://github.com/OpenTwinCities/map-accessibility-guidelines/wiki
 
 At an event named Geo:Code, it's no surprise most of the projects involved a
 map in some way. This is also not surprising given how useful maps can be for
 presenting location based information, especially digital maps that can 
-dynamicly adjust what and how they present. Unfortunately, maps often present 
+dynamically adjust what and how they present. Unfortunately, maps often present 
 usability problems for people with visual impairments, and have thus far seen
 little energy put into improving their accessibility. This team decided to work
 on a set of guidelines for digital maps as a way to prevent these usability
 issues.
 
 Over the weekend, the Accessibility Guidelines for Maps team looked through
-existing research on accessibility practises and technologies. Out of this
+existing research on accessibility practices and technologies. Out of this
 research came a set of principles for developers wishing to use maps, such as:
 
 - make accessibility a developer-side concern
@@ -185,7 +185,7 @@ research came a set of principles for developers wishing to use maps, such as:
 
 Currently, the team is sharing these principles with developers via a wiki
 on the Open Twin Cities GitHub organization. The team's goal is to eventually
-move this wiki to the Maptime GitHub organization to gain visability in the
+move this wiki to the Maptime GitHub organization to gain visibility in the
 national community of developers who create maps.
 
 ## Kids Just Wanna Have Fun
@@ -208,7 +208,7 @@ This team spent much of its time focused on designing with an understanding
 their problem and their users. Thus, the team spent time defining what an 
 "event" is, looking at sites like EventBrite and What's up 612 for inspiration,
 and a lot of brainstorming. The team then organized everything they found and 
-came up with into various sets of principles, needs, and wants for thier 
+came up with into various sets of principles, needs, and wants for their 
 application.
 
 With user experience ideas in order, prototyping began. Continuing their focus
