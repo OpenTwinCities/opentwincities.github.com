@@ -50,10 +50,10 @@ national community of developers who create maps.
 - **Team Members**
   - Erin Callahan
   - Anna Carpenter
+  - Deb Grundmanis
   - Tony Hirt
   - Boise Jones
-  - Lindsey Van Klei
-  - Deb Grundmanis
+  - [Lindsey Van Klei](https://www.linkedin.com/pub/lindsey-van-klei/3a/431/a7b)
 
 Often times, the solution to a problem isn't to build a new tool, but to reuse
 an existing tool.
@@ -114,10 +114,10 @@ might prevent or discourage the reuse of historical information.
 ##[Hennepin Mobility App](#hennepin_mobility_app)
 
 - **Team Members**
-  - Brian Nguyen
   - Alan Armstrong
+  - Brian Nguyen
+  - [Donn O'Malley](http://donnomalley.omalleyland.com/)
   - Tom Sayward
-  - Donn O'Malley
 
 Datasets that cover locations, transportation, or almost anything, often 
 overlook the needs of people with disabilities. This can make it difficult for
@@ -198,7 +198,7 @@ into identifying the needs of Twin Cities bikers, including:
  - Bike routes by infrastructure
  - Offline access to directions
 
-Addressing many of these needs is now put of future work the team intends to 
+Addressing many of these needs is now part of future work the team intends to 
 perform on their prototype. In addition, spurred by the work and requests of the
 Minnesota Bike Ways team, Hennepin County is now working to add data on County
 bike trails to their open data portal.
