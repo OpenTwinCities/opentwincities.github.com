@@ -47,6 +47,13 @@ browsing. Datasets from the following organizations are listed:
 * US Census
 * Center for Urban and Regional Affairs at the University of Minnesota
 
+### City of Minneapolis Open Data Portal
+
+<http://opendata.minneapolismn.gov/>
+
+The City of Minneapolis' general purpose open data portal, created as part of
+the city's 2014 [Open Data Policy](/2014/07/31/minneapolis-passes-open-data-policy/).
+
 ### City of Minneapolis GIS Data Portal
 
 <http://cityoflakes.maps.arcgis.com/home/index.html>
@@ -84,6 +91,14 @@ To address these concerns, the Open Twin Cities community has worked
 together to convert Hennepin County's provided Geodatabase files into GeoJSON
 and Shapefiles, and [dbSpatial](http://dbspatial.com) has provided space to
 host these converted files.
+
+### State of Minnesota Department of Health Data Access
+
+<https://apps.health.state.mn.us/mndata/>
+
+Includes health and environmental data for each county, as well as statewide
+data on specific health and environmental factors. Site includes interactive
+maps, data querying tools, and CSV downloads.
 
 ### State of Minneosta Geospatial Commons
 

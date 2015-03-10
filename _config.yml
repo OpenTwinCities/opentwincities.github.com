@@ -25,6 +25,7 @@ permalink: pretty
 # Use a better Markdown parser
 markdown: redcarpet
 
+exclude: [vendor]
 timezone: nil 
 
 prose:
