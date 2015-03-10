@@ -32,3 +32,8 @@ As usual, food will be provided.
 Want to help organize future book clubs? Let us know at <contact@opentwincities.org> 
 
 Got ideas of what to read for future book club meetings? Add them to <https://workflowy.com/shared/7c2f4fb4-41d4-d38d-55c7-ec631e6d0436/> .
+
+## Update
+
+Adja has provided a link to the Prezi she used during the November Book Club.
+[Click here to see her Prezi on Systems of Inequity](http://prezi.com/g7rw8fafc1vb/).
