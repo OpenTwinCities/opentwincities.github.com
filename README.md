@@ -12,10 +12,11 @@ with [Jekyll](http://jekyllrb.com/).
 1. Install Ruby and NodeJS
     1. If you are using rbenv, do a ```rbenv version``` and ```ruby install``
        whatever rbenv version reports
-2. ```gem install bundler```
-2. ```bundle install```
-3. ```jekyll server --watch```
-4. Go to ```http://localhost:4000``` in your web browser.
+2. Install OpenSSL dev files: ```sudo apt-get install libssl-dev```
+3. ```gem install bundler```
+4. ```bundle install```
+5. ```jekyll server --watch```
+6. Go to ```http://localhost:4000``` in your web browser.
 
 GitHub runs the close-to-newest release of Jekyll, so be sure to `bundle install` often.
 
