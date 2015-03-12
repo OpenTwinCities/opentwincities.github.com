@@ -1,7 +1,7 @@
 ---
 layout: blog
-published: true 
-title: Geo:Code 2015 Projects
+published: true
+title: "Geo:Code 2015 Projects"
 tags: 
   - geocodehc
   - geocodehc2015
@@ -14,7 +14,7 @@ Hennepin County's 2015 Geo:Code Code-a-thon.
 ##[Accessibility Guidelines for Maps](#accessibility_guidelines_for_maps)
 
 - **Team Members**
-  - Alison Link
+  - [Alison Link](https://twitter.com/linkalis)
   - Jessie Wang
   - Liz Puhl
   - Mitch Schaps
