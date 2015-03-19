@@ -117,7 +117,7 @@ might prevent or discourage the reuse of historical information.
   - Alan Armstrong
   - Brian Nguyen
   - [Donn O'Malley](http://donnomalley.omalleyland.com/)
-  - Tom Sayward
+  - [Tom Sayward](http://www.linkedin.com/in/thomassayward)
 
 Datasets that cover locations, transportation, or almost anything, often 
 overlook the needs of people with disabilities. This can make it difficult for
