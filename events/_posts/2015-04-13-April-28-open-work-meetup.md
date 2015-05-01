@@ -39,6 +39,15 @@ School? Well this month we're trying something new - we're going to record
 Steven's presentation! If all works out, we'll have a video of this 
 presentation to share with everybody after the meetup.
 
+#### Update - MP3 of Steve's Presentation
+
+Well, everything didn't quite work out, and we lost the video of Steve's
+presentation. However, we did save the audio of Steve's Poplus presentation!
+
+You can listen to the MP3 below. You can also [download the MP3 from SoundCloud](https://soundcloud.com/opentwincities/steven-clift-presentation-on-poplus-at-open-twin-cities).
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/203487029&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 ### Projects
 
 If you're looking for project ideas, checkout: 
