@@ -17,9 +17,9 @@ We'll be having our monthly open work meetup again at the Humphrey School on
 May 26th at 6pm. Bring yourself, your skills, your passion, and your ideas.
 We'll bring pizza.
 
-![Laura Andersen](/images/posts/2015/05/la.jpg)
-
 ### The Service Design in Government Conference with Laura Andersen
+
+![Laura Andersen](/images/posts/2015/05/la.jpg)
 
 In March 2015, Laura Andersen, Open Twin Cities Civic Design Lead, attended the 
 Service Design in Government conference in London, England. Government 
