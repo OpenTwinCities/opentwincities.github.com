@@ -17,6 +17,12 @@ We'll be having our monthly open work meetup again at the Humphrey School on
 May 26th at 6pm. Bring yourself, your skills, your passion, and your ideas.
 We'll bring pizza.
 
+### Update
+
+Unfortunately, Laura was sick the evening of this meetup, so her presentation
+on the Service Design in Government Conference did not occur. We plan to
+reschedule this for a future meetup.
+
 ### The Service Design in Government Conference with Laura Andersen
 
 ![Laura Andersen](/images/posts/2015/05/la.jpg)
