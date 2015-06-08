@@ -224,25 +224,49 @@ div.highlight{
   width: 160px;
 }
 
-#info .partners{
-  float: left;
-  margin: 0 2em 0 0;
+#info .newsletter{
+  margin: 0 0 0.8rem;
+}
+
+#info .newsletter .columns{
+  padding: 0;
+  margin: 0;
+}
+
+#info .newsletter form{
+  margin: 0;
+}
+
+#info .newsletter .email{
+  width: 100%;
+  margin: 0;
+}
+
+#info .newsletter .button{
+  box-shadow: none;
+  margin-bottom: 0;
+  padding:0 0.2rem;
+  height: 2.3125rem; 
+  border: 1px solid #CCC;
+  background-color: #333;
 }
 
 #info .join{
-  padding: 0 0 0 2em;
-  border-left: 1px solid #DDD;
-  float: right;
+  padding: 0.4rem 0 0;
+  margin-top: 0.4rem;
+  border-top: 1px solid #DDD;
 }
 
 .join ul{
   margin-bottom:0;
+  text-align: center;
 }
 
 .join ul > li {
   line-height:1em;
-  margin: 0.2em 0;
-  font-size: 1.4em;
+  margin: 0.2em 0.5em;
+  font-size: 2.5em;
+  display: inline-block;
 }
 
 .join ul > li > a {
@@ -354,7 +378,12 @@ div.footer {
 
 p.footer {
   margin-top: 1em;
-  text-align: right;
+  text-align: center;
+}
+
+p.footer img{
+  margin-right: 1rem;
+  margin-left: 1rem;
 }
 
 #socialColumn{
@@ -517,14 +546,14 @@ p.footer {
   }
 
   #info .join ul > li{
-    font-size: 1.2em;
+    font-size: 2.5em;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     display: inline-block;
-    margin: 0.6em 0.4em;
+    margin: 0.6em 0.2em;
   }
 
   #info .join ul > li > a{
-    padding: 0.4em;
+    padding: 0.3em;
     text-decoration: underline;
   }
 
