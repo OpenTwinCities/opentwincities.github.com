@@ -653,6 +653,10 @@ p.footer img{
     min-width: 0;
   }
 
+  #info .newsletter .email{
+    margin-bottom: 0.5rem;
+  }
+
   #info .meetup a{
     max-width: none;
   }
