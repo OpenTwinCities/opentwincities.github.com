@@ -228,17 +228,26 @@ div.highlight{
   margin: 0 0 0.8rem;
 }
 
-#info .newsletter .columns{
+#info .newsletter .email,
+#info .newsletter .submit_button{
   padding: 0;
   margin: 0;
 }
 
-#info .newsletter form{
-  margin: 0;
+#info .newsletter .email{
+  display: inline;
+  min-width: 200px;
+  width: 75%;
+  padding: 0 0.5rem;
 }
 
-#info .newsletter .email{
-  width: 100%;
+#info .newsletter .submit_button{
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+}
+
+#info .newsletter form{
   margin: 0;
 }
 
@@ -247,8 +256,9 @@ div.highlight{
   margin-bottom: 0;
   padding:0 0.2rem;
   height: 2.3125rem; 
-  border: 1px solid #CCC;
+  border: none;
   background-color: #40372F;
+  width: 100%;
 }
 
 #info .join{
@@ -633,6 +643,14 @@ p.footer img{
 
   #title .verbage{
     float: none;
+  }
+
+  #info .newsletter .email,
+  #info .newsletter .submit_button{
+    width: 100%;
+    text-align: center;
+    display: block;
+    min-width: 0;
   }
 
   #info .meetup a{
