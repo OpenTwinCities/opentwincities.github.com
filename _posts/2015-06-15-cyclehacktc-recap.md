@@ -1,7 +1,13 @@
-#CycleHack Twin Cities#
-by [Roxanne Johnson](https://twitter.com/roxLjohnson)
+---
+layout: blog
+published: true
+title: CycleHack Twin Cities Recap
+tags: 
+ - cyclehacktc2015
+ author: "<a href=\"https://twitter.com/roxLjohnson\">Roxanne Johnson</a>"
+ ---
 
-![Start of Hack Day](/images/cyclehacktc_2015/HF_RD.jpg)
+![Start of Hack Day](/images/posts/2015/06/cyclehacktc_2015/HF_RD.jpg)
 *Start of the hack day, photo by [Rob Davis](https://twitter.com/robfargo)*
 
 Saturday June 20th was the first annual Twin Cities CycleHack event. [CycleHack](http://www.cyclehack.com) started in 2014 in Glasgow, Scotland 
