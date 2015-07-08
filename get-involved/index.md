@@ -1,0 +1,186 @@
+---
+layout: default
+title: Get Involved 
+---
+
+## {{page.title}}
+
+Open Twin Cities is full of opportunities for you to help the Twin Cities! Do 
+you know anything about the following? Do you want to learn? Click and find out 
+how you can get involved with a project or with organizing Open Twin Cities.
+
+<dl class="toggling">
+  <dt><h3>Community Management</h3></dt>
+  <dd>
+    <p>
+      Community is the heart of Open Twin Cities. Hundreds of civicly concerned
+      residents are part of the Open Twin Cities community. To support this
+      community and serve the Twin Cities, Open Twin Cities needs to know who
+      is part of this community, ask community members what they want, and help
+      community members find projects and events to take part in.
+    </p>
+    <p>
+      Do you want to help manage a community of concerned and talented Twin
+      Citi-eans? Have ideas on how to do this? Know of tools that can help?
+      Please make a post to the {%include forum_link%} or send an email to
+      {%include contact_email_link %}.
+    </p>
+  </dd>
+  <dt><h3>Have Ideas</h3></dt>
+  <dd>
+    <p>
+      The Open Twin Cities community lives on issues and new ideas to discuss, 
+      share, design, create, and test.
+    </p>
+    <p>
+      Do you have a rough idea that you'd like to talk over? Looking for advice
+      on how to start a new project? Wonder what is possible? Have an idea 
+      you'd like to turn into a prototype or a project? Join us at our next 
+      <a href="/events">meetup or event</a>, or send a post to the {%include forum_link%}.
+    </p>
+  </dd>
+  <dt><h3>Plan Events/Host Meetups</h3></dt>
+  <dd>
+    <p>
+      Events and meetups are the heart of what Open Twin Cities does. Some are
+      big and some are small. Some happen every month, some happen every year, 
+      and some happen only once. We hold all kinds of events: open work meetups, 
+      presentations, hackathons, service jams, book clubs, project focused work 
+      nights, unconferences, discussions, and more. We hold events with partners 
+      like Hennepin County and the Center for Urban and Regional Affairs. 
+      Sometimes, we help groups start whole new events. We beleive more events 
+      are more opportunities for new ideas, discussions, solutions, and 
+      connections. And we want to hold more events.
+    </p>
+    <p> 
+      Events and meetups are full of opportunities to get involved as a host, 
+      a facilitator, a planner, an organizer, or a connector. Send an email to
+      {%include contact_email_link%}, come to our next 
+      <a href="/events">event</a>, or send a post to the {%include forum_link%}
+      to find out how you can get involved in a future Open Twin Cities event.
+    </p>
+  </dd>
+  <dt><h3>Project Management</h3></dt>
+  <dd>
+    <p>
+      Projects that succeed - that are worked on and create a tool that gets
+      used - have a person who faciltates things getting done by organizing the
+      project. A person who turns ideas, bugs, and feature requests into 
+      concrete tasks. A person who prioritizes these tasks. A person who knows
+      who does what on the project. A person who welcomes newcomers to the 
+      project and helps to get them setup (or points them to others who can 
+      help them get setup).
+    </p>
+    <p>
+      Do you like to organize projects? Let us know by sending an email
+      to {%include contact_email_link%}, coming to our next 
+      <a href="/events">event</a>, or sending a post to the 
+      {%include forum_link%}! We'll be happy to connect you with a project in
+      need of some order.
+    </p>
+  </dd>
+  <dt><h3>Programming</h3></dt>
+  <dd>
+    <p>
+      Most Open Twin Cities projects involve programming in someway, whether
+      it's writing code or talking about what is possible. If you know how to
+      code, there are plenty of opportunties to clone repos and start 
+      committing. For example, here are three currently open tickets you can
+      work on right now:
+    </p>
+    <iframe src="https://www.codeforamerica.org/geeks/civicissues/widget?organization_name=Open-Twin-Cities&number=3" width="100%" height="600" frameBorder="0"></iframe>
+    <p>
+      You can also checkout the {%include projects_link%} and look
+      for projects that match your interests or your languages of choice.
+    </p>
+    <p>
+      Want to start committing some code? If you've found a ticket, post a 
+      comment, fork the project, read the README, and write some code. If you've
+      found a project, contact the project's manager to find out how to help.
+      If you're still looking, come to our next <a href="/events">event</a>, or
+      send an email to {%include contact_email_link%}.
+    </p>
+  </dd>
+  <dt><h3>Research</h3></dt>
+  <dd>
+    <p>
+      Open Twin Cities projects and events are often about complicated issues
+      that prompt a lot of questions. Who is effected by an issue, and how?
+      Which organizations, government bodies, and people are familiar with the
+      issue? What have they learned? What other cities and states have faced 
+      the issue? What solutions have they tried (tech or otherwise)? Can we use
+      what they learned? What else should we know?
+    </p>
+    <p>
+      Answering these questions and others leads to events and projects that
+      have far greater impact in the Twin Cities. Do you know how to research
+      questions, public policy issues, or technologies? Do you want to help the
+      Twin Cities? Then take a look at the {%include projects_link%}, and make 
+      a post to the {%include forum_link%}. Or, send an email to 
+      {%include contact_email_link %} to find out how to help out. 
+    </p>
+  </dd>
+  <dt><h3>Share News</h3></dt>
+  <dd>
+    <p>
+      There is **a lot** happening in the Twin Cities, in open government, and
+      in civic tech. Each month brings all kinds of new events, datasets,
+      tools, ideas, policies, and questions that members of Open Twin Cities
+      want to hear about. By helping to share all of this news, you can help
+      to connect members with issues, ideas, and events they care about.
+    </p>
+    <p>
+      Open Twin Cities has media tools to help you share news, including an
+      email list of 500+, a Meetup of 350+, 900+ followers on Twitter, as well
+      as active Facebook, Youtube, and Flickr accounts.
+    </p>
+    <p>
+      Helping to share news can be simple as sending some tweets or as 
+      ambitious as creating communications strategies. If you're interested
+      in doing either of these, or anything in between, shoot us an email at
+      {%include contact_email_link%} or make at post to the {%include forum_link%}.
+      Informing people of all the great happenings is a fantastic way to help
+      your Twin Cities.
+    </p>
+  </dd>
+  <dt><h3>Story Telling</h3></dt>
+  <dd>
+    <p>
+      The Open Twin Cities community is always doing awesome stuff. Since 2012,
+      there have been dozens of events with all types of government and private
+      partners. We've seen countless ideas proposed and dozens of projects
+      worked on. Collaborations and startups have formed. We've helped to shape
+      city policy and inspired a state initiative to end veteran homelessness.
+      OTCers have done a lot, and there's no sign that we're slowing down any
+      time soon.
+    </p>
+    <p>
+      Everything mentioned above, and everything to come, is a story. We've 
+      written some of those stories, but there are countless others just 
+      waiting to be told. If you like to tell stories, be it in writing,
+      in audio, or with video, and you'd like to help tell a great civic tech 
+      story, please send an email to {%include contact_email_link%} or make a
+      post to the {%include forum_link%}. Every new story helps us to highlight the
+      great work of OTCers, and helps a wider audience to understand just what
+      civic technology and open government are.
+    </p>
+  </dd>
+  <dt><h3>UX Design</h3></dt>
+  <dd>
+    <p>
+      Great civic tech is well designed to fit the needs of a variety of users,
+      complement organizational processes, and meet users at their abilities.
+      Great civic tech is designed to be intuative despite the complex 
+      processes and organizations behind it. Designing great civic tech is 
+      challenging and rewarding; it's a great opportunity hone your design 
+      skills and be part of something important.
+    </p>
+    <p>
+      To have a real local impact, most of the ideas and events that the Open
+      Twin Cities community takes part in requires user experience designers.
+      If you're a designer who wants to be part of a project, or a future
+      event, please send an email to {%include contact_email_link%} or make
+      a post to the {%include forum_link%}.
+    </p>
+  </dd>
+</dl>
