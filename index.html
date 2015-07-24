@@ -20,6 +20,12 @@ title: Home
             {% endif %}
             <p class="post-excerpt">
             {{ post.excerpt }}
+
+            {% if post.social_image %}
+              <div>
+                <img src="{{post.social_image}}"/>
+              </div>
+            {% endif %}
             </p>
           </li>
         {% endfor %}
