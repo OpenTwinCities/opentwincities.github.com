@@ -4,7 +4,7 @@ layout: event
 title: August 25th Open Work Meetup
 event_date: 2015-08-25 18:00:00
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/224341209/"
-venue_name: Hubert H. Humphrey Center 
+venue_name: Hubert H. Humphrey Center - Room 50
 venue_location: "301 19th Avenue South, Minneapolis, MN"
 excerpt: |
   We'll be having our monthly open work meetup again at the Humphrey School on
