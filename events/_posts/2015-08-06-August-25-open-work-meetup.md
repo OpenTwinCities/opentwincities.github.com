@@ -13,6 +13,15 @@ We'll be having our monthly open work meetup again at the Humphrey School on
 August 25th at 6pm. Bring yourself, your skills, your passion, and your ideas.
 We'll bring pizza.
 
+### Elections Tech with the City Clerk of Minneapolis
+
+The 2016 election is over a year away, but the City of Minneapolis is already 
+planning for November 8, 2016. We're excited to welcome **Casey Carl, City Clerk of Minneapolis**, 
+to the meetup to have a discussion about tools and ideas for the 2016 election.
+Know of any great technologies other cities are using for elections? Have an 
+idea for something new to make voting better? Come and brainstorm elections 
+tech with Casey!
+
 ### Code of Conduct
 
 As with any event hosted by Open Twin Cities, our [Code of Conduct](/about/code-of-conduct/) 
