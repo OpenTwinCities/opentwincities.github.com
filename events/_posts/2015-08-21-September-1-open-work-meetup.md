@@ -12,7 +12,7 @@ excerpt: |
   on how to help St. Paul residents get to know their candidates. At this meetup,
   we're going to focus on two projects that will help St. Paulites connect with 
   people running for office: <strong>Crowd Sourcing Candidate Information</strong>
-  and settign up the <strong>Your Next Representative</strong> project.
+  and checkoug out the <strong>Your Next Representative</strong> project.
 
 ---
 
@@ -38,9 +38,11 @@ people running for office:
   meetup searching and filling in the missing information. Scour the internet,
   have some food, and make a great contribution to informed elections in
   St. Paul!
-- **Try out Your Next Representative**: For those looking to play with servers
-  and python, we'll also be taking a look at MySociety's [Your Next Representative](https://github.com/mysociety/yournextrepresentative) project.
-  Let's try to get this running on laptops and AWS, and poke around a bit.
+- **Try out Your Next Representative**: For those looking to play with python 
+  and HTML, we'll also be taking a look at MySociety's [Your Next Representative](https://github.com/mysociety/yournextrepresentative) project.
+  [DataMade](http://datamade.us/) is going to setup an instance for the Twin 
+  Cities. So let's poke around a bit and see if there anything we want to 
+  change.
 
 #### Join the Conversation Today
 
