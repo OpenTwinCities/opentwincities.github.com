@@ -112,6 +112,19 @@ div.highlight{
 }
 
 /**
+ * Other Clickables
+ **/
+
+dl.toggling dt{
+  cursor: pointer;
+}
+
+
+dl.toggling dt * i{
+  margin-left: 0.5em;
+  font-size: 0.8em;
+}
+/**
  * Combine foundation icons
  */
 [class*="social foundicon-"]:before {
