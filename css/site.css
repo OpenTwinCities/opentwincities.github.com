@@ -490,6 +490,10 @@ p.footer img{
   margin-top: 2em;
 }
 
+.sponsors-list li img{
+  max-width: 250px;
+}
+
 .sponsorLogo{
   padding-bottom: 20px;
   padding-top: 20px;
