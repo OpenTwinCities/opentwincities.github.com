@@ -4,10 +4,12 @@ layout: event
 title: September 22nd Open Work Meetup
 event_date: 2015-09-22 18:00:00
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/wdhgklytmbdc/"
-venue_name: Hubert H. Humphrey Center - Room 50
-venue_location: "301 19th Avenue South, Minneapolis, MN"
+venue_name: Anderson Hall - Room 110 
+venue_location: "257 19th Avenue South, Minneapolis, MN"
 published: true 
 ---
+
+**We're moving a couple of buildings over this month! Join us in Anderson Hall.**
 
 We'll be having our monthly open work meetup again at the Humphrey School on
 September 22nd at 6pm. Bring yourself, your skills, your passion, and your ideas.
