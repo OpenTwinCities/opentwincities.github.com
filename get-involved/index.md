@@ -10,7 +10,10 @@ you know anything about the following? Do you want to learn? Click and find out
 how you can get involved with a project or with organizing Open Twin Cities.
 
 <dl class="toggling">
-  <dt><h3>Community Management</h3></dt>
+  <dt>
+    <h3>Community Management</h3>
+    <p>Are you a volunteer coordinator?</p>
+  </dt>
   <dd>
     <p>
       Community is the heart of Open Twin Cities. Hundreds of civicly concerned
@@ -26,7 +29,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       {%include contact_email_link %}.
     </p>
   </dd>
-  <dt><h3>Have Ideas</h3></dt>
+  <dt>
+    <h3>Have Ideas</h3>
+    <p>Are you a person?</p>
+  </dt>
   <dd>
     <p>
       The Open Twin Cities community lives on issues and new ideas to discuss, 
@@ -39,7 +45,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       <a href="/events">meetup or event</a>, or send a post to the {%include forum_link%}.
     </p>
   </dd>
-  <dt><h3>Plan Events/Host Meetups</h3></dt>
+  <dt>
+    <h3>Plan Events/Host Meetups</h3>
+    <p>Want to facilitate groups, or host events?</p>
+  </dt>
   <dd>
     <p>
       Events and meetups are the heart of what Open Twin Cities does. Some are
@@ -60,7 +69,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       to find out how you can get involved in a future Open Twin Cities event.
     </p>
   </dd>
-  <dt><h3>Project Management</h3></dt>
+  <dt>
+    <h3>Project Management</h3>
+    <p>Are you a PM? Want to agile?</p>
+  </dt>
   <dd>
     <p>
       Projects that succeed - that are worked on and create a tool that gets
@@ -79,7 +91,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       need of some order.
     </p>
   </dd>
-  <dt><h3>Programming</h3></dt>
+  <dt>
+    <h3>Programming</h3>
+    <p>Are you a programmer?</p>
+  </dt>
   <dd>
     <p>
       Most Open Twin Cities projects involve programming in someway, whether
@@ -101,7 +116,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       send an email to {%include contact_email_link%}.
     </p>
   </dd>
-  <dt><h3>Research</h3></dt>
+  <dt>
+    <h3>Research</h3>
+    <p>Are you a market researcher? A policy wonk? An academic? A Googler?</p>
+  </dt>
   <dd>
     <p>
       Open Twin Cities projects and events are often about complicated issues
@@ -120,7 +138,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       {%include contact_email_link %} to find out how to help out. 
     </p>
   </dd>
-  <dt><h3>Share News</h3></dt>
+  <dt>
+    <h3>Share News</h3>
+    <p>Do you know how to communicate?</p>
+  </dt>
   <dd>
     <p>
       There is **a lot** happening in the Twin Cities, in open government, and
@@ -143,7 +164,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       your Twin Cities.
     </p>
   </dd>
-  <dt><h3>Story Telling</h3></dt>
+  <dt>
+    <h3>Story Telling</h3>
+    <p>Are you a writer? A journalist?</p>
+  </dt>
   <dd>
     <p>
       The Open Twin Cities community is always doing awesome stuff. Since 2012,
@@ -165,7 +189,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       civic technology and open government are.
     </p>
   </dd>
-  <dt><h3>UX Design</h3></dt>
+  <dt>
+    <h3>UX Design</h3>
+    <p>Are you a service designer? A UX designer?</p>
+  </dt>
   <dd>
     <p>
       Great civic tech is well designed to fit the needs of a variety of users,
