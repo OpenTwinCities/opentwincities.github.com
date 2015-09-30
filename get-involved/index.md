@@ -144,7 +144,7 @@ how you can get involved with a project or with organizing Open Twin Cities.
   </dt>
   <dd>
     <p>
-      There is **a lot** happening in the Twin Cities, in open government, and
+      There is <em>a lot</em> happening in the Twin Cities, in open government, and
       in civic tech. Each month brings all kinds of new events, datasets,
       tools, ideas, policies, and questions that members of Open Twin Cities
       want to hear about. By helping to share all of this news, you can help
