@@ -25,8 +25,8 @@ how you can get involved with a project or with organizing Open Twin Cities.
     <p>
       Do you want to help manage a community of concerned and talented Twin
       Citi-eans? Have ideas on how to do this? Know of tools that can help?
-      Please make a post to the {%include forum_link%} or send an email to
-      {%include contact_email_link %}.
+      You can get started by posting some survey questions to the 
+      {%include forum_link%}! 
     </p>
   </dd>
   <dt>
@@ -63,10 +63,8 @@ how you can get involved with a project or with organizing Open Twin Cities.
     </p>
     <p> 
       Events and meetups are full of opportunities to get involved as a host, 
-      a facilitator, a planner, an organizer, or a connector. Send an email to
-      {%include contact_email_link%}, come to our next 
-      <a href="/events">event</a>, or send a post to the {%include forum_link%}
-      to find out how you can get involved in a future Open Twin Cities event.
+      a facilitator, a planner, an organizer, or a connector. Come to our next 
+      <a href="/events">event</a> and you can start hosting and facilitating! 
     </p>
   </dd>
   <dt>
@@ -84,11 +82,10 @@ how you can get involved with a project or with organizing Open Twin Cities.
       help them get setup).
     </p>
     <p>
-      Do you like to organize projects? Let us know by sending an email
-      to {%include contact_email_link%}, coming to our next 
-      <a href="/events">event</a>, or sending a post to the 
-      {%include forum_link%}! We'll be happy to connect you with a project in
-      need of some order.
+      Do you like to organize projects? Show us what you can do; take a look at
+      the {%include projects_link%}, pick a project, and post your organizing ideas 
+      to the {%include forum_link%}! We'll be happy to connect you with a project 
+      in need of some order.
     </p>
   </dd>
   <dt>
@@ -156,10 +153,11 @@ how you can get involved with a project or with organizing Open Twin Cities.
       as active Facebook, Youtube, and Flickr accounts.
     </p>
     <p>
-      Helping to share news can be simple as sending some tweets or as 
+      Helping to share news can be as simple as sending some tweets or as 
       ambitious as creating communications strategies. If you're interested
-      in doing either of these, or anything in between, shoot us an email at
-      {%include contact_email_link%} or make at post to the {%include forum_link%}.
+      in doing either of these, or anything in between, tweet at us at 
+      <a href="https://twitter.com/OpenTwinCities">@OpenTwinCities</a>, 
+      or make a post to the {%include forum_link%}.
       Informing people of all the great happenings is a fantastic way to help
       your Twin Cities.
     </p>
@@ -183,8 +181,8 @@ how you can get involved with a project or with organizing Open Twin Cities.
       written some of those stories, but there are countless others just 
       waiting to be told. If you like to tell stories, be it in writing,
       in audio, or with video, and you'd like to help tell a great civic tech 
-      story, please send an email to {%include contact_email_link%} or make a
-      post to the {%include forum_link%}. Every new story helps us to highlight the
+      story, you can get started by posting a short story about you and civic 
+      tech to {%include forum_link%}. Every new story helps us to highlight the
       great work of OTCers, and helps a wider audience to understand just what
       civic technology and open government are.
     </p>
