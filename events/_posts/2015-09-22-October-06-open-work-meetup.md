@@ -3,7 +3,7 @@ category: Events
 layout: event
 title: October 6th Open Work Meetup
 event_date: 2015-10-06 18:00:00
-meetup_id: 225408814
+meetup_event_id: 225408814
 venue_name: GovDelivery 
 venue_location: "408 St. Peter Street, Suite 600, Saint Paul, MN 55102"
 published: true 
