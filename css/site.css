@@ -80,21 +80,25 @@ div.highlight{
  * Buttons
  */
 
-.button{
-  color: #FFF;
-  border: 0.2em solid #FFF;
+.button,
+.mu-widget a.mu-rsvp-btn {
+  color: #FFF !important;
+  border: 0.2em solid #FFF !important;
   font-family: "Quicksand";
   font-weight: 700 !important;
   text-align: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  padding: 1.0625rem 2rem 1rem !important;
 }
 
-.red.button{
+.red.button,
+.mu-widget a.mu-rsvp-btn.red.button:link{
   background: linear-gradient(to bottom, #e7401a 0%,#a53917 100%);
   transition: none;
 }
 
-.red.button:hover{
+.red.button:hover,
+.mu-widget a.mu-rsvp-btn.red.button:hover{
   background: #e7401a;
 }
 
@@ -446,6 +450,16 @@ p.footer img{
 
 .post-byline{
   margin: 0 0 0 0;
+}
+
+.post-byline.rsvp{
+  padding: 1em 1em 0;
+}
+
+.post-byline.rsvp .button,
+.post-byline.rsvp .mu-widget,
+.post-byline.rsvp .mu-widget .button{
+  width: 100%;
 }
 
 /**
