@@ -245,35 +245,35 @@ dl.toggling dt * i{
   margin: 0 0 0.8rem;
 }
 
-#info .newsletter .email,
-#info .newsletter .submit_button{
+.newsletter .email,
+.newsletter .submit_button{
   padding: 0;
   margin: 0;
 }
 
-#info .newsletter .email{
+.newsletter .email{
   display: inline;
   min-width: 200px;
   width: 75%;
   padding: 0 0.5rem;
 }
 
-#info .newsletter .submit_button{
+.newsletter .submit_button{
   display: inline-block;
   width: 24%;
   text-align: center;
 }
 
-#info .newsletter form{
+.newsletter form{
   margin: 0;
 }
 
-#info .newsletter .button{
+.newsletter .button{
   box-shadow: none;
   margin-bottom: 0;
-  padding:0 0.2rem;
+  padding:0 0.2rem !important;
   height: 2.3125rem; 
-  border: none;
+  border: none !important;
   background-color: #40372F;
   width: 100%;
 }
@@ -309,47 +309,62 @@ dl.toggling dt * i{
   display:none;
 }
 
-.meetup {
+/* Specific heros  */
+
+.hero .meetup,
+.hero .newsletter_prompt{
   border-radius: 25px;
   margin-top:2.5em;
   margin-bottom: 2.5em;
   padding: 1.25em;
-  padding-bottom: 0;
   background: rgba(255,255,255,0.5);
 }
 
-.meetup p {
+.hero .meetup{
+  padding-bottom: 0;
+}
+
+.hero .meetup p,
+.hero .newsletter_prompt{
   font-family: 'Quicksand';
   font-weight: bold;
   line-height: 1;
 }
 
-.meetup .time{
+.hero .meetup .time{
   font-size: 1.2em;
   margin-bottom: 0;
 }
 
-.meetup .day {
+.hero .meetup .day {
   font-size: 2.5em;
   line-height: 1em;
   margin-bottom:0;
 }
 
-.meetup .place{
+.hero .meetup .place{
   font-size: 1.5em;
   margin-bottom: 0;
   padding-left: 1em;
   text-indent: -1em;
 }
 
-.meetup .place a{
+.hero .meetup .place a{
   color: #805233;
 }
 
-.meetup .button {
+.hero .meetup .button {
   width: 100%;
   margin-top:.5em;
   font-size: 1.2em;
+}
+
+.hero .newsletter_prompt .newsletter .email, 
+.hero .newsletter_prompt .newsletter .submit_button {
+    width: 100%;
+    text-align: center;
+    display: block;
+    min-width: 0px;
 }
 
 /**
