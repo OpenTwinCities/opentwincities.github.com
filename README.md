@@ -76,8 +76,10 @@ of a blog post will be displayed on post listing pages as an excerpt.
 * title - Name of the event
 * published - If True, the event will be visable to site goers. Otherwise, the
   event is a draft.
+* meetup_id - ID of an associated Meetup event. If this is provided, a Meetup
+  RSVP button will appear on the event's page.
 * rsvp_url - Absolute URL to a webpage that allows the user to register for the
-  event. This will appear on the event's page.
+  event. If meetup_id isn't provided, this will appear on the event's page.
 * venue_name - Name of the place that the event is being held at. This will
   appear on the event's page.
 * venue_location - Address (ideally full physical address) that this event will
