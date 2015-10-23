@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: true
-title: Government Data Amicus Brief 
+title: Government Metadata Amicus Brief 
 tags: 
  - dpa
  - foia
