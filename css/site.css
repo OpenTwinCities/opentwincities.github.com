@@ -557,6 +557,18 @@ p.footer img{
   max-height: 100px;
 }
 
+/* GTMD15 */
+.k_messagingProfile,
+.k_footer{
+  display: none !important;
+}
+
+.groupLabel,
+.k_navigationSpan{
+  text-align: center;
+  margin-top: .5em !important;
+}
+
 /* Large */
 @media only screen and (min-width: 64em){
   #meetup{
