@@ -19,34 +19,6 @@ title: Home
             {% endif %}
             <p class="post-excerpt">
             {{ post.excerpt }}
-      
-            {% if post.social_image %}
-              <div>
-                <img src="{{post.social_image}}"/>
-              </div>
-            {% endif %}
-            </p>
-          </li>
-        {% endfor %}
-      </ul>
-      <p style="text-align:center"><a href="/posts/">View All Posts</a> - <a href="/feed.xml"><i class="fi-rss"></i></a></p> 
-      <ul class="no-bullet post-list">
-        {% for post in site.posts limit:5 %}
-          <li>
-            <h2 class="post-title">
-              <a href="{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <p class="post-byline">
-              <b>Published</b>: {{ post.date | date_to_string }} {%if post.author %}<b>By</b>: {{ post.author }}{% endif %}
-            </p>
-            {% if post.categories contains 'events' %}
-              {% include set_event_date event=post %}
-              <p class="post-byline">
-                <b>Event Date and Time</b>: {{ event_date | date: "%A, %B %d - %I:%M %p" }}
-              </p>
-            {% endif %}
-            <p class="post-excerpt">
-            {{ post.excerpt }}
 
             {% if post.social_image %}
               <div>
