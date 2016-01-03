@@ -10,7 +10,8 @@ venue_location: "300 Nicollet Mall, Minneapolis, MN 55401"
 published: true 
 tags:
  - geocode
- - geocode2015
+ - geocodehc
+ - geocodehc2015
  - accessibility
  - servicedesign
  - codeacross

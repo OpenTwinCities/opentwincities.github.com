@@ -3,6 +3,7 @@ layout: blog
 published: true
 title: "Geo:Code 2015 Projects"
 tags: 
+  - geocode
   - geocodehc
   - geocodehc2015
 ---
