@@ -136,6 +136,9 @@ projects, it is worth noting that many non-profit and for-profit organizations
 also support the public good, and that projects from these sectors or that work 
 with these sectors may fit within 'civic tech'.
 
+**Thank you to [Alison Link](https://twitter.com/linkalis) and
+[Kelly Clausen](https://twitter.com/cre8ivecubed) for your input and edits.**
+
  [1]: http://www.buildwith.org/
  [2]: https://www.youtube.com/watch?v=ZR5JMxp-ejw
  [3]: https://medium.com/@grodeska/civictech-primer-what-is-civic-tech-7ea788e766d3#.wgherslwq
