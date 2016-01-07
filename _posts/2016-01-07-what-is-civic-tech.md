@@ -97,7 +97,7 @@ tool development. To me, this is the most important element of civic tech.
 > Good tools respond to the ever changing world to connect people with what 
 > they need and want.
 
-While we am aware that tools are but a part of a larger system connecting people
+While we are aware that tools are but a part of a larger system connecting people
 with public services and each other, we also recognize the impact the quality
 of these tools can have on that connection. The brief history of public
 services on the Internet is replete with examples of poorly constructed tools
