@@ -4,6 +4,7 @@ published: true
 title: What is Civic Tech? 
 tags: 
  - civic tech 
+social_image: http://www.opentwincities.org/images/posts/2015/11/bad-development.png 
 author: "<a href=\"https://twitter.com/wbushey\">Bill Bushey</a>"
 ---
 
