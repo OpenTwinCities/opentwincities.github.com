@@ -4,7 +4,7 @@ layout: event
 title: Hennepin County Geo:Code Accessibility Jam 
 event_date: 2015-01-31 09:00:00
 rsvp_url: "http://geocodehcaccessibilityjam.eventbrite.com/?aff=otce"
-social_image: "http://opentwincities.org/images/posts/2015/01/geocode_designing.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2015/01/geocode_designing.jpg"
 venue_name: Hennepin County Library - Minneapolis Central 
 venue_location: "300 Nicollet Mall, Minneapolis, MN 55401"
 published: true 

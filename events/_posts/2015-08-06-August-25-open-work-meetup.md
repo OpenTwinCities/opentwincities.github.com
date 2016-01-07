@@ -4,7 +4,7 @@ layout: event
 title: August 25th Open Work Meetup
 event_date: 2015-08-25 18:00:00
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/224341209/"
-social_image: "http://opentwincities.org/images/posts/2015/08/election_booths.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2015/08/election_booths.jpg"
 venue_name: Hubert H. Humphrey Center - Room 50
 venue_location: "301 19th Avenue South, Minneapolis, MN"
 excerpt: |

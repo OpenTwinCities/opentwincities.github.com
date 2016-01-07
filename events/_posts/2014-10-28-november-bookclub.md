@@ -6,7 +6,7 @@ event_date: 2014-11-18 18:00:00
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/216121952/"
 venue_name: "African Development Center" 
 venue_location: "1931 South 5th Street, Minneapolis, MN"
-social_image: "http://opentwincities.org/images/posts/2014/10/adja_gildersleve.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2014/10/adja_gildersleve.jpg"
 published: true
 ---
 

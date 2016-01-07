@@ -4,7 +4,7 @@ layout: event
 title: Hennepin County Geo:Code Code-a-thon
 event_date: 2015-02-21 09:00:00
 rsvp_url: "http://geocodehc.eventbrite.com/?aff=otce"
-social_image: "http://opentwincities.org/images/posts/2015/01/geocode-logo-1024px.png"
+social_image: "http://www.opentwincities.org/images/posts/2015/01/geocode-logo-1024px.png"
 venue_name: Hennepin County Library - Minneapolis Central 
 venue_location: "300 Nicollet Mall, Minneapolis, MN 55401"
 published: true 

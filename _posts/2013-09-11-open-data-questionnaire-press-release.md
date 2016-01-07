@@ -32,7 +32,7 @@ analyze, build upon, and reuse” says Open Twin Cities Co-Captain Bill Bushey.
 
 Candidates will have until October 1st to respond to the questionnaire. Shortly
 thereafter, Open Twin Cities will share the results of candidate responses with
-local media and on <http://opentwincities.org>. The questionnaire can be seen
+local media and on <http://www.opentwincities.org>. The questionnaire can be seen
 at <http://bit.ly/MplsOpenDataQuestions>, along with a cover letter and an Open
 Data FAQ.
 

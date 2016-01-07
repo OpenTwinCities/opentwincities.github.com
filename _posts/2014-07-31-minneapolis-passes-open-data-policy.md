@@ -8,7 +8,7 @@ tags:
   - minneapolis
   - legislation
   - minneapolisOpenDataPolicy
-social_image: "http://opentwincities.org/images/posts/2014/07/Minneapolis_City_Hall_750px.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2014/07/Minneapolis_City_Hall_750px.jpg"
 ---
 
 At about noon yesterday, Minneapolis became the 16th city in the United States to enact an Open Data Policy. This policy is both a significant step forward in the accessibility of Minneapolis city government, and a necessary evolution of the [city's work via innovation, engagement, trust, and collaboration](http://www.ci.minneapolis.mn.us/citygoals/index.htm) in the 21st century. It is both the result of a lot of hard work, and the foundation of more work to come from city leaders, city staff, private organizations, and the citizens of Minneapolis.

@@ -9,7 +9,7 @@ tags:
   - Capitol Code
 ---
 
-David Ching came to <a href="http://capitolcode.mn.gov/" target="_blank">Capitol Code Open Data Jam</a>, hosted by the <a href="http://www.sos.state.mn.us/" target="_blank">Minnesota Office of the Secretary of State</a> and <a href="http://opentwincities.org/" target="_blank">Open Twin Cities</a> to network and engage with the local civic tech community. He elected to work on a project pitched to develop a Public Data Ecosystem; part of which included the delivery of a catalog of all government data APIs and datasets known as the <a href="http://prezi.com/bcz4m35brttp/capitol-code-22214/" target="_blank">API Store</a>.
+David Ching came to <a href="http://capitolcode.mn.gov/" target="_blank">Capitol Code Open Data Jam</a>, hosted by the <a href="http://www.sos.state.mn.us/" target="_blank">Minnesota Office of the Secretary of State</a> and <a href="http://www.opentwincities.org/" target="_blank">Open Twin Cities</a> to network and engage with the local civic tech community. He elected to work on a project pitched to develop a Public Data Ecosystem; part of which included the delivery of a catalog of all government data APIs and datasets known as the <a href="http://prezi.com/bcz4m35brttp/capitol-code-22214/" target="_blank">API Store</a>.
  
 As a serial entrepreneur with over 35 years experience in technology and a doctorate in civil engineering from the University of Minnesota, it’s not surprising Dave is now gravitating toward dedicating his time and talent to exploring one of the most pressing government tech challenges we’re facing: access to public data.
  

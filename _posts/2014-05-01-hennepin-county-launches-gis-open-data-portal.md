@@ -2,7 +2,7 @@
 layout: blog
 published: true
 title: Hennepin County Launches GIS Open Data Portal
-social_image: http://opentwincities.org/images/posts/Big_Hennepin_logo__2009.jpg
+social_image: http://www.opentwincities.org/images/posts/Big_Hennepin_logo__2009.jpg
 tags: 
   - open data
   - open gis

@@ -4,7 +4,7 @@ layout: event
 title: CycleHack Twin Cities 2015 
 event_date: 2015-06-19 19:00:00
 rsvp_url: "https://cyclehack-twin-cities-2015.eventbrite.com/" 
-social_image: "http://opentwincities.org/images/posts/2015/06/cyclehacktc-logo-circle.png"
+social_image: "http://www.opentwincities.org/images/posts/2015/06/cyclehacktc-logo-circle.png"
 venue_name: The Hack Factory 
 venue_location: "3119 East 26th Street, Minneapolis, MN 55406"
 published: true 

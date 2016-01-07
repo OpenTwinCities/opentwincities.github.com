@@ -2,7 +2,7 @@
 category: Events
 layout: event
 title: Brewing A Better Forest Code for a Cause 
-social_image: "http://opentwincities.org/images/posts/2015/08/brewing-a-better-forest.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2015/08/brewing-a-better-forest.jpg"
 event_date: 2015-08-06 18:00:00
 rsvp_url: "https://docs.google.com/a/umn.edu/forms/d/1mEMc6TQ__iWLw1WZqDy0_M3RFPPDCUDCCQUyX1nkXj8/viewform?usp=send_form"
 venue_name: 612 Brew 

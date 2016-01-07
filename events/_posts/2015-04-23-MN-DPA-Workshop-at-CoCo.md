@@ -20,7 +20,7 @@ to the public, unless a statute or rule provides otherwise.
 ![Open Government Wordle](http://cdn.evbuc.com/images/13023127/1039702325/1/logo.png)
 
 Join [Tech.MN](http://tech.mn), the [Minnesota Coalition on Government Information (MNCOGI)](http://www.mncogi.org/about-us/), 
-and [Open Twin Cities](http://opentwincities.org) on Monday, May 11th from 
+and [Open Twin Cities](http://www.opentwincities.org) on Monday, May 11th from 
 6:30pm to 8:00pm at CoCo for a DPA workshop.
 
 This free workshop will provide an overview of the DPA as it relates to your 

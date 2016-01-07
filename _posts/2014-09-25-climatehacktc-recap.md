@@ -3,7 +3,7 @@ layout: blog
 published: true
 title: ClimateHackTC Recap
 author: "<a href=\"https://twitter.com/roxLjohnson\">Roxanne Johnson</a>"
-social_image: "http://opentwincities.org/images/posts/2014/09/to-change-everything.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2014/09/to-change-everything.jpg"
 tags: 
   - climatehacktc2014
   - recap

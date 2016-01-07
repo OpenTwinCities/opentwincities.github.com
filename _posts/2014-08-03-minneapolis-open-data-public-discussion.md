@@ -8,7 +8,7 @@ tags:
   - minneapolis
   - legislation
   - minneapolisOpenDataPolicy
-social_image: "http://opentwincities.org/images/posts/2014/07/Minneapolis_City_Hall_750px.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2014/07/Minneapolis_City_Hall_750px.jpg"
 ---
 
 The proposed, and now adopted, Minneapolis Open Data Policy has prompted a number of individuals and organizations to talk about the policy.

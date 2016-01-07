@@ -9,7 +9,7 @@ layout: none
 		<description>Upcoming and previous events held by or promoted by {{ site.name }}</description>		
 		<link>{{ site.url }}</link>
         <image>
-            <url>http://opentwincities.org/images/logos/otc/otc-o128-brand-stacked.png</url>
+            <url>http://www.opentwincities.org/images/logos/otc/otc-o128-brand-stacked.png</url>
             <title>{{ site.name | xml_escape }} Logo</title>
 		    <link>{{ site.url }}</link>
         </image>
