@@ -24,7 +24,7 @@ discuss “civic tech”.
 So, what is "civic tech" for Open Twin Cities?
 
 > Civic tech is a set of processes involving deep engagement with diverse 
-> stakeholders for creating effective tools in support of public services.
+> stakeholders for creating effective tools in support of the public good.
 
 There is a lot packed into this one sentence. Let's take some time to dig into 
 these words.
@@ -59,7 +59,7 @@ each other. They better understand each other's motivations, needs, and assets.
 This deep engagement is where true collaboration starts, as disparate groups 
 learn to work together and co-create solutions to the problems they face.
 
-Civic tech works on public services with a wide range of providers serving an 
+Civic tech works on services with a wide range of providers serving an 
 incredible variety of individuals. This provides an incredible opportunity to 
 build partnerships, create dialogue among many perspectives, think ideas not 
 possible in isolation, and empower all to take part in creating solutions.
@@ -97,8 +97,8 @@ tool development. To me, this is the most important element of civic tech.
 > Good tools respond to the ever changing world to connect people with what 
 > they need and want.
 
-While we are aware that tools are but a part of a larger system connecting people
-with public services and each other, we also recognize the impact the quality
+While we are aware that tools are but a part of a larger system connecting
+people with services and each other, we also recognize the impact the quality
 of these tools can have on that connection. The brief history of public
 services on the Internet is replete with examples of poorly constructed tools
 that have prevented people from connecting with their governments or obtaining
@@ -119,7 +119,7 @@ this leads to service initiatives that are more successful because they make
 use of tools that more effectively support the goals, needs, and strategies of 
 the service and its users.
 
-## ...in support of public services.
+## ...in support of the public good.
 
 As [Lawrence Grodeska recently stated][3], a project can not be 'civic
 technology' unless it intends to improve the public good. But what is 'the
@@ -137,7 +137,13 @@ also support the public good, and that projects from these sectors or that work
 with these sectors may fit within 'civic tech'.
 
 **Thank you to [Alison Link](https://twitter.com/linkalis) and
-[Kelly Clausen](https://twitter.com/cre8ivecubed) for your input and edits.**
+[Kelly Clausen](https://twitter.com/cre8ivecubed), and
+[Steve Clift](https://twitter.com/democracy) for your input and edits.**
+
+**2016-01-15 Update**
+
+The original version of the civic tech definition referred to 'public service'.
+This has been updated to refer to the more general term 'public good'.
 
  [1]: http://www.buildwith.org/
  [2]: https://www.youtube.com/watch?v=ZR5JMxp-ejw
