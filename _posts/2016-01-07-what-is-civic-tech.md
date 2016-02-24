@@ -145,6 +145,11 @@ with these sectors may fit within 'civic tech'.
 The original version of the civic tech definition referred to 'public service'.
 This has been updated to refer to the more general term 'public good'.
 
+**2016-02-24 Update**
+
+Shu Higashi of Code for Japan has [translated this article into Japanese][4]!
+
  [1]: http://www.buildwith.org/
  [2]: https://www.youtube.com/watch?v=ZR5JMxp-ejw
  [3]: https://medium.com/@grodeska/civictech-primer-what-is-civic-tech-7ea788e766d3#.wgherslwq
+ [4]: http://qiita.com/Code4Matsudo/items/b38125d0a6bb8b0f3f33
