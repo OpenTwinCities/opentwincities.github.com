@@ -73,7 +73,7 @@ Cedarside Fly is primed to build their vision.
 - **Judges' Choice Award Winner  <i class="fi-torso-business" style="font-size: 2rem;"> </i><i class="fi-trophy" style="font-size: 2rem; color: #e2cb1d;"></i>**
 - **Team Members**
   - Jay Miles
-  - Luke Henker
+  - Luke Hemken 
   - Ben McDermott
   - Cari Tam
   - Madeleine Filloux
