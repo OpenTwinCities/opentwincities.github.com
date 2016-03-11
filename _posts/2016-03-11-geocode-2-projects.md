@@ -106,7 +106,11 @@ Voice.
   - Mike Dolbow
   - Shannon Hart
   - Perry Clark
-- [**Project Page**](http://opentwincities.coeventer.com/projects/117-collaborative-road-construction-and-closures-with-private-sector-open-source-map-app-integration)
+- [**Project Page**](http://opentwincities.coeventer.com/projects/149-collaborative-road-construction-and-closures-with-private-sector-open-source-map-app-integration-_)
+- [**Presentation**](http://opentwincities.coeventer.com/projects/149-collaborative-road-construction-and-closures-with-private-sector-open-source-map-app-integration-_/presentation)
+- [**Data Specs Doc**](https://docs.google.com/spreadsheets/d/1snnyz24UdbMWUrZ9ZiM38oXzcmBvLeufPq7vIs2VnZc/edit#gid=0)
+- [**Story Map**](http://www.arcgis.com/apps/MapSeries/index.html?appid=16715946f8204e539983c7d216af42a7)
+- [**GitHub Repo**](https://github.com/mmdolbow/orange-coneheads)
 
 Delays due to road construction are always frustrating, especially since
 _somebody_ _somewhere_ has the information to help the public to avoid these
@@ -284,7 +288,7 @@ vision and goals, and discussing plans for this ongoing effort.
 ##[O.P.P - Open Permit Process](#opp)
 
 - **Team Members**
-  - Dan O’Malley
+  - Donn O’Malley
   - Jim Bystrom
   - Jessie Roushar
 - [**Project Page**](http://opentwincities.coeventer.com/projects/131-easy-to-use-permitting-application)
