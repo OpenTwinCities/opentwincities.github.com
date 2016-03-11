@@ -16,6 +16,12 @@ the 2016 Geo:Code Twin Cities Code-a-thon.
 
 - **People's Choice Award Winner <i class="fi-torsos-all" style="font-size: 2rem;"> </i><i class="fi-trophy" style="font-size: 2rem; color: #e2cb1d;"></i>**
 - **Team Members**
+  - Santanu Chakraborty
+  - Aaron Godin
+  - Stephen Peyton
+  - Nick Pierce
+  - Jim Daniels
+  - Sean Hickey
 - [**Project Page**](http://opentwincities.coeventer.com/projects/130-aed-location-map-for-heartsafe-communities)
 - [**Presentation Notes**](https://docs.google.com/document/d/1tc8A4IKPpV-9datqaRg-8z60I2RvUD0QyfrLa2pl7vU/edit?usp=sharing)
 
@@ -34,6 +40,15 @@ Winner by Geo:Code 2.0 participants.
 ##[Cedarside Connect](#cedarside)
 
 - **Team Members**
+  - Sha Cage
+  - E.G. Bailey
+  - Freida Martin
+  - Megan Seeds
+  - Fartun Dirie
+  - Jodi Beckstrom
+  - Mitey Hoy
+  - Zahr Muse
+  - Jack Ray
 - [**Project Page**](http://opentwincities.coeventer.com/projects/147-cedarside-asset-app)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/147-cedarside-asset-app/presentation)
 
@@ -57,6 +72,13 @@ Cedarside Fly is primed to build their vision.
 
 - **Judges' Choice Award Winner  <i class="fi-torso-business" style="font-size: 2rem;"> </i><i class="fi-trophy" style="font-size: 2rem; color: #e2cb1d;"></i>**
 - **Team Members**
+  - Jay Miles
+  - Luke Henker
+  - Ben McDermott
+  - Cari Tam
+  - Madeleine Filloux
+  - Chad Rehm
+  - Lisa Mabley
 - [**Project Page**](http://opentwincities.coeventer.com/projects/144-civic-voice-connecting-people-with-local-politics)
 - [**Presentation Slides**](https://docs.google.com/presentation/d/1vLsudNVNfmUqeNVstlswdOvo0bCl1jGnEp3AVeQn3XM/edit?usp=sharing)
 
@@ -81,6 +103,9 @@ Voice.
 ##[Collaborative Road Construction](#collaborative_road_construction)
 
 - **Team Members**
+  - Mike Dolbow
+  - Shannon Hart
+  - Perry Clark
 - [**Project Page**](http://opentwincities.coeventer.com/projects/117-collaborative-road-construction-and-closures-with-private-sector-open-source-map-app-integration)
 
 Delays due to road construction are always frustrating, especially since
@@ -103,6 +128,9 @@ public when dealing with delays and construction.
 <span id="cyclehack"></span>
 ##[CycleHack Twin Cities](#cyclehack)
 
+- **Team Members**
+  - Roxanne Johnson
+
 [CycleHack](http://www.cyclehack.com/) is a global movement that aims to
 connect people with their places by bringing community members together to
 reduce barriers to cycling. Last June was the first [CycleHack Twin Cities](/2015/06/29/cyclehacktc-recap/):
@@ -122,6 +150,9 @@ Email <cyclehack@opentwincities.org> to get involved!
 ##[Free Public Internet in Minnesota](#free_public_internet)
 
 - **Team Members**
+  - Andrew King-Scribbins
+  - Hannah Masuga
+  - Michael Peterson
 - [**Project Page**](http://opentwincities.coeventer.com/projects/146-free-public-internet-in-minnesota)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/146-free-public-internet-in-minnesota/presentation)
 - [**Live Prototype**](https://public-internet-mn.herokuapp.com/)
@@ -145,6 +176,10 @@ standardized data.
 ##[Is it Plowed?](#is_it_plowed)
 
 - **Team Members**
+  - Branden Noard
+  - Gabe Goldstein
+  - Robert Masen
+  - Eddie Anderson
 - [**Project Page**](http://opentwincities.coeventer.com/projects/121-is-it-plowed-a-way-to-quickly-find-out-whether-or-not-your-street-has-been-plowed-in-a-snow-emergency)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/121-is-it-plowed-a-way-to-quickly-find-out-whether-or-not-your-street-has-been-plowed-in-a-snow-emergency/presentation)
 - [**Mockups**](http://gabrielgoldstein.net/Is-it-Plowed)
@@ -170,6 +205,10 @@ Maps can easily integrate into their existing applications.
 ##[Minnestory](#minnestory)
 
 - **Team Members**
+  - Michael Altmann
+  - Sameer Shirole
+  - Zahra Muse
+  - Zachary Vavra
 - [**Project Page**](http://opentwincities.coeventer.com/projects/127-facilitate-the-creation-of-walking-tours-with-story-maps)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/127-facilitate-the-creation-of-walking-tours-with-story-maps/presentation)
 - [**Demo with Cedarside**](http://www.arcgis.com/apps/MapTour/index.html?appid=de5399248b3044d592ad88bd628adfc8)
@@ -192,6 +231,10 @@ team - Cedarside - to use this tool to help prototype a Geo:Code project.
 
 - **Judges' Honorable Mention <i class="fi-torso-business" style="font-size: 2rem;"></i> <i class="fi-like" style="font-size: 2rem;"></i>**
 - **Team Members**
+  - Boyd Johnson
+  - Jov Walker
+  - Mitch Schaps
+  - Adam Gardner
 - [**Project Page**](http://opentwincities.coeventer.com/projects/113-regional-bike-facility-application)
 - [**Presentation Slides**](https://docs.google.com/presentation/d/1bl740IMNUaEX1hT_I7mmud_pz1oZ_L5xjFve4oTtvKA/edit?usp=sharing)
 
@@ -211,6 +254,14 @@ reported issues.
 ##[Nile of the North](#nile_of_the_north)
 
 - **Team Members**
+  - Michael Chaney
+  - (John) Lewis Ford
+  - Phuc Nguyen
+  - Virginia Flurry
+  - Stephen Lu
+  - Kevin Ehrman-Solberg
+  - Ryan Mulehy
+  - Ray Klahr
 - [**Project Page**](http://opentwincities.coeventer.com/projects/122-the-nile-of-the-north-the-village-of-north-minneapolis-a-green-vision-of-economic-ecological-vitality)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/122-the-nile-of-the-north-the-village-of-north-minneapolis-a-green-vision-of-economic-ecological-vitality/presentation)
 
@@ -233,10 +284,13 @@ vision and goals, and discussing plans for this ongoing effort.
 ##[O.P.P - Open Permit Process](#opp)
 
 - **Team Members**
+  - Dan O’Malley
+  - Jim Bystrom
+  - Jessie Roushar
 - [**Project Page**](http://opentwincities.coeventer.com/projects/131-easy-to-use-permitting-application)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/131-easy-to-use-permitting-application/presentation)
 - [**Project Website**](http://d00m001.github.io/OPP/)
-- [**Life Prototype**](http://opp.apphb.com/)
+- [**Live Prototype**](http://opp.apphb.com/)
 
 Many new ventures or large events require filling permits through inconsistent,
 confusing, and error prone processes. Inspired from experiences in getting
@@ -255,6 +309,11 @@ permitting process.
 ##[Service Design in Gov Toolkit](#service_design_in_gov)
 
 - **Team Members**
+  - Laura Anderson
+  - Meg Knodl
+  - Andrew Rogers
+  - Khalid Mohammed
+  - Kyra Friedell
 - [**Project Page**](http://opentwincities.coeventer.com/projects/135-service-design-in-gov-playbook)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/135-service-design-in-gov-playbook/presentation)
 
@@ -277,6 +336,25 @@ service design processes and tools from across the internet to refer users to.
 ##[Team Opportunity](#team_opportunity)
 
 - **Team Members**
+  - Carol Zierman
+  - Corey Yemen
+  - Dennis Farmer
+  - Mike Errer
+  - Jared Walhouse
+  - Eric Ebbesen
+  - Madeleine Kerr
+  - Mark MacLennan
+  - Michael Peterson
+  - Geoff Maas
+  - Nicholas Kirchner
+  - David Simmons
+  - Jessia Schoner
+  - Deb Grundmanis
+  - Marqi Quita Anderson
+  - Hannah Masuga
+  - Jessica Fendos
+  - Justin Hollis
+  - Ashley Schweitzer
 - [**Project Page**](http://opentwincities.coeventer.com/projects/112-develop-prosperity-and-opportunity-indicators)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/112-develop-prosperity-and-opportunity-indicators/presentation)
 
@@ -299,6 +377,11 @@ and Ramsey County to figure out where more data can be found.
 ##[Twin Cities Meeting Spaces](#twin_cities_meeting_spaces)
 
 - **Team Members**
+  - Tim Erickson
+  - Derk Scholtz
+  - Kathy Ahlers
+  - David Radcliffe
+  - Ann Houghton
 - [**Project Page**](http://opentwincities.coeventer.com/projects/137-create-a-database-repository-of-public-meeting-locations)
 - [**Presentation Slides**](http://opentwincities.coeventer.com/projects/137-create-a-database-repository-of-public-meeting-locations/presentation)
 - [**Live Prototype**](http://dev-tc-meeting-spaces.pantheonsite.io/)
@@ -320,6 +403,10 @@ additional spaces.
 ##[Why We Live Here / Civic Awareness](#why_we_live_here)
 
 - **Team Members**
+  - Michael Mamore
+  - Alex Blenkuch
+  - David Brandt
+  - Steve Flaten
 - [**Project Page**](http://opentwincities.coeventer.com/projects/138-why-we-live-here-civic-awareness)
 - [**Presentation Slides**](http://prezi.com/dpckvzj0qkhg/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
