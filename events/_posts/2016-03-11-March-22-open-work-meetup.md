@@ -8,7 +8,7 @@ venue_name: Anderson Hall - Room 110
 venue_location: "257 19th Avenue South, Minneapolis, MN"
 published: true 
 excerpt: |
-  This month we'll be joined by special guest **Amy Riegelman**, Assistant
+  This month we'll be joined by special guest <em>Amy Riegelman</em>, Assistant
   Librarian at the University of Minnesota Libraries, to talk about
   <strong>Grappling with Discoverability Consequences + Discovering Gov Web Analytics</strong>.
 ---
@@ -50,3 +50,12 @@ If you're looking for project ideas, checkout:
 - our [project and community management discussions](http://bit.ly/manageOTC),
 - issues with the [Open Twin Cities website](https://github.com/OpenTwinCities/opentwincities.github.com),or 
 - the Open Twin Cities [Projects Page](/projects).
+
+### Update - Video
+
+We recorded Amy's presentation, which you can watch below or at [YouTube](https://youtu.be/_NGl2SW2q3A).
+
+Note, the camera stopped recording after 27 minutes, so we didn't capture the
+end of Amy's presentation. Sorry about that.
+
+<iframe width="700" height="440" src="https://www.youtube.com/embed/_NGl2SW2q3A" frameborder="0" allowfullscreen></iframe>
