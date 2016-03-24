@@ -416,14 +416,15 @@ div.sidebar .container{
 div.footer {
   background: #40372F;
   color: white;
+  text-align: center;
 }
 
-p.footer {
+div.footer p {
   margin-top: 1em;
   text-align: center;
 }
 
-p.footer img{
+div.footer p img{
   margin-right: 1rem;
   margin-left: 1rem;
 }
