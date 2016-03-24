@@ -1,0 +1,30 @@
+---
+layout: default
+title: Thank You 
+---
+
+<h2>{{page.title}}</h2>
+
+<p>Thank you for signing up for Open Twin Cities' newsletter, and welcome to <strong><em>the</em></strong>
+civic technology community of the Twin Cities.</p>
+
+{% assign sorted_events = (site.categories.events | sort: 'event_date', 'first')%}
+{% for event in sorted_events %} 
+
+  {% include set_event_date event=event %}
+
+  {% if event_date > site.time %}
+      <h2 class="post-title"><a href="{{ event.url }}">Next Event: {{event.title}}</a></h2>
+      <p class="post-byline">{{ event_date | date: "%A, %B %d - %I:%M %p" }}</p>
+      <p class="post-excerpt">
+        {{ event.excerpt }}
+      </p>
+    {% comment %} Only want to show the soonest event {% endcomment %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+
+<h2>Get Involved</h2>
+
+{% include get_involved.html %}
