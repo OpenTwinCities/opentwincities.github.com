@@ -11,8 +11,8 @@ tags:
 Here is a summary of the eight projects that were worked on and presented at
 Hennepin County's 2015 Geo:Code Code-a-thon.
 
-<span id="accessibility_guidelines_for_maps"></span>
-##[Accessibility Guidelines for Maps](#accessibility_guidelines_for_maps)
+
+## [Accessibility Guidelines for Maps](#accessibility_guidelines_for_maps) {#accessibility_guidelines_for_maps}
 
 - **Team Members**
   - [Alison Link](https://twitter.com/linkalis)
@@ -45,8 +45,8 @@ on the Open Twin Cities GitHub organization. The team's goal is to eventually
 move this wiki to the Maptime GitHub organization to gain visibility in the
 national community of developers who create maps.
 
-<span id="broader_needs_assessment"></span>
-##[Broader Needs Assessment](#broader_needs_assessment)
+
+## [Broader Needs Assessment](#broader_needs_assessment) {#broader_needs_assessment}
 
 - **Team Members**
   - Erin Callahan
@@ -78,8 +78,8 @@ of time researching and planning policy and business arguments to present to
 County leadership on why the Broader Needs Assessment tool should be made 
 publicly available.
 
-<span id="digital_time_travel"></span>
-##[Digital Time Travel](#digital_time_travel)
+
+## [Digital Time Travel](#digital_time_travel) {#digital_time_travel}
 
 - **Team Members**
   - Tom Edwards
@@ -111,8 +111,8 @@ found that the availability, integrity, and security of data can vary a lot by
 time, medium, and managing organization. Finally, licensing on available data
 might prevent or discourage the reuse of historical information.
 
-<span id="hennepin_mobility_app"></span>
-##[Hennepin Mobility App](#hennepin_mobility_app)
+
+## [Hennepin Mobility App](#hennepin_mobility_app) {#hennepin_mobility_app}
 
 - **Team Members**
   - Alan Armstrong
@@ -141,8 +141,8 @@ Android app that included information on food shelves, farmers markets,
 Hennepin County facilities, and more. The prototype also included graphics for
 locations based on their accessibility ratings.
 
-<span id="kids_just_wanna_have_fun"></span>
-##[Kids Just Wanna Have Fun](#kids_just_wanna_have_fun)
+
+## [Kids Just Wanna Have Fun](#kids_just_wanna_have_fun) {#kids_just_wanna_have_fun}
 
 - **Team Members**
   - Mai Xiong
@@ -172,8 +172,8 @@ express what they wanted and test out their ideas. From there, the team
 developed a set of digital wireframes to guide future development of their 
 site.
 
-<span id="minnesota_bike_ways"></span>
-##[Minnesota Bike Ways / The Bike App](#minnesota_bike_ways)
+
+## [Minnesota Bike Ways / The Bike App](#minnesota_bike_ways) {#minnesota_bike_ways}
 
 - **Team Members**
   - Adam Gardner
@@ -204,8 +204,8 @@ perform on their prototype. In addition, spurred by the work and requests of the
 Minnesota Bike Ways team, Hennepin County is now working to add data on County
 bike trails to their open data portal.
 
-<span id="parcels_through_time"></span>
-##[Parcels Through Time](#parcels_through_time)
+
+## [Parcels Through Time](#parcels_through_time) {#parcels_through_time}
 
 - **Team Members**
   - Michael Altman
@@ -237,8 +237,8 @@ explorer capable of visualizing and animating changes in property over time.
 Along the way, team members learned about QGIS, Leaflet, and how to prepare
 data for these tools.
 
-<span id="urban_agricultural_suitability"></span>
-##[Urban Agricultural Suitability](#urban_agricultural_suitability)
+
+## [Urban Agricultural Suitability](#urban_agricultural_suitability) {#urban_agricultural_suitability}
 
 - **Team Members**
   - Zach Aaberg

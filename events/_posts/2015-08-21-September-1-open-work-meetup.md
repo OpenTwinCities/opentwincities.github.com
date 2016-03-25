@@ -23,7 +23,7 @@ some great conversation.
 
 Please comment below on any ideas or projects you might want to work on.
 
-###St. Paul Elections Prep
+### St. Paul Elections Prep
 
 [St. Paul is going to have an election is a couple of months](https://en.wikipedia.org/wiki/Saint_Paul_City_Council_election,_2015), 
 and [E-Democarcy has some ideas](http://forums.e-democracy.org/groups/stpaul-issues/elections)
@@ -49,12 +49,12 @@ people running for office:
 No need to wait until September 1st to talk and contribute. You can join 
 [the discussion about these two projects right now in the Google Group](https://groups.google.com/forum/#!topic/twin-cities-brigade/Bp0PTFzBmfA).
 
-###Code of Conduct
+### Code of Conduct
 
 As with any event hosted by Open Twin Cities, our [Code of Conduct](/about/code-of-conduct/) 
 will be in effect during this meetup. Respect each other. Don't be a jerk.
 
-###Projects
+### Projects
 
 What to learn about the other projects Open Twin Cities has going? Check out 
 the following:

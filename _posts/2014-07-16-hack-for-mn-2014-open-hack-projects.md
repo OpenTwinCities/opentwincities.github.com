@@ -11,7 +11,6 @@ tags:
 
 *We'd like to thank Tech.MN for recording all of the project presentations.*
 
-<span id="airstatus"></span>
 ### Airstatus 
 
 - Contact: [Richard Barnes](http://rbarnes.org/)
@@ -34,7 +33,6 @@ demonstrating how to use of the API, this application also provides an
 environment for the team to experiment with ways of displaying highly technical
 information to the general public.
 
-<span id="planit"></span>
 ### PLANIT 
 
 - Contact: [Alison Link](https://twitter.com/linkalis)
@@ -60,8 +58,7 @@ residents to be able to submit their own activities, and for folks to be able
 to use this platform via text messaging.
 
 
-<span id="api-store"></span>
-### The API Store
+### The API Store {#api-store}
 
 - Contact: [David Ching](http://www.linkedin.com/profile/view?id=159829397)
 - [Video](http://vimeo.com/98969464)
@@ -84,7 +81,6 @@ users (to better understand performance issues of applications that use open
 data).
 
 
-<span id="voter-guide"></span>
 ### Voter Guide
 
 - Contact: [Steve Clift](https://twitter.com/democracy) and [Tim Erikson](https://twitter.com/stpaultim) 
@@ -107,7 +103,6 @@ creating an API so other sites and developers can easily incorporate this
 important information.
 
 
-<span id="homescreen-for-the-homeless"></span>
 ### Homescreen for the Homeless
 
 - Contact: [Colin Lee](https://twitter.com/colinmlee)
@@ -133,7 +128,6 @@ that end, the team is planning to crowd-source phone numbers, URLs, and apps
 that can connect homeless individuals with resources they want or need.
 
 
-<span id="pyladies-web-scraping"></span>
 ### PyLadies Web Scraping
 
 - Contact: [Dana Engebretson](https://twitter.com/DanaKE/)

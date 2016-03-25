@@ -78,7 +78,8 @@ communicate and coordinate, resulting in tools built on assumptions, unanswered
 questions, and unasked questions.
 
 ![A cartoon portraying how different parties in a development understand a problem](/images/posts/2015/11/bad-development.png)
-<caption><a href="http://blog.codinghorror.com/on-software-engineering/">Unfortunately, a 10 year old comic about lack of communication is still true today</a></caption>
+
+<div class="caption"><a href="http://blog.codinghorror.com/on-software-engineering/">Unfortunately, a 10 year old comic about lack of communication is still true today</a></div>
 
 It is for this reason that the human centered and service design philosophies 
 place such an emphasis on communication, collaboration, and feedback among all

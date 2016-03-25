@@ -16,12 +16,12 @@ some great conversation.
 
 Please comment below on any ideas or projects you might want to work on.
 
-###Code of Conduct
+### Code of Conduct
 
 As with any event hosted by Open Twin Cities, our [Code of Conduct](/about/code-of-conduct/) 
 will be in effect during this meetup. Respect each other. Don't be a jerk.
 
-###Projects
+### Projects
 
 What to learn about the other projects Open Twin Cities has going? Check out 
 the following:
@@ -34,7 +34,7 @@ the following:
 - issues with the [Open Twin Cities website](https://github.com/OpenTwinCities/opentwincities.github.com),or 
 - the Open Twin Cities [Projects Page](/projects).
 
-###Parking
+### Parking
 
 If you're driving to the meetup, good places to find street parking (free after
 6pm) are parking along St. Peters St., Market St., Wabasha St, and West 7th. 

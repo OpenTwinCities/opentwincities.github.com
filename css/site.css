@@ -76,6 +76,12 @@ div.highlight{
   padding: 1.25rem;
 }
 
+.caption{
+  text-align: center;
+  font-size: 14px;
+  margin: 0 0 1em 0;
+}
+
 /**
  * Buttons
  */

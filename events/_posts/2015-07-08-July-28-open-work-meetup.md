@@ -34,7 +34,7 @@ We're excited to welcome the Minnesota Bikeways team to the meetup! Join us on
 the 28th to learn more about the Minnesota Bikeways project and where it 
 is heading.
 
-###We're Recording This
+### We're Recording This
 
 Want to see the MN Bikeways talk, but you can't make it to the Humphrey School? 
 Well this month we're trying something again - we're going to record the 

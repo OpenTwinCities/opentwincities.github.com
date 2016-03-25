@@ -11,8 +11,7 @@ tags:
 Here is a summary of the fourteen projects that were worked on and presented at
 the 2016 Geo:Code Twin Cities Code-a-thon.
 
-<span id="aed_location_map"></span>
-##[AED Location Map](#aed_location_map)
+## [AED Location Map](#aed_location_map) {#aed_location_map}
 
 - **People's Choice Award Winner <i class="fi-torsos-all" style="font-size: 2rem;"> </i><i class="fi-trophy" style="font-size: 2rem; color: #e2cb1d;"></i>**
 - **Team Members**
@@ -36,8 +35,7 @@ add an AED to the map. This combination of life-or-death impact and clarity of
 focus led the AED Location Map team to be voted the People's Choice Award
 Winner by Geo:Code 2.0 participants.
 
-<span id="cedarside"></span>
-##[Cedarside Connect](#cedarside)
+## [Cedarside Connect](#cedarside) {#cedarside}
 
 - **Team Members**
   - Sha Cage
@@ -67,8 +65,7 @@ local residents, and a team eager to partner with neighborhood organizations,
 Cedarside Fly is primed to build their vision.
 
 
-<span id="civic_voice"></span>
-##[Civic Voice](#civic_voice)
+## [Civic Voice](#civic_voice) {#civic_voice}
 
 - **Judges' Choice Award Winner  <i class="fi-torso-business" style="font-size: 2rem;"> </i><i class="fi-trophy" style="font-size: 2rem; color: #e2cb1d;"></i>**
 - **Team Members**
@@ -98,9 +95,10 @@ our government easier to understand. Impressed with the scale and focus of this
 project, Geo:Code's feedback panel presented it's Judges' Choice Award to Civic
 Voice.
 
-<span id="collaborative_road_construction"></span>
+
 <span id="orange_cone_heads"></span>
-##[Collaborative Road Construction](#collaborative_road_construction)
+
+## [Collaborative Road Construction](#collaborative_road_construction) {#collaborative_road_construction}
 
 - **Team Members**
   - Mike Dolbow
@@ -129,8 +127,7 @@ provide this data at all, or only provide a subset of data that could help the
 public when dealing with delays and construction.
 
 
-<span id="cyclehack"></span>
-##[CycleHack Twin Cities](#cyclehack)
+## [CycleHack Twin Cities](#cyclehack) {#cyclehack}
 
 - **Team Members**
   - Roxanne Johnson
@@ -150,8 +147,7 @@ this ideation phase could then be used for another hack event to think about
 solutions that really target the barriers that our communities are facing.
 Email <cyclehack@opentwincities.org> to get involved!
 
-<span id="free_public_internet"></span>
-##[Free Public Internet in Minnesota](#free_public_internet)
+## [Free Public Internet in Minnesota](#free_public_internet) {#free_public_internet}
 
 - **Team Members**
   - Andrew King-Scribbins
@@ -176,8 +172,7 @@ virtually none of this useful information was available in any form of
 standardized data.
 
 
-<span id="is_it_plowed"></span>
-##[Is it Plowed?](#is_it_plowed)
+## [Is it Plowed?](#is_it_plowed) {#is_it_plowed}
 
 - **Team Members**
   - Branden Noard
@@ -205,8 +200,7 @@ APIs 'speak Google' - pick a standard that existing applications such as Google
 Maps can easily integrate into their existing applications.
 
 
-<span id="minnestory"></span>
-##[Minnestory](#minnestory)
+## [Minnestory](#minnestory) {#minnestory}
 
 - **Team Members**
   - Michael Altmann
@@ -230,8 +224,7 @@ geocoding them. Best of all, the Minnestory team worked with another Geo:Code
 team - Cedarside - to use this tool to help prototype a Geo:Code project.
 
 
-<span id="mn_bikeways"></span>
-##[MN Bikeways](#mn_bikeways)
+## [MN Bikeways](#mn_bikeways) {#mn_bikeways}
 
 - **Judges' Honorable Mention <i class="fi-torso-business" style="font-size: 2rem;"></i> <i class="fi-like" style="font-size: 2rem;"></i>**
 - **Team Members**
@@ -254,8 +247,7 @@ infrastructure, the team prototyped a municipal dashboard to display user
 reported issues.
 
 
-<span id="nile_of_the_north"></span>
-##[Nile of the North](#nile_of_the_north)
+## [Nile of the North](#nile_of_the_north) {#nile_of_the_north}
 
 - **Team Members**
   - Michael Chaney
@@ -282,10 +274,10 @@ on a *big* project, and acknowledged that by productively come to consensus on
 vision and goals, and discussing plans for this ongoing effort.
 
 
-<span id="opp"></span>
 <span id="open_permit_process"></span>
 <span id="super_mega_force"></span>
-##[O.P.P - Open Permit Process](#opp)
+
+## [O.P.P - Open Permit Process](#opp) {#opp}
 
 - **Team Members**
   - Donn O’Malley
@@ -309,8 +301,7 @@ with existing government websites, and to continue to modernize the government
 permitting process.
 
 
-<span id="service_design_in_gov"></span>
-##[Service Design in Gov Toolkit](#service_design_in_gov)
+## [Service Design in Gov Toolkit](#service_design_in_gov) {#service_design_in_gov}
 
 - **Team Members**
   - Laura Anderson
@@ -336,8 +327,7 @@ that will guide a user through a service design process, and gathered up
 service design processes and tools from across the internet to refer users to.
 
 
-<span id="team_opportunity"></span>
-##[Team Opportunity](#team_opportunity)
+## [Team Opportunity](#team_opportunity) {#team_opportunity}
 
 - **Team Members**
   - Carol Zierman
@@ -377,8 +367,7 @@ meet with the Metropolitan Council, the Center for Urban and Regional Affairs,
 and Ramsey County to figure out where more data can be found.
 
 
-<span id="twin_cities_meeting_spaces"></span>
-##[Twin Cities Meeting Spaces](#twin_cities_meeting_spaces)
+## [Twin Cities Meeting Spaces](#twin_cities_meeting_spaces) {#twin_cities_meeting_spaces}
 
 - **Team Members**
   - Tim Erickson
@@ -402,9 +391,9 @@ and list based ways to browse and filter this data, and a form for submitting
 additional spaces. 
 
 
-<span id="why_we_live_here"></span>
 <span id="civic_awareness"></span>
-##[Why We Live Here / Civic Awareness](#why_we_live_here)
+
+## [Why We Live Here / Civic Awareness](#why_we_live_here) {#why_we_live_here}
 
 - **Team Members**
   - Michael Mamore

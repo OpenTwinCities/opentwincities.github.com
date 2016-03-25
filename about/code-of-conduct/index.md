@@ -5,14 +5,14 @@ title: Open Twin Cities Code of Conduct
 
 ## {{page.title}}
 
-<span id="short"></span>
+
 ### Short
 
 Open Twin Cities is dedicated to a harassment-free community and event 
 experience for everyone. Be kind to one another. Do not insult or put down 
 other community members or event attendees. Behave civilly.
 
-<span id="medium"></span>
+
 ### Medium
 
 Open Twin Cities is a community about having fun, exploring ideas, tackling 
@@ -31,7 +31,7 @@ community or event activity. Members or participants violating these rules may
 be sanctioned or expelled from the community or event, without a refund, at 
 the discretion of the organizers. 
 
-<span id="long"></span>
+
 ### Long
 
 Open Twin Cities is a community about having fun, exploring ideas, tackling 
