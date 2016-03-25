@@ -17,7 +17,7 @@ tags:
 Inspired and helped by the [documentation work of Chad Foley in Raleigh](http://localwiki.net/raleigh/Adopta_App/Development?&docuredirected_from=raleigh%20adopta%20app/development),
 I wanted to share some notes I took as I went through the process of installing Adopt-a-Hydrant on Debian (Jessie in my case), while being a total n00b to Ruby.
 
-##Adopt-A System Package Requirements
+## Adopt-A System Package Requirements
 
 Most of Adopt-a-Hydrants' requirements will be taken care of by Ruby's own requirements system, but there are a few system packages
 that will need to be installed:
@@ -32,7 +32,7 @@ To install all of these, run
 
     apt-get install postgresql libpq-dev libsqlite3-dev nodejs build-essential libssl-dev libcurl4-openssl-dev libreadline-dev -y
 
-##Setting up the DB
+## Setting up the DB
 
 With Postgres installed, you'll now want to setup a DB user for Adopt-a-Hydrant. By default, Adopt-a wants to use a DB user with the name **adopta** and **no password**. To create that, run:
 
@@ -48,7 +48,7 @@ Finally, run:
 
     service postgresql restart
 
-##Get rbenv
+## Get rbenv
 
 As somebody new to Ruby but experienced with Python, I found a lot of similarity in projects sometimes being tied to specific versions of the language. So I was happy to discover [rbenv](https://github.com/sstephenson/rbenv), which is *kind of* like virtualenv for Python. OK, they're fairly different, but like virtualenv, rbenv makes it a whole lot easier to install versions of Ruby and manage which version a project is using.
 
@@ -66,13 +66,13 @@ As somebody new to Ruby but experienced with Python, I found a lot of similarity
 
 Note that this will also install a couple or rbenv plugins that actually let you install Ruby and update rbenv when that happens.
 
-##Get Adopt-a-Hydrant
+## Get Adopt-a-Hydrant
 
 Now it's time to get the thing we want! If you haven't already, fork the [Adopt-a-Hydrant repo](https://github.com/codeforamerica/adopt-a-hydrant). Then move to your favorite development directory, and `git clone` your fork. Or, if you just want to grab what's on the main repo right now, run
 
     git clone https://github.com/codeforamerica/adopt-a-hydrant.git
 
-##Get Ruby and Bundle(r)
+## Get Ruby and Bundle(r)
 
 Move into the adopt-a-hydrant folder. Through the magic of a .ruby-version file, the repository sets the version of Ruby that it needs to run. You can either look in this file, or run
 
@@ -90,7 +90,7 @@ With the required version of Ruby installed, it is now time to install bundle fo
 
 Even though the package is named `bundler`, the program is named `bundle`. Bundle is what will actually install Adopt-a-Hydrant and get all of its remaining requirments.
 
-###Ruby 2.1.1 and Debian
+### Ruby 2.1.1 and Debian
 
 This note is more for the sake of information than instruction, since the latest commits to Adopt-a-Hydrant now have the platform running on Ruby 2.1.2. During my initial attempts to install Adopt-a-Hydrant, the platform required Ruby 2.1.1, and I found that attempts to install 2.1.1 would end with an error related to openssl and readline.
 
@@ -98,7 +98,7 @@ If, for whatever reason, you *really* want Ruby 2.1.1, there are [instructions o
 
 Or you can just avoid this whole mess by getting a version of Adopt-a-Hydrant that doesn't require Ruby 2.1.1.
 
-##Install Adopt-a-Hydrant
+## Install Adopt-a-Hydrant
 
 W00t, we finally have everything we need to install and run Adopt-a-Hydrant. To do that, we just run the following, taken straight from [Adopt-a-Hydrant's README](https://github.com/codeforamerica/adopt-a-hydrant#installation):
 

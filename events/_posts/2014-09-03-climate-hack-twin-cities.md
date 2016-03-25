@@ -57,7 +57,7 @@ Some potential outcomes of our Twin Cities event could include:
 - Networking and collaboration between activists and civic hackers
 Whatever else you make happen!
 
-#Event Agenda
+# Event Agenda
 
 - 9:30am - Doors Open
 - 10am - Tour of Nature by Nature MIA exhibit
@@ -67,13 +67,13 @@ Whatever else you make happen!
 - 11:30am - Lunch
 - 12:00pm - Unconference: participants design the second half!
  
-#Background
+# Background
 
-##More about the global event
+## More about the global event
 
 The global [#hack4good 0.6](http://hack4good.io/) hack against catastrophic climate change aims to mobilize software engineers, product designers and technology innovators who care about climate change to come together and make a difference. Participant teams will put together projects over the two days of the event and submit them for judging on the global website. Winners will be presented in New York City as part of [Climate Week](http://www.climateweeknyc.org/), a series of events surrounding the [UN Climate Summit](http://www.un.org/climatechange/summit/) on Sept. 24.
 
-##More about our Twin Cities event
+## More about our Twin Cities event
 
 We are not doing the full two-day hackathon. Instead, we are hoping to use this global challenge as a catalyst to bring together two Twin Cities communities: the civic tech community, who have been actively solving civic problems with technology for more than two years, and climate change activists, the numerous organizations and individuals working on climate solutions at the local, state, national, and global levels. We hope to start a conversation about solving climate-related problems with civic tech solutions.
 

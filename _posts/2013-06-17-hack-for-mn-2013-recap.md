@@ -15,7 +15,7 @@ projects over the course of 19 hours. Now that we’ve all had some time to rela
 and reflect on this event, I’d like to share some thoughts on this milestone
 event for civic innovation in the Twin Cities.
 
-##The Civic Innovation Community of the Twin Cities is Real, and Its Big
+## The Civic Innovation Community of the Twin Cities is Real, and Its Big
 
 Open Twin Cities is around 7 months old. In that short time we’ve talked and
 worked with quite a few people who share our passion for creating new
@@ -31,7 +31,7 @@ hackathon participants showed at these two events is the best proof yet that
 there is a large, healthy, and growing community of civic innovators in the
 Twin Cities.
 
-##MN Governments Support Civic Hacking
+## MN Governments Support Civic Hacking
 
 Like the size of the community, early on we were uncertain about how willing
 government technology leaders in the Twin Cities would be to embrace a group of
@@ -55,7 +55,7 @@ themes of:
   one speakers describing Hack for MN participants as the ‘cream of the crop’
   of folks who have the ideas, knowledge, and skills to change civic tech)
 
-##Open Endedness is Good
+## Open Endedness is Good
 
 During opening remarks, we emphasized that teams should do what they want to do
 to address their chosen issue. ‘Whatever happens this weekend is exactly what
@@ -91,7 +91,7 @@ project, understanding the problem and defining the processes that the
 technology will operate in can be as important, or more important than,
 standing up a website.
 
-###Open Endedness is Mostly Good
+### Open Endedness is Mostly Good
 
 A lot of hurdles can prevent a team from making progress on a project. One risk
 to holding such an open ended event is that the desire for unencumbered
@@ -108,11 +108,11 @@ willing to help in the way that he did. We're also thankful that he forced us
 to ask “what if David hadn’t been there?", and provided an example for Open
 Twin Cities to follow in future events.
 
-##All Lot of People Made this Happen … Thanks Everybody!
+## All Lot of People Made this Happen … Thanks Everybody!
 
 A lot of organizers partnered to plan and participate in Hack for MN.
 
-###Thank You Partners
+### Thank You Partners
 
 - Open Twin Cities
 - DevJam Studios
@@ -129,7 +129,7 @@ A lot of organizers partnered to plan and participate in Hack for MN.
 In addition, a lot of resources (both financial and items) were provided by a
 number of sponsors.
 
-###Thank you Sponsors
+### Thank you Sponsors
 
 - DevJam Studios
 - Knight Foundation
@@ -140,7 +140,7 @@ number of sponsors.
 - USI Wireless
 - Kowalski’s
 
-##Welcome to Open Twin Cities
+## Welcome to Open Twin Cities
 
 With Hack for MN 2013 wrapped up, I'd like to invite all participants to
 [join](https://groups.google.com/forum/#!forum/twin-cities-brigade)/

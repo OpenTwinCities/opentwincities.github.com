@@ -38,7 +38,7 @@ need everyone.
 
 <h3><small>People’s Climate March in NYC: To Change Everything It Takes Everyone, photo by <a href="https://www.flickr.com/photos/126015850@N02/15128683288">South Bend Voice via Flickr</a></small></h3>
 
-##The Event
+## The Event
 
 ClimateHackTC was held at the Hothouse coworking space inside the
 Minneapolis Institute of Arts and began with introductions and a
@@ -128,7 +128,7 @@ they can choose to change their behavior.
 
 <h3><small>ClimateHackTC group discussion, photo by <a href="https://twitter.com/OpenTwinCities/status/510856760077598720/photo/1">Open Twin Cities (@OpenTwinCities)</a></small></h3>
 
-##Next Steps
+## Next Steps
 
 This event was meant to be the beginning of a conversation. So what’s
 next? In the long-term, I would love to see an Open Twin Cities

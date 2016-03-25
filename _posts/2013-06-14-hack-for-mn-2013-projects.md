@@ -5,7 +5,7 @@ tags: hackathon hackformn2013
 ---
 
 <span id="climate-crowd"></span>
-##Climate Crowd
+## Climate Crowd
 <p class="project-meta"><b>Award</b>: Best Commercial Opportunity</p>
 <p class="project-meta"><b>Prize</b>: Meeting with an Executive from GovDelivery</p>
 You don’t have to be a developer to be part of a hackathon. In fact, good
@@ -22,7 +22,7 @@ with a solid plan to create a marketplace based on environmental
 sustainability.
 
 <span id="code-for-neighborhoods"></span>
-##Code for Neighborhoods
+## Code for Neighborhoods
 <p class="project-meta"><b>Award</b>: Neighborhoodiest</p>
 <p class="project-meta"><b>Prize</b>: Meeting with the Executive Director of E-Democracy.org</p>
 Modern IT has made it much easier to communicate with people all over the
@@ -37,7 +37,7 @@ happening. Most importantly, Code for Neighborhoods will make it easier to get
 to know the people who live in your immediate community.
 
 <span id="connect-me-minneapolis"></span>
-##Connect Me Minneapolis
+## Connect Me Minneapolis
 <p class="project-meta"><b>Award</b>: Best Service Design</p>
 <p class="project-meta"><b>Prize</b>: Meeting with the CIO of the City of Minneapolis</p>
 Connect Me Minneapolis, a project that will provide information on where to
@@ -53,7 +53,7 @@ judges, is “prime for grant money”.
 
 
 <span id="datapark"></span>
-##DataPark
+## DataPark
 <p class="project-meta"><b>Award</b>: Most Harmonious</p>
 <p class="project-meta"><b>Prize</b>: A one year subscription to ArcGIS</p>
 <p class="project-meta"><b>Github</b>: <a href="https://github.com/michaelaltmann/Datapark" target="_blank">https://github.com/michaelaltmann/Datapark</a></p>
@@ -70,7 +70,7 @@ developments, all in the hope of bringing harmony to communities by providing
 their planning committees with a powerful evaluation tool.
       
 <span id="mspbusorg"></span>
-##mspbus.org
+## mspbus.org
 <p class="project-meta"><b>Award</b>: Alivest</p>
 <p class="project-meta"><b>Prize</b>: A one year subscription to ArcGIS</p>
 <p class="project-meta"><b>Github</b>: <a href="https://github.com/r-barnes/mspbus" target="_blank">https://github.com/r-barnes/mspbus</a></p>
@@ -87,7 +87,7 @@ just want to know when the bus is actually coming. Put another way, do you have
 5 minutes to enjoy your coffee, or do you need to dash out the door right now?
       
 <span id="my-bus-stop-totoro"></span>
-##My Bus Stop Totoro
+## My Bus Stop Totoro
 <p class="project-meta"><b>Award</b>: Humblest</p>
 <p class="project-meta"><b>Github</b>: <a href="https://github.com/zzolo/totoro" target="_blank">https://github.com/zzolo/totoro</a></p>
 <p class="project-meta"><b>Site</b>: <a href="http://zzolo.github.io/totoro/#experiment/" target="_blank">http://zzolo.github.io/totoro/#experiment/</a></p>
@@ -101,7 +101,7 @@ and the lead organizer of Visualizing Neighborhoods, this team insisted that we
 not award them anything. So they went home with an award for humbleness.
 
 <span id="open-wi-fi-gps-directory"></span>
-##Open Wi-Fi/GPS Directory
+## Open Wi-Fi/GPS Directory
 <p class="project-meta"><b>Award</b>: Critical Mass</p>
 <p class="project-meta"><b>Prize</b>: Meeting with the Director of Technology and Communications for the City of St. Paul</p>
 <p class="project-meta"><b>GitHub</b>: <a href="https://github.com/dmiddlecamp/WigleWifiUtility" target="_blank">https://github.com/dmiddlecamp/WigleWifiUtility</a></p>
@@ -116,7 +116,7 @@ businesses that help people find publicly accessible Wi-Fi or offer location
 based services in the downtowns of Minneapolis and St. Paul.
 
 <span id="polling-place-finder"></span>
-##Polling Place Finder
+## Polling Place Finder
 <p class="project-meta"><b>Award</b>: Best Extension of an Existing Service</p>
 <p class="project-meta"><b>Prize</b>: Meeting with the Secretary of State of Minnesota</p>
 <p class="project-meta"><b>Github</b>: <a href="https://github.com/kylereicks/hack-for-mn-telephone-polling-place-finder" target="_blank">https://github.com/kylereicks/hack-for-mn-telephone-polling-place-finder</a></p>
@@ -133,7 +133,7 @@ can simply text an address to the Polling Place Finder phone number and quickly
 receive the address of their polling place.
 
 <span id="solvabl"></span>
-##Solvabl
+## Solvabl
 <p class="project-meta"><b>Award</b>: Most Ambitious</p>
 <p class="project-meta"><b>Prize</b>: Meeting with the CIO of the State of Minnesota</p>
 Civic hacking doesn’t have to focus on just the tech. Solvabl hammered out a

@@ -16,13 +16,8 @@ url: http://www.opentwincities.org
 # Default image that social media platforms should display with a page from this site
 social_image: http://www.opentwincities.org/images/logos/otc/otc-o512.png
 
-# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
-auto: true
-
 # Makes pretty permalinks. See Jekyll docs for alternatives.
 permalink: pretty
-
-markdown: redcarpet
 
 exclude: [vendor]
 timezone: nil 
