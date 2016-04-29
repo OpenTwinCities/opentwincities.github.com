@@ -16,8 +16,6 @@ tags:
  - hackforchange 
 ---
 
-![Code Switch logo](/images/posts/2016/04/CodeSwitch_logo.png)
-
 Code Switch is intense, fast-paced, extremely fun [organized] chaos. Code
 Switch is a free two-day civic hackathon that seeks to achieve maximum social
 impact by expanding participation among members of underserved communities.
@@ -27,6 +25,8 @@ safety in underserved communities.
 
 We provide breakfast, lunch, caffeine, wifi, and a beautiful space to work. You
 provide the creativity.
+
+![Code Switch logo](/images/posts/2016/04/CodeSwitch_logo.png)
 
 ## Is this event for me? Really?
 
