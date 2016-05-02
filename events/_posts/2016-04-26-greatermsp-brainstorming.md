@@ -4,8 +4,8 @@ layout: event
 title: GreaterMSP Regional Crowdsource Brainstorming 
 event_date: 2016-05-07 13:00:00
 rsvp_url: "https://www.eventbrite.com/e/regional-dashboard-hack-session-tickets-24912963344"
-venue_name: TBD 
-venue_location: ""
+venue_name: Impact Hub 
+venue_location: "250 3rd Avenue North #550, Minneapolis, MN 55401"
 published: true 
 tags:
  - greatermsp
