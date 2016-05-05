@@ -6,11 +6,20 @@ event_date: 2016-05-07 13:00:00
 rsvp_url: "https://www.eventbrite.com/e/regional-dashboard-hack-session-tickets-24912963344"
 venue_name: Impact Hub 
 venue_location: "250 3rd Avenue North #550, Minneapolis, MN 55401"
-published: true 
+published: false 
 tags:
  - greatermsp
  - regional_dashboard
 ---
+
+## May 5th Update - Postponing
+
+Unforuntately, we are postponing the Regional Dashboard Hack Session to a yet
+to be determined date. While we have not yet set a new date, we anticipate it
+will be sometime in late June. We appologize for the confusion and inconvience
+that this causes.
+
+# Event Description
 
 Come spend an afternoon with your fellow civic technologists and GreaterMSP
 talking and thinking about how to crowdsource what's happening in the Twin
