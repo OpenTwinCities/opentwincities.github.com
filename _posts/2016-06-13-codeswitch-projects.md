@@ -14,7 +14,7 @@ this year's Code Switch.
 
 ## [Attune](#attune) {#attune}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1YqxoOyWBjzxv&sa=D&ust=1465865054895000&usg=AFQjCNGw3PoCzyEt72rjLyKeFTyt-30d7Q)
+- [Video of Presentation](https://www.periscope.tv/w/1YqxoOyWBjzxv)
 
 Our world is divided. While many nations, including the United States,
 have remarkably diverse populations, these different populations are
@@ -32,9 +32,9 @@ than different.
 
 ## [Educational Games](#educational-games) {#educational-games}
 
-- [Project Page](https://www.google.com/url?q=http://opentwincities.coeventer.com/projects/185-interactive-micro-nanobots-in-neurosignaling-educational-gaming-app&sa=D&ust=1465865054896000&usg=AFQjCNGAAc95beWMvfjV4h6SGdmjaMXPaw)
-- [Demo](https://www.google.com/url?q=http://flowlab.io/game/view/449649&sa=D&ust=1465865054897000&usg=AFQjCNGlHFubSL-nm58wLpU4WprtdVxLIg)
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1lDxLqpRkpwKm&sa=D&ust=1465865054897000&usg=AFQjCNGmgGKFDSPje-McjMAElnsnHUc5jw)
+- [Project Page](http://opentwincities.coeventer.com/projects/185-interactive-micro-nanobots-in-neurosignaling-educational-gaming-app)
+- [Demo](http://flowlab.io/game/view/449649)
+- [Video of Presentation](https://www.periscope.tv/w/1lDxLqpRkpwKm)
 
 **Team Members**
 
@@ -54,8 +54,8 @@ biomolecule transportation in nerve cells.
 
 ## [Leadz](#leadz) {#leadz}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1yoJMYADaDeJQ&sa=D&ust=1465865054899000&usg=AFQjCNE6tUGyepTYBy9o8vU5jE7EYxITSQ)
-- [Video of Q & A](https://www.google.com/url?q=https://www.periscope.tv/w/1jMJglpZNOWxL&sa=D&ust=1465865054899000&usg=AFQjCNGz7nlAocuFQ_iW_IBpmx5kzBNV4w)
+- [Video of Presentation](https://www.periscope.tv/w/1yoJMYADaDeJQ)
+- [Video of Q & A](https://www.periscope.tv/w/1jMJglpZNOWxL)
 
 **Team Members**
 
@@ -79,8 +79,8 @@ with adults based on their interests and passions.
 
 ## [Livewell](#livewell) {#livewell}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1mnGewaWawrxX&sa=D&ust=1465865054901000&usg=AFQjCNGBQZQKMLPRVlfUxa2t8-kuuLSFaQ)
-- [Project Page](https://www.google.com/url?q=http://opentwincities.coeventer.com/projects/190-fixing-the-public-assistance-user-experience&sa=D&ust=1465865054902000&usg=AFQjCNFb4Z0f_tCBBkCvxc5jd7QckW7TuA)
+- [Video of Presentation](https://www.periscope.tv/w/1mnGewaWawrxX)
+- [Project Page](http://opentwincities.coeventer.com/projects/190-fixing-the-public-assistance-user-experience)
 
 **Team Members**
 
@@ -107,9 +107,9 @@ they receive, and fill out and submit benefit application forms.
 
 ## [Neighborhood Stories](#neighborhood-stories) {#neighborhood-stories}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1ypJdMgreZQxW&sa=D&ust=1465865054904000&usg=AFQjCNGmoD8OTjT_9hOk3g0rqFxWuTgXMg)
-- [Demo](https://www.google.com/url?q=http://stories-of-the-neighborhood.github.io/prototype-spa/&sa=D&ust=1465865054905000&usg=AFQjCNHTNvjFiCa5-ZVk_hYVbdbRbcVnmw)
-- [Repo](https://www.google.com/url?q=https://github.com/stories-of-the-neighborhood/prototype-spa/&sa=D&ust=1465865054905000&usg=AFQjCNHXe8C4iOg1X5aaEPc2UPliXsr3og)
+- [Video of Presentation](https://www.periscope.tv/w/1ypJdMgreZQxW)
+- [Demo](http://stories-of-the-neighborhood.github.io/prototype-spa/)
+- [Repo](https://github.com/stories-of-the-neighborhood/prototype-spa/)
 
 **Team Members**
 
@@ -133,8 +133,8 @@ as a space to discuss the topic via social media.
 
 ## [Open Beds](#open-beds) {#open-beds}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1eaKbwnRYkkGX&sa=D&ust=1465865054908000&usg=AFQjCNHiLOJI-y-JuD1Eoac9DVGWmL4suw)
-- [Project Page](https://www.google.com/url?q=http://opentwincities.coeventer.com/projects/184-available-bed-map-app&sa=D&ust=1465865054909000&usg=AFQjCNHN6k1_MJhBwi7fOLTAH2k6LQ_Qcg)
+- [Video of Presentation](https://www.periscope.tv/w/1eaKbwnRYkkGX)
+- [Project Page](http://opentwincities.coeventer.com/projects/184-available-bed-map-app)
 
 **Team Members**
 
@@ -163,10 +163,10 @@ as well as additional information about that shelter.
 
 ## [Renters Helper](#renters-helper) {#renters-helper}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1vAxRRwdomvxl&sa=D&ust=1465865054911000&usg=AFQjCNEnj_Kh5t-_tTmZW1IiLcbHwhgGXg)
-- [Video of Q & A](https://www.google.com/url?q=https://www.periscope.tv/w/1dRKZkNXVawGB&sa=D&ust=1465865054912000&usg=AFQjCNH3UFlooDGf7vkQ3fVsJbuCzMQitw)
-- [Project Page](https://www.google.com/url?q=http://opentwincities.coeventer.com/projects/161-the-renter-helper-app&sa=D&ust=1465865054912000&usg=AFQjCNHHvBDwR8iokjfWNoxCcIMWVCns1g)
-- [Presentation](https://www.google.com/url?q=https://docs.google.com/presentation/d/1OwC_oZ820O3lu-rI1LJgnxN3C3u33-xgtkEjh9_s4Vo/edit%23slide%3Did.p&sa=D&ust=1465865054913000&usg=AFQjCNEXURXAVZAh6AkGfjcVX7W7S9ZfLw)
+- [Video of Presentation](https://www.periscope.tv/w/1vAxRRwdomvxl)
+- [Video of Q & A](https://www.periscope.tv/w/1dRKZkNXVawGB)
+- [Project Page](http://opentwincities.coeventer.com/projects/161-the-renter-helper-app)
+- [Presentation](https://docs.google.com/presentation/d/1OwC_oZ820O3lu-rI1LJgnxN3C3u33-xgtkEjh9_s4Vo/edit?pref=2&pli=1#slide=id.p)
 
 **Team Members**
 
@@ -195,8 +195,8 @@ with this analysis and other important information.
 
 ## [RxLife](#rxlife) {#rxlife}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1zqJVkXAWLmxB&sa=D&ust=1465865054915000&usg=AFQjCNF0wLA4qhMUrVzXGUkIQhBXSE3h4A)
-- [Project Page](https://www.google.com/url?q=http://opentwincities.coeventer.com/projects/189-prescription-tracker&sa=D&ust=1465865054915000&usg=AFQjCNE-vSykQZoaDpgl28qFCe6TDgigKQ)
+- [Video of Presentation](https://www.periscope.tv/w/1zqJVkXAWLmxB)
+- [Project Page](http://opentwincities.coeventer.com/projects/189-prescription-tracker)
 
 **Team Members**
 
@@ -218,7 +218,7 @@ avoided while on active medication.
 
 ## [Who Says What](#who-says-what) {#who-says-what}
 
-- [Video of Presentation](https://www.google.com/url?q=https://www.periscope.tv/w/1jMJglpYmaqxL&sa=D&ust=1465865054917000&usg=AFQjCNFLLoel_E-nmlla2hwgqtvmw1zQuw)
+- [Video of Presentation](https://www.periscope.tv/w/1jMJglpYmaqxL)
 
 **Team Members**
 
