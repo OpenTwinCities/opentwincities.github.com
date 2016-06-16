@@ -40,7 +40,7 @@ points, and skills. Respect each other.
 
 If you're looking for project ideas, checkout: 
 
-- [Code Switch](http://codeswitch.mn/) - RSVP and checkout project ideas for this June 4th + 5th civic hackathon; 
+- [Code Switch](http://www.codeswitch.mn/project-presentations/) - Take a look at the projects worked on at Code Switch earlier this month;
 - [OMG Transit](https://github.com/omgtransit/omgtransit) - Put it in Docker, and AWS - [Issue](https://github.com/omgtransit/omgtransit/issues/1), [Merge Request](https://github.com/omgtransit/omgtransit/pull/4); 
 - [Adopt-A-Tree](https://github.com/ballPointPenguin/adopt-a-tree) - Help Trees Stay Alive in the Summer;
 - [CoEventer](https://github.com/campuscodefest/ccf) - Our Ideation & Volunteer Tool;
