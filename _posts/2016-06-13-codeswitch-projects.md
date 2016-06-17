@@ -56,7 +56,7 @@ biomolecule transportation in nerve cells.
 
 - [Video of Presentation](https://www.periscope.tv/w/1yoJMYADaDeJQ)
 - [Video of Q & A](https://www.periscope.tv/w/1jMJglpZNOWxL)
-- [Project Page] (https://leadzus.wordpress.com/)
+- [Site](https://leadzus.wordpress.com/)
 
 **Team Members**
 
