@@ -201,7 +201,11 @@ with this analysis and other important information.
 
 **Team Members**
 
+- Kate Costello
 - Chia Lee
+- Aimee Soltys
+- Eva Young
+- Jason
 
 For individuals who take prescription drugs, or caregivers for those
 individuals, keeping track of the variety, schedules, and interactions
