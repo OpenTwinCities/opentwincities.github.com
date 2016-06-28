@@ -1,7 +1,7 @@
 ---
 category: Events
 layout: event
-title: Jul 5th Open Work Meetup
+title: July 5th Open Work Meetup
 event_date: 2016-07-05 18:00:00
 meetup_event_id: 231896666
 venue_name: GovDelivery 
