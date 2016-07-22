@@ -1,15 +1,12 @@
 ---
 category: Events
 layout: event
-published: false
+published: true
 title: July 26th Open Work Meetup
 meetup_event_id: 231901396
 venue_name: Anderson Hall - Room 110
 venue_location: '257 19th Avenue South, Minneapolis, MN'
 event_date: 2016-07-26T18:00:00.000Z
-rsvp_url: ''
-social_image: ''
-related_tag: ''
 ---
 
 This meeting will be an open lab time where we will work on projects. Come with
