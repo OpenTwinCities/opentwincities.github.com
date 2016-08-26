@@ -46,6 +46,7 @@ on the platfrom.
 - [Minneapolis Budget](https://minneapolismn.opengov.com/transparency#/1280/accountType=expenses&breakdown=19bfbfee-627b-4043-a204-b1642af6294a&currentYearAmount=cumulative&currentYearPeriod=years&graph=stacked&legendSort=alpha&proration=true&saved_view=null&selection=64F42047A05C8CE0FE4A49C59C07052A&fiscal_start=earliest&fiscal_end=latest)
 - [Minneapolis Open Data Portal](http://opendata.minneapolismn.gov/)
 - [Minneapolis GIS Portal](http://cityoflakes.maps.arcgis.com/home/index.html)
+- [Saint Paul Budget](http://budget.stpaul.gov/)
 - [Saint Paul Open Data Portal](https://information.stpaul.gov/)
 
 ### Minnesota Data Collection Spreadsheet
