@@ -16,6 +16,15 @@ Come with ideas for projects, things you may have already started, or we'll try
 to match you up with an already existing project or idea. We'll have food and
 some great conversation.
 
+### Met Council Data with Todd Graham
+
+The Metropolitan Council, our regional planning agency and provider of
+metro-wide services including Metro Transit, [produces](http://www.metrocouncil.org/Data-and-Maps.aspx)
+and [publishes](https://gisdata.mn.gov/organization/us-mn-state-metc) a lot of
+data. Todd Graham, Principal Forecaster at the Met Council, is going to stop by
+and tell us a bit about all this data and talk about the types of questions it
+might help answer.
+
 ### Code of Conduct
 
 As with any event hosted by Open Twin Cities, our [Code of Conduct](/about/code-of-conduct/) 
