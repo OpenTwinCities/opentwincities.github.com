@@ -7,7 +7,7 @@ title: Hosting
 
 Do you have a civic app that needs an online home? There are all kinds of free
 website and app hosting options available, including hosting credits donated to
-Open Twin Cities from Amazon, Digital Ocean, and Microsoft, thanks to Code for
+Open Twin Cities from Amazon and Microsoft, thanks to Code for
 America. Below is a form you can fill out to let us know you'd like to make
 use of these kindly donated hosting options to host your open source, civic 
 tech tool on a long term basis.
