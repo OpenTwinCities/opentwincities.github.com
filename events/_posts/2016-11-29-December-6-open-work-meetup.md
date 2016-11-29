@@ -1,7 +1,7 @@
 ---
 category: Events
 layout: event
-title: December 1th Open Work Meetup
+title: December 6th Open Work Meetup
 event_date: 2016-12-06 18:00:00
 meetup_event_id: 233072778
 venue_name: GovDelivery 
