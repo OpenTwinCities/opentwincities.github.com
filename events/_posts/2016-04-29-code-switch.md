@@ -84,7 +84,7 @@ areas” for you to consider when thinking about projects:
 For more inspiration, have a look at the recent [GeoCode 2.0](2) event where
 participants focused on issues of geography and technology in the Twin Cities.
 
-##Great! How Do I Sign Up?
+## Great! How Do I Sign Up?
 
 [Click Right Here][1]
 
