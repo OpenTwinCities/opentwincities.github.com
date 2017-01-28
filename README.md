@@ -78,6 +78,8 @@ of a blog post will be displayed on post listing pages as an excerpt.
   event is a draft.
 * meetup_id - ID of an associated Meetup event. If this is provided, a Meetup
   RSVP button will appear on the event's page.
+* source_meetup_content - If True, the event's description will be pulled by
+  the browser from Meetup's API and inserted into the body of the event post.
 * rsvp_url - Absolute URL to a webpage that allows the user to register for the
   event. If meetup_id isn't provided, this will appear on the event's page.
 * venue_name - Name of the place that the event is being held at. This will
@@ -124,3 +126,4 @@ Both of these RSS feeds are linked to in the Head of every page on the site.
 * [Foundation](http://foundation.zurb.com/) 
 * [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
 * [snaptortise's jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)
+* Loading animation from [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif)

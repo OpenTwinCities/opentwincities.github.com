@@ -37,6 +37,14 @@
         <hr/>
         {{ content }}
 
+        {% if page.source_meetup_content %}
+          <div id="sourced_meetup_content">
+            <img src="/images/design/loading.gif" style="width: 175px;"/>
+            <p class="text-center">Fetching from Meetup</p>
+            <p class="text-center">You can also view this event at <a href='http://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/'>Meetup</a></p>
+          </div>
+        {% endif %}
+
         {% if page.related_tag and site.tags[page.related_tag] %}
         <div>
           <h3>Related Posts</h3>
@@ -52,11 +60,22 @@
     </div>
 
     {% include std_footer.html %}
+    {% include std_bottom_js.html %}
 
     {% if page.meetup_event_id %}
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];function init_mu(mu_id){window.mu.api({client:mu_id}, function(M) {$jq.fn.decorateRsvpBtn=function(id){return this;};M.rsvpBtns();});};if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js";js.onload=function(){init_mu('ubgk5cl7d1eprsbrm1r3iqoatb')};fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
-    {% endif %}
 
-    {% include std_bottom_js.html %}
+      {% if page.source_meetup_content %}
+        <script>
+          document.addEventListener("DOMContentLoaded", function(event) {
+            jQuery.getJSON(
+              'https://api.meetup.com/OpenTwinCities/events/{{page.meetup_event_id}}?photo-host=public&callback=?'
+            ).done( function(json){
+              jQuery('#sourced_meetup_content').html(json['data']['description']);
+            });
+          });
+        </script>
+      {% endif %}
+    {% endif %}
   </body>
 </html>
