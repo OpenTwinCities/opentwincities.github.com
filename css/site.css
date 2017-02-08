@@ -541,6 +541,7 @@ div.footer p img{
 
 .sponsor img{
   margin: 15px;
+  max-width: 400px;
 }
 
 .gold.sponsor{
