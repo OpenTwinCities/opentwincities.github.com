@@ -1,0 +1,25 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+{% assign events = site.posts | where: "layout", "event" %}
+{% for post in events %}
+{% assign ics_date_start = post.event_date | date: "%Y%m%dT%H%M00" %}
+{% assign ics_date = post.date | date: "%Y%m%dT%H%M00" %}
+BEGIN:VEVENT
+UID:event-{{ ics_date_start }}-{{ post.title | slugify: 'pretty'}}@opentwincities.org
+DTSTAMP:{{ ics_date }}
+TZNAME:CST
+ORGANIZER;CN=John Doe:MAILTO:info@opentwincities.org
+DTSTART:{{ ics_date_start }}
+SUMMARY:{{ post.title }}
+{% if post.venue_location %}
+LOCATION:{{post.venue_location}}{% endif %}
+{% if post.venue_location %}
+URL:{{ post.rsvp_url }}
+{% elsif post.meetup_event_id %}
+URL:https://www.meetup.com/OpenTwinCities/events/{{ post.meetup_event_id }}{% endif %}
+END:VEVENT{% endfor %}
+END:VCALENDAR
