@@ -2,7 +2,7 @@
 category: Events
 layout: event
 venue_name: 110 Anderson Hall - University of Minnesota
-title: February 28 Minneapolis Monthly Meetup
+title: February 28 Minneapolis Monthly Open Work Meetup
 event_date: 2017-02-28 18:00:00
 venue_location: 257 19th Avenue SE,Minneapolis,MN
 source_meetup_content: true
