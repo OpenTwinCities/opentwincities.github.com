@@ -3,3 +3,5 @@ _site/*
 *.swp
 .DS_Store
 *.DS_Store
+tmp/*
+log/*
