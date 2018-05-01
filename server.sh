@@ -7,6 +7,8 @@ export LC_ALL='C.UTF-8'
 
 sh build.sh
 
+cat /home/winner/shared/ports.txt
+
 echo '**********************'
 echo 'OPEN YOUR WEB BROWSER.'
 echo 'GO TO THE FOLLOWING URL:'
