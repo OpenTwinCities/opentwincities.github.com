@@ -10,12 +10,12 @@ with [Jekyll](http://jekyllrb.com/).
 ## Run locally
 
 1. Install Ruby and NodeJS
-    1. If you are using rbenv, do a ```rbenv version``` and ```ruby install``
+    1. If you are using rbenv, do a `rbenv version` and `ruby install`
        whatever rbenv version reports
 2. Install OpenSSL dev files: `sudo apt-get install libssl-dev`
 3. `gem install bundler`
 4. `bundle install`
-5. `jekyll server --watch`
+5. `bundle exec jekyll server --watch`
 6. Go to `http://localhost:4000` in your web browser.
 
 GitHub runs the close-to-newest release of Jekyll, so be sure to `bundle install` often.
@@ -44,17 +44,17 @@ There are three main types of content on Open Twin Cities.
 General articles. Updates, recaps, discussion pieices. Basically any general
 content.
 
-Blog posts live in /_posts and use the **blog** layout. All published blog 
+Blog posts live in /_posts and use the **blog** layout. All published blog
 posts will appear in the post listing pages. The first paragraph of a blog post
-will be displayed on post listing pages as an excerpt. 
+will be displayed on post listing pages as an excerpt.
 
 ##### Metadata Variables
 
 * title - Name of the post
 * published - If True, the post will be visable to site goers. Otherwise, the
   post is a draft.
-* author (Optional) - If provided, a by-line will be added to the post's page 
-  and post's listing displaying this value. The author's name with a link to 
+* author (Optional) - If provided, a by-line will be added to the post's page
+  and post's listing displaying this value. The author's name with a link to
   some profile is recommended.
 * social_image (Optional) - Absolute URL to an image that social media
   platforms should display with this post. Image should be fairly large (at
@@ -67,8 +67,8 @@ will be displayed on post listing pages as an excerpt.
 A special type of Post for OTC associated events.
 
 Event posts live in /events/_posts and use the **event** layout. All published
-events will appear in post listing pages (ordered by publication date) *and* 
-event listing pages (ordered by date of the event). Again, the first paragraph 
+events will appear in post listing pages (ordered by publication date) *and*
+event listing pages (ordered by date of the event). Again, the first paragraph
 of a blog post will be displayed on post listing pages as an excerpt.
 
 ##### Metadata Variables
@@ -92,13 +92,13 @@ of a blog post will be displayed on post listing pages as an excerpt.
 * related_tag (Optional) - If provided, the event's page will list any blog
   posts that have this tag. Useful for gathering all content about an event
   on one page.
-* event_date - Date and time that the event will take place. Format is 
+* event_date - Date and time that the event will take place. Format is
   YYYY-MM-DD HH:MM:SS, and if set, event_date *must* be in this format or else
-  the site will fail to build. If using Prose.io, this variable must currently 
-  be set via the Raw Metadata field in. If not set, event_date will default to 
+  the site will fail to build. If using Prose.io, this variable must currently
+  be set via the Raw Metadata field in. If not set, event_date will default to
   the date of publication of the event post, and the event will always appear
-  at the top of event lists. This will appear on the event's page and in post 
-  listings. 
+  at the top of event lists. This will appear on the event's page and in post
+  listings.
 
 #### Everything Else
 
@@ -123,7 +123,7 @@ Both of these RSS feeds are linked to in the Head of every page on the site.
 * HTML5Boilerplate
 * Modernizer
 * jQuery
-* [Foundation](http://foundation.zurb.com/) 
+* [Foundation](http://foundation.zurb.com/)
 * [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
 * [snaptortise's jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)
 * Loading animation from [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif)
