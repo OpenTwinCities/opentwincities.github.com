@@ -8,8 +8,7 @@ venue_location: 461 Dale St N,St Paul,MN 55104
 source_meetup_content: true
 excerpt: <p>We're back at Rondo Community Outreach Library on University and Dale!
   Come with ideas for projects, things you may have already started, or we'll try
-  to match you up with an already existing project or idea. We'll have food and some
-  great conversation.</p>
+  to match you up with an already existing project or idea.</p>
 meetup_event_id: khtpsqyzjbgb
 published: true
 ---
