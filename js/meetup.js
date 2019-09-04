@@ -37,7 +37,7 @@ window.mu = window.mu || {};
      auth: "https://secure.meetup.com/oauth2/authorize"
      , api: "https://api.meetup.com"
      , proxy: "https://api.meetup.com/api_xd.html"
-     , site: "http://www.meetup.com"
+     , site: "https://www.meetup.com"
      , logout: "https://secure.meetup.com/logout"
    }
    , Assets = {
@@ -999,7 +999,7 @@ window.mu = window.mu || {};
 
        // rewrite rsvp btn html and laf
        $jq.fn.decorateRsvpBtn = function(id) {
-         var img = id ? "http://www.meetup.com/t/img/api/rbtn/"+id+"/rsvp_btn.png" : "/img/api/rsvp_btn.png";
+         var img = id ? "https://www.meetup.com/t/img/api/rbtn/"+id+"/rsvp_btn.png" : "/img/api/rsvp_btn.png";
          this.empty().html('<img src="'+img+'"/>').addClass('mu-a btn');
          return this;
        };

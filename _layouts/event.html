@@ -10,7 +10,7 @@
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
-    
+
     {% include event_header.html %}
 
     <div id="content-container" class="row">
@@ -23,13 +23,13 @@
         {% endif %}
         {% if event_date < site.time %}
           {% if page.meetup_event_id %}
-            <p class="post-byline rsvp"><a href="http://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/" class="button round">View Meetup Info</a></p>
+            <p class="post-byline rsvp"><a href="https://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/" class="button round">View Meetup Info</a></p>
           {% elsif page.rsvp_url %}
             <p class="post-byline rsvp"><a href="{{ page.rsvp_url }}" class="button round">View Event Info</a></p>
           {% endif %}
         {% else %}
           {% if page.meetup_event_id %}
-            <p class="post-byline rsvp"><a href="http://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/" data-event="{{ page.meetup_event_id }}" class="red button round mu-rsvp-btn">RSVP</a></p>
+            <p class="post-byline rsvp"><a href="https://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/" data-event="{{ page.meetup_event_id }}" class="red button round mu-rsvp-btn">RSVP</a></p>
           {% elsif page.rsvp_url %}
             <p class="post-byline rsvp"><a href="{{ page.rsvp_url }}" class="red button round">RSVP</a></p>
           {% endif %}
@@ -41,7 +41,7 @@
           <div id="sourced_meetup_content">
             <img src="/images/design/loading.gif" style="width: 175px;"/>
             <p class="text-center">Fetching from Meetup</p>
-            <p class="text-center">You can also view this event at <a href='http://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/'>Meetup</a></p>
+            <p class="text-center">You can also view this event at <a href='https://www.meetup.com/OpenTwinCities/events/{{ page.meetup_event_id }}/'>Meetup</a></p>
           </div>
         {% endif %}
 
