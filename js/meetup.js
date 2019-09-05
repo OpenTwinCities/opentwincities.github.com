@@ -41,7 +41,7 @@ window.mu = window.mu || {};
      , logout: "https://secure.meetup.com/logout"
    }
    , Assets = {
-       defaultImage: "http://photos4.meetupstatic.com/photos/member/8/2/4/a/thumb_11733354.jpeg"
+       defaultImage: "https://photos4.meetupstatic.com/photos/member/8/2/4/a/thumb_11733354.jpeg"
        , json2: "https://secure.meetup.com/script/Meetup/api/json2.js"
        , jquery: "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"
    }

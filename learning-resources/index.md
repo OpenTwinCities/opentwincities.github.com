@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Resources 
+title: Learning Resources
 published: true
 ---
 
@@ -8,10 +8,10 @@ published: true
 
 Find out how to create and publish a map as a web app, learn about geocoding,
 caching and server-side map services using
-[Esri ArcGIS tutorials](http://resources.arcgis.com/en/Tutorials/)
+[Esri ArcGIS tutorials](https://learn.arcgis.com/en/)
 
 Learn more about web development and web programming languages such as HTML,
-CSS, JavaScript, PHP, SQL, and JQuery at [W3Schools](http://www.w3schools.com).
+CSS, JavaScript, PHP, SQL, and JQuery at [W3Schools](https://www.w3schools.com).
 
 Complete training missions to learn more about the tools used to build free and
 open source software at [Open Hatch](https://openhatch.org/missions/).
@@ -26,15 +26,15 @@ pull requests.
 Build and deploy your app on [Heroku](https://www.heroku.com/home).
 
 Learn how to design with Web accessibility in mind at
-[WebAIM](http://webaim.org/resources/designers/).
+[WebAIM](https://webaim.org/resources/designers/).
 
-Check out [MN.IT Services guidelines](http://mn.gov/mnit/programs/accessibility/websites-applications.jsp)
+Check out [MN.IT Services guidelines](https://mn.gov/mnit/about-mnit/accessibility/)
 for designing websites and applications accessible to everyone.
 
 Go deep into the details of designing accessible web content using the
 [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/).
 
-Find out how to use [REST (representational state transfer) endpoints](http://mmdolbow.github.io/RESTendpts/index.html)
+Find out how to use [REST (representational state transfer) endpoints](https://mmdolbow.github.io/RESTendpts/index.html)
 to connect to data.
 
-_This list of resources is copied from the [list of learning resources on Hennepin County's Geo:Code 2.0 event site](http://www.hennepin.us/geocode#open-data)._
+_This list of resources is copied from the [list of learning resources on Hennepin County's Geo:Code 2.0 event site](http://www.hennepin.us/geocode#open-data) which is no longer maintained._

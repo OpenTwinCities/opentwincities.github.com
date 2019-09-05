@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Data FAQ 
+title: Open Data FAQ
 ---
 
 ## {{page.title}}
@@ -35,10 +35,10 @@ services on similar types of data.
 API stands for *Application Programmer Interface*.
 
 A web page is an interface for people to be able to read and interact with
-the information that a certain website or application provies. On well designed 
-web pages, a lot of work goes into making a page so that people can find the 
-information they want, understand that information, find all the ways to 
-interact with that information (such as submiting new or updated information), 
+the information that a certain website or application provies. On well designed
+web pages, a lot of work goes into making a page so that people can find the
+information they want, understand that information, find all the ways to
+interact with that information (such as submiting new or updated information),
 and easily interact with that information.
 
 An API does the same thing, except it is designed to be an **interface for
@@ -49,17 +49,17 @@ interested in the actual data, everything else is clutter to the program. Thus,
 APIs provide a way for a computer program to request and interact with that
 data without the clutter.
 
-As an example, consider [this page that displays weather information for St. Paul](http://openweathermap.org/city/5045360).
+As an example, consider [this page that displays weather information for St. Paul](https://openweathermap.org/city/5045360).
 When a computer program visits the weather page, [this is what it sees](http://pastebin.com/raw.php?i=tqfqF6D5).
 If a computer program instead uses an API to get whether and forecast
-information, it will see [this](http://api.openweathermap.org/data/2.5/weather?q=St.%20Paul&mode=xml&units=imperial)
-and [this](http://api.openweathermap.org/data/2.5/forecast/daily?q=St.%20Paul&mode=xml&units=imperial&cnt=7).
+information, it will see [this](https://api.openweathermap.org/data/2.5/weather?q=St.%20Paul&mode=xml&units=imperial)
+and [this](https://api.openweathermap.org/data/2.5/forecast/daily?q=St.%20Paul&mode=xml&units=imperial&cnt=7).
 The API provides much cleaner and structured results for a computer program to
 work with.
 
 For those interested in learning more about what APIs are and how to create
 them, [Zapier provides a free, great, and fairly quick introductory course to APIs](https://zapier.com/blog/free-api-course/).
-      
+
 ### Do City reports provide access to city data?
 
 Not to the level that open data does. A report published by the city represents
@@ -71,7 +71,7 @@ wish to create their own analyses, presentations, or new applications.
 
 ### Which cities officially support open data?
 
-A [report by the San Diego Data Bank](http://www.sandiegodata.org/reports/municipal-open-data-policies/)
+A [report by the San Diego Data Bank](https://www.sandiegodata.org/reports/municipal-open-data-policies/)
 recently analyzed the policies of 8 major US and Canadian cities that have
 implemented open data programs in the last seven years. These cities include
 Austin, Chicago, Philadelphia, Portland, New York, San Francisco, Washington,
@@ -84,30 +84,30 @@ Open data can have a big impact on what activists can learn about their governme
 how they decide to take action, and how they tell their stories to the broader
 public.
 
-If you want to find out how open data can become part of your campaigns and 
-activism, [Tactical Tech](https://tacticaltech.org/) has a couple of great 
+If you want to find out how open data can become part of your campaigns and
+activism, [Tactical Tech](https://tacticaltech.org/) has a couple of great
 resources to get you started:
 
 * The [Info-Activism How-To Guide](https://howto.informationactivism.org/): A
   great set of how-tos and references on how to think about open data in
   activism and tools to help you use open data in activism.
 * [Visualising Information for Advocacy](https://visualisingadvocacy.org/): A
-  book all about Tacitcal Tech's experiences using open data in various 
+  book all about Tacitcal Tech's experiences using open data in various
   campaigns and activists activities all around the world.
 
 ### Is there more information available on Open Data?
 
-Yes, tons more. The Kansas City Code for America Fellowship Class put together 
-a [**fantastic open government and open data resource**](http://cfakc.tumblr.com/post/60775247513/digital-innovation-in-government-resources)
-with dozens and dozens of links. The Kansas City resource includes links to 
+Yes, tons more. The Kansas City Code for America Fellowship Class put together
+a [**fantastic open government and open data resource**](https://cfakc.tumblr.com/post/60775247513/digital-innovation-in-government-resources)
+with dozens and dozens of links. The Kansas City resource includes links to
 example **open government policies**, **digital roadmaps**, **digital
 government design principles**, **open data frameworks**, **open data policies**, **open
 data schedules**, and **open data portals**.
 
-The [Sunlight Foundation's Local Policy program](http://sunlightfoundation.com/policy/local/)
+The [Sunlight Foundation's Local Policy program](https://sunlightfoundation.com/policy/local/)
 also provides a tremendous source of open data information. Based on the
 experience of dozens of cities and states across the country, Sunlight created
-an [exhaustive list of principals and guidelines](http://sunlightfoundation.com/opendataguidelines/)
+an [exhaustive list of principals and guidelines](https://sunlightfoundation.com/opendataguidelines/)
 that open data policies should or can elect to include. Sunlight also provides
 case studies of open data's impact in specific issues, including crime,
 campaign finance, and zoning.
