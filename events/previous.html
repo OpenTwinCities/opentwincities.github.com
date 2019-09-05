@@ -3,8 +3,8 @@ layout: default
 title: Events
 ---
 <ul class="no-bullet post-list">
-{% assign sorted_events = (site.categories.events | sort: 'event_date', 'last') %}
-{% for event in sorted_events reversed %} 
+{% assign sorted_events = site.categories.events | sort: 'event_date', 'last' %}
+{% for event in sorted_events reversed %}
 
   {% include set_event_date event=event %}
 

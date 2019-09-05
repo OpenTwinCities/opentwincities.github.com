@@ -6,7 +6,7 @@ layout: none
                    xmlns:ev="http://purl.org/rss/1.0/modules/event/">
 	<channel>
 		<title>{{ site.name | xml_escape }} - Events</title>
-		<description>Upcoming and previous events held by or promoted by {{ site.name }}</description>		
+		<description>Upcoming and previous events held by or promoted by {{ site.name }}</description>
 		<link>{{ site.url }}</link>
         <image>
             <url>http://www.opentwincities.org/images/logos/otc/otc-o128-brand-stacked.png</url>
@@ -16,7 +16,7 @@ layout: none
         <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<atom:link href="{{ site.url }}/events/feed.xml" rel="self" type="application/rss+xml" />
-        {% assign sorted_events = (site.categories.events | sort: 'event_date', 'last') %}
+        {% assign sorted_events = site.categories.events | sort: 'event_date', 'last' %}
         {% assign start = sorted_events | size | minus: 10 %}
 		{% for post in sorted_events reversed offset:start %}
             {% include set_event_date event=post  %}
