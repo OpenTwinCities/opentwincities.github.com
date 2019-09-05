@@ -7,15 +7,6 @@ echo '----------------------'
 echo 'bundle install --quiet'
 bundle install --quiet
 
-# Checks for security vulnerabilities
-# -A: runs all checks
-# -q: output the report only; suppress information warnings
-# -w2: level 2 warnings (medium and high only)
-echo '---------------------------------------'
-echo 'bundle exec brakeman -Aq -w2 --no-pager'
-bundle exec brakeman -Aq -w2 --no-pager
-
-
 # Update the local ruby-advisory-db advisory database
 echo '-------------------------------'
 echo 'bundle exec bundle-audit update'

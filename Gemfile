@@ -8,7 +8,6 @@ gem 'nokogiri', '1.8.2'
 
 # BEGIN: gems for test_code.sh
 group :development, :testing do
-  gem 'brakeman', '4.2.1'
   gem 'bundler-audit', '0.6.0'
   gem 'gemsurance', '0.9.0'
 end
