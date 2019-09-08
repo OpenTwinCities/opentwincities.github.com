@@ -8,22 +8,22 @@ description: A group for civic hackers, innovative government employees, and con
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
-#baseurl: /path/to/blog 
+#baseurl: /path/to/blog
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://www.opentwincities.org
+url: https://www.opentwincities.org
 
 # Default image that social media platforms should display with a page from this site
-social_image: http://www.opentwincities.org/images/logos/otc/otc-o512.png
+social_image: https://www.opentwincities.org/images/logos/otc/otc-o512.png
 
 # Makes pretty permalinks. See Jekyll docs for alternatives.
 permalink: pretty
 
 exclude: [vendor]
-timezone: nil 
+timezone: nil
 
 prose:
-  siteurl: "http://www.opentwincities.org"
+  siteurl: "https://www.opentwincities.org"
   media: "images"
   metadata:
     _posts:
@@ -86,4 +86,4 @@ prose:
         field:
           element: "text"
           label: "Related Tag"
-          help: "Posts with this tag will be listed at the bottom of the event page." 
+          help: "Posts with this tag will be listed at the bottom of the event page."

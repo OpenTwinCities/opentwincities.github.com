@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thank You 
+title: Thank You
 ---
 
 <h2>{{page.title}}</h2>
@@ -8,8 +8,8 @@ title: Thank You
 <p>Thank you for signing up for Open Twin Cities' newsletter, and welcome to <strong><em>the</em></strong>
 civic technology community of the Twin Cities.</p>
 
-{% assign sorted_events = (site.categories.events | sort: 'event_date', 'first')%}
-{% for event in sorted_events %} 
+{% assign sorted_events = site.categories.events | sort: 'event_date', 'first' %}
+{% for event in sorted_events %}
 
   {% include set_event_date event=event %}
 

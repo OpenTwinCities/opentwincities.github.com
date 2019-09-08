@@ -4,8 +4,8 @@ Main website for the Open Twin Cities group
 
 ## About
 
-This site is designed to run on Github (through [Github pages](http://pages.github.com/))
-with [Jekyll](http://jekyllrb.com/).
+This site is designed to run on Github (through [Github pages](https://pages.github.com/))
+with [Jekyll](https://jekyllrb.com/).
 
 ## Run locally
 
@@ -28,11 +28,11 @@ while working on this.  Also, for reference see the [Jekyll install instructions
 The idea of Jekyll is that it compiles things into static HTML, so most of the content
 is handled with basic HTML or Markdown in flat files in the repository.
 
-If you just want to update content, consider using [prose.io](http://prose.io/), as
+If you just want to update content, consider using [prose.io](https://prose.io/), as
 it is a nice web based interface for editing text files on Github.
 
 If you want to include some type of icon in content, consider using an icon from
-the [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
+the [Foundation Icon Fonts](https://zurb.com/playground/foundation-icon-fonts-3)
 that are already made available to all pages on OpenTwinCities.org.
 
 ### Content Types
@@ -123,7 +123,7 @@ Both of these RSS feeds are linked to in the Head of every page on the site.
 * HTML5Boilerplate
 * Modernizer
 * jQuery
-* [Foundation](http://foundation.zurb.com/)
-* [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
+* [Foundation](https://foundation.zurb.com/)
+* [Foundation Icon Fonts](https://zurb.com/playground/foundation-icon-fonts-3)
 * [snaptortise's jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)
 * Loading animation from [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif)
