@@ -10,9 +10,14 @@ with [Jekyll](https://jekyllrb.com/).
 ## Run locally
 
 1. Install Ruby and NodeJS
-    1. If you are using rbenv, do a `rbenv version` and `ruby install`
+   * If you are using rbenv, do a `rbenv version` and `rbenv install`
        whatever rbenv version reports
-2. Install OpenSSL dev files: `sudo apt-get install libssl-dev`
+2. Install OpenSSL dev files: `sudo apt-get install libssl-dev`  
+   * If using `brew` to install OpenSSL  
+      * `brew install openssl` 
+      * `echo 'export PATH="/usr/local/opt/openssl/bin:$PATH"' >> ~/.bash_profile`
+      * `export LDFLAGS="-L/usr/local/opt/openssl/lib"`
+      * `export CPPFLAGS="-I/usr/local/opt/openssl/include"`
 3. `gem install bundler`
 4. `bundle install`
 5. `bundle exec jekyll server --watch`
@@ -21,7 +26,7 @@ with [Jekyll](https://jekyllrb.com/).
 GitHub runs the close-to-newest release of Jekyll, so be sure to `bundle install` often.
 
 This should watch for changes, so there is no need to restart server
-while working on this.  Also, for reference see the [Jekyll install instructions](https://github.com/mojombo/jekyll/wiki/install).
+while working on this.  Also, for reference see the [Jekyll install instructions](https://jekyllrb.com/docs/installation/).
 
 ## Editing content
 
@@ -111,7 +116,7 @@ uses the **home** layout.
 
 ## RSS Feeds
 
-OpenTwinCitis.org provides a couple of RSS feeds:
+[Open Twin Cities](http://www.opentwincities.org/) provides a couple of RSS feeds:
 
 * /feed.xml - RSS of the 10 most recent posts of any type on the site
 * /events/feed.xml - RSS of the 10 events with the latest date on the site
