@@ -8,9 +8,6 @@ title: Home
             <h2 class="post-title">
               <a href="{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <p class="post-byline">
-              <b>Published</b>: {{ post.date | date_to_string }} {%if post.author %}<b>By</b>: {{ post.author }}{% endif %}
-            </p>
             {% if post.categories contains 'events' %}
               {% include set_event_date event=post %}
               <p class="post-byline">
