@@ -2,7 +2,7 @@
 category: Events
 layout: event
 venue_name: Rondo Community Library
-title: September 03 St. Paul Monthly Meetup
+title: November 18 St. Paul Monthly Meetup
 event_date: 2019-11-18 18:00:00
 venue_location: 461 Dale St N,St Paul,MN 55104
 source_meetup_content: true
