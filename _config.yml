@@ -21,6 +21,7 @@ permalink: pretty
 
 exclude: [vendor]
 timezone: nil
+future: true
 
 prose:
   siteurl: "https://www.opentwincities.org"
