@@ -11,7 +11,7 @@ layout: event
 meetup_event_id: xmjmdryzpblc
 published: true
 source_meetup_content: true
-title: November 21 Minneapolis Monthly Meetup
+title: November 21 November 21 Minneapolis Monthly Meetup
 venue_location: Minneapolis Central Library,Minneapolis,MN 55401
 venue_name: Minneapolis Central Library
 ---
