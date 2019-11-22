@@ -8,7 +8,7 @@ layout: event
 meetup_event_id: '265897975'
 published: true
 source_meetup_content: true
-title: December 16 St. Paul Monthly Meetup
+title: December 16 December 16 St. Paul Monthly Meetup
 venue_location: 461 Dale St N,St Paul,MN 55104
 venue_name: Rondo Community Library
 ---
