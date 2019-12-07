@@ -4,29 +4,34 @@ title: Home
 ---
       <ul class="no-bullet post-list">
         {% for post in site.posts limit:5 %}
-          <li>
-            <h2 class="post-title">
-              <a href="{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            {% if post.categories contains 'events' %}
-              {% include set_event_date event=post %}
-              <p class="post-byline">
-                <b>Event Date and Time</b>: {{ event_date | date: "%A, %B %d - %I:%M %p" }}
-              </p>
-            {% endif %}
-            <p class="post-excerpt">
-            {{ post.excerpt }}
+          {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+          {% capture eventtime %}{{post.event_date | date: '%s'}}{% endcapture %}
 
-            {% if post.social_image %}
-              <div>
-                <img src="{{post.social_image}}"/>
-              </div>
-            {% endif %}
-            </p>
-          </li>
+          {% if eventtime > nowunix %}
+            <li>
+              <h2 class="post-title">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h2>
+              {% if post.categories contains 'events' %}
+                {% include set_event_date event=post %}
+                <p class="post-byline">
+                  <b>Event Date and Time</b>: {{ event_date | date: "%A, %B %d - %I:%M %p" }}
+                </p>
+              {% endif %}
+              <p class="post-excerpt">
+              {{ post.excerpt }}
+
+              {% if post.social_image %}
+                <div>
+                  <img src="{{post.social_image}}"/>
+                </div>
+              {% endif %}
+              </p>
+            </li>
+          {% endif %}
         {% endfor %}
       </ul>
-      <p style="text-align:center"><a href="/posts/">View All Posts</a> - <a href="/feed.xml"><i class="fi-rss"></i></a></p>
+      <p style="text-align:center"><a href="/posts/">View All Events</a> - <a href="/feed.xml"><i class="fi-rss"></i></a></p>
       <hr/>
 
       <h2>Projects</h2>
