@@ -15,7 +15,7 @@ title: Home
               {% if post.categories contains 'events' %}
                 {% include set_event_date event=post %}
                 <p class="post-byline">
-                  <b>Event Date and Time</b>: {{ event_date | date: "%A, %B %d - %I:%M %p" }}
+                  <b>Event Date and Time</b>: {{ event_date | date: "%A, %B %d - %-I:%M %p" }}
                 </p>
               {% endif %}
               <p class="post-excerpt">
