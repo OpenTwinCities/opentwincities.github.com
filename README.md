@@ -12,10 +12,10 @@ with [Jekyll](https://jekyllrb.com/).
 1. Install Ruby and NodeJS
    * If you are using rbenv, do a `rbenv version` and `rbenv install`
        whatever rbenv version reports
-2. Install OpenSSL dev files: `sudo apt-get install libssl-dev`  
-   * If using `brew` to install OpenSSL  
-      * `brew install openssl` 
-      * `echo 'export PATH="/usr/local/opt/openssl/bin:$PATH"' >> ~/.bash_profile`
+2. Install OpenSSL dev files: `sudo apt-get install libssl-dev`
+   * If using `brew` to install OpenSSL
+      * `brew install openssl`
+      * `echo 'export PATH="/usr/local/opt/openssl/bin:$PATH"' >> ~/.bash_profile` or `echo 'export PATH="/usr/local/opt/openssl/bin:$PATH"' >> ~/.zshrc`
       * `export LDFLAGS="-L/usr/local/opt/openssl/lib"`
       * `export CPPFLAGS="-I/usr/local/opt/openssl/include"`
 3. `gem install bundler`
