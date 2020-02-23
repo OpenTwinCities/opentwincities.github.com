@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
       <ul class="no-bullet post-list">
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts reversed limit:5 %}
           {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
           {% capture eventtime %}{{post.event_date | date: '%s'}}{% endcapture %}
 
