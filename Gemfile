@@ -7,7 +7,7 @@ gem 'nokogiri', '~> 1.10'
 
 # BEGIN: gems for test_code.sh
 group :development, :testing do
-  gem 'bundler-audit', '~> 0.6'
-  gem 'gemsurance', '~> 0.9'
+  gem 'bundler-audit'
+  gem 'gemsurance'
 end
 # END: gems for test_code.sh
