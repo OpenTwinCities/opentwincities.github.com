@@ -1,8 +1,8 @@
 ---
 category: Events
 event_date: 2020-04-01 18:00:00
-excerpt: '<p>NOTE: We''re meeting on the first Wednesday of the month instead of the
-  first Tuesday because of Rondo room availability.</p>'
+excerpt: '<p>NOTE: We will be meeting online until further notice in response to the
+  Coronavirus. Event details to come.</p>'
 layout: event
 meetup_event_id: srhdhrybcgbkb
 published: true
