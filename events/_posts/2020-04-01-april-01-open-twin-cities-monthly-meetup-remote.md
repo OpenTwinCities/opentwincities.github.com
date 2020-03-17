@@ -15,6 +15,6 @@ meetup_event_id: srhdhrybcgbkb
 published: true
 source_meetup_content: true
 title: April 01 Open Twin Cities Monthly Meetup (Remote)
-venue_location: 461 Dale St N,St Paul,MN 55104
-venue_name: Rondo Community Library
+venue_location: remote,Saint Paul,mn 55101
+venue_name: Remote
 ---
