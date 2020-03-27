@@ -1,0 +1,22 @@
+# Source: https://davemateer.com/2018/01/25/Jekyll-and-Docker
+# Enter the command docker-compose up to start up the app
+# When the build process is complete, the pages to view in your local browser are:
+# http://localhost:4000/ (web page)
+# http://localhost:35729/ (livereload)
+
+version: '3'
+
+services:
+  jekyll: 
+    image: jekyll/jekyll
+    container_name: opentwincities-github-com
+    environment:
+        - JEKYLL_ENV=docker
+    # force_polling makes the linux box watch for any changes to files, then it will regenerate
+    # livereload gets the browser to automatically refresh when changes happen to files
+    command: jekyll serve --force_polling --livereload 
+    ports:
+        - 4000:4000
+        - 35729:35729
+    volumes:
+        - ./:/srv/jekyll
