@@ -14,7 +14,7 @@ layout: event
 meetup_event_id: xmjmdrybcgbfc
 published: true
 source_meetup_content: true
-title: April 23 Minneapolis Monthly Meetup
+title: April 23 Minneapolis Monthly (Remote) Meetup
 venue_location: Minneapolis Central Library,Minneapolis,MN 55401
 venue_name: Minneapolis Central Library
 ---
