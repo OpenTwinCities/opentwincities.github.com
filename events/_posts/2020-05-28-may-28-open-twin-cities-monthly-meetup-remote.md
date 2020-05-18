@@ -13,6 +13,6 @@ meetup_event_id: xmjmdrybchblc
 published: true
 source_meetup_content: true
 title: May 28 Open Twin Cities Monthly Meetup (Remote)
-venue_location: Minneapolis Central Library,Minneapolis,MN 55401
-venue_name: Minneapolis Central Library
+venue_location: None
+venue_name: Online event
 ---
