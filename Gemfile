@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 gem 'github-pages'
 
+gem 'activesupport', '>= 6.0.3.1'
 gem 'ffi', '~> 1.11'
 gem 'jekyll', '~> 3.8'
 gem 'nokogiri', '~> 1.10'
