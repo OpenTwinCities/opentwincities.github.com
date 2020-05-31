@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+gem 'github-pages', '=206'
 
 gem 'activesupport', '>= 6.0.3.1'
 gem 'ffi', '~> 1.11'
