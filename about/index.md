@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Our mission
-Open Twin Cities fosters an inclusive community of civic collaboration and champions open government and civic technology for positive social impact and engaged citizenship.  Open Twin Cities is a part of the [Code for America Brigade network](https://brigade.codeforamerica.org/).
+Open Twin Cities fosters an inclusive community of civic collaboration and champions open government and civic technology for positive social impact and civic engagement.  Open Twin Cities is a part of the [Code for America Brigade network](https://brigade.codeforamerica.org/).
 
 ## What we do
 - Hold regular open work time meetups

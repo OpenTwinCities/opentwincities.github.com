@@ -6,13 +6,13 @@ title: Get Started
 ## Get Started
 At Open Twin Cities, we have three focus areas to help you get started supporting open government and civic technology for positive social impact.
 
-### Engaged Citizenship: Build a welcoming, representative community of technologists, public servants, and civic leaders
+### Civic Engagement: Build a welcoming, representative community of technologists, public servants, and civic leaders
 - Ensure our forums are welcoming and accessible to everyone, and our community represents the Twin Cities community at large
 - Provide opportunities to reflect on the role of technology in our government and our society
 - Establish relationships and knowledge sharing with the community of citizens and public, private, and non-profit organizations
 - Promote constructive communication and collaboration within our community
 
-<a href="https://github.com/OpenTwinCities/otc-getting-started/blob/master/engaged-citizenship.md" target="_blank" class="green button round">Engaged Citizenship</a>
+<a href="https://github.com/OpenTwinCities/otc-getting-started/blob/master/engaged-citizenship.md" target="_blank" class="green button round">Civic Engagement</a>
 
 ### Open Data: Make data more open and raise awareness of the value of open data
 - Raise public awareness of open data sources in and about the Twin Cities
