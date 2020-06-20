@@ -13,7 +13,7 @@ At Open Twin Cities, we have three focus areas to help you get started supportin
 - Promote constructive communication and collaboration within our community
 
 
-<a href="https://github.com/OpenTwinCities/otc-getting-started/blob/master/civic-engagement.md" target="_blank" class="green button round">Engaged Citizenship</a>
+<a href="https://github.com/OpenTwinCities/otc-getting-started/blob/master/civic-engagement.md" target="_blank" class="green button round">Civic Engagement</a>
 
 ### Open Data: Make data more open and raise awareness of the value of open data
 - Raise public awareness of open data sources in and about the Twin Cities
