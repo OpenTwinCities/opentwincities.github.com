@@ -1,0 +1,48 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    volumes:
+      - .:/home/winner/myapp
+      - bundle_path:/home/winner/bundle
+    environment:
+      - BUNDLE_PATH=/home/winner/bundle/vendor
+      - BUNDLE_APP_CONFIG=/home/winner/myapp/.bundle
+    user: winner
+    command:
+      - bundle
+      - exec
+      - rails
+      - server
+      - --binding=0.0.0.0
+      - --port=3000
+    ports:
+      - "3000:3000"
+    links:
+      - mailcatcher
+    #POSTGRES#env_file:
+      #POSTGRES#- .env/development/database
+      #POSTGRES#- .env/development/web
+    #POSTGRES#depends_on:
+      #POSTGRES#- database
+
+  mailcatcher:
+    image: yappabe/mailcatcher
+    ports:
+      - "1025:1025"
+      - "1080:1080"
+
+  #POSTGRES#database:
+    #POSTGRES#image: postgres
+    #POSTGRES#env_file:
+      #POSTGRES#- .env/development/database
+    #POSTGRES#volumes:
+      #POSTGRES#- db_data:/var/lib/postgresql/data
+      #POSTGRES#- ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    #POSTGRES#ports:
+      #POSTGRES#- "15432:5432"
+
+volumes:
+  bundle_path:
+  #POSTGRES#db_data:
