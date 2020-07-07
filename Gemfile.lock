@@ -242,11 +242,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (>= 6.0.3.1)
-  ffi (~> 1.11)
   github-pages (= 206)
-  jekyll (~> 3.8)
-  nokogiri (~> 1.10)
 
 BUNDLED WITH
    2.1.4
