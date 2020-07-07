@@ -8,6 +8,10 @@ echo '------------------------------------------------'
 echo 'bundle install --path /home/winner/bundle/vendor'
 bundle install --path /home/winner/bundle/vendor
 
+echo '------------------------'
+echo 'bundle exec jekyll build'
+bundle exec jekyll build
+
 echo '-----------------------------'
 echo 'Starting up the Jekyll server'
 echo 'You can view this app in your local web browser at'
