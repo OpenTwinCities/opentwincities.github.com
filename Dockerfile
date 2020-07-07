@@ -13,5 +13,4 @@ RUN curl -sSL "https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-
 
 RUN useradd -m -s /bin/bash -u 1000 winner
 USER winner
-
 WORKDIR /home/winner/myapp

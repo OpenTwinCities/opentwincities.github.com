@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo '-------------------'
+echo 'gem install bundler'
+gem install bundler
+
+echo '------------------------------------------------'
+echo 'bundle install --path /home/winner/bundle/vendor'
+bundle install --path /home/winner/bundle/vendor
+
+echo '-----------------------------'
+echo 'Starting up the Jekyll server'
+echo 'You can view this app in your local web browser at'
+echo 'http://localhost:4000/'
+bundle exec jekyll serve --host 0.0.0.0
