@@ -1,0 +1,10 @@
+#!/bin/bash
+set +e
+
+echo '-------------------'
+echo 'gem install bundler'
+gem install bundler
+
+echo '------------------------------------------------'
+echo 'bundle install --path /home/winner/bundle/vendor'
+bundle install --path /home/winner/bundle/vendor

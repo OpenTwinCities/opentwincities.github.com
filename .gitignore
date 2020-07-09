@@ -5,3 +5,5 @@ _site/*
 *.DS_Store
 tmp/*
 log/*
+.bundle/*
+gemsurance_report.html

@@ -7,7 +7,14 @@ Main website for the Open Twin Cities group
 This site is designed to run on Github (through [Github pages](https://pages.github.com/))
 with [Jekyll](https://jekyllrb.com/).
 
-## Run locally
+## Run Locally (Docker)
+1.  Install Docker.
+2.  Build the app by entering the command `bash build.sh`.
+3.  If necessary, update Gemfile.lock by entering the command `bash update.sh`.
+4.  Start the Jekyll server by entering the command `bash server.sh`.
+5.  Go to `http://localhost:4000` in your web browser.
+
+## Run Locally (Host System)
 
 1. Install Ruby and NodeJS
    * If you are using rbenv, do a `rbenv version` and `rbenv install`

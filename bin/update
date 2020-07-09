@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo '-------------------'
+echo 'gem install bundler'
+gem install bundler
+
+echo '-------------'
+echo 'bundle update'
+bundle update
+
+echo '------------------------'
+echo 'bundle exec jekyll build'
+bundle exec jekyll build
