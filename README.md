@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/jhsu802701/opentwincities.github.com.svg?branch=master)](https://travis-ci.com/jhsu802701/opentwincities.github.com)
+[![Build Status](https://travis-ci.com/OpenTwinCities/opentwincities.github.com.svg?branch=master)](https://travis-ci.com/OpenTwinCities/opentwincities.github.com)
 
 # opentwincities.github.com
 
