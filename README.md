@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/jhsu802701/opentwincities.github.com.svg?branch=master)](https://travis-ci.com/jhsu802701/opentwincities.github.com)
+
 # opentwincities.github.com
 
 Main website for the Open Twin Cities group
