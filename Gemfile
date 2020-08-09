@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages', '=206'
+gem 'github-pages', '=207'
 
 # BEGIN: gems for test_code.sh
 group :development, :testing do
