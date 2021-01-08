@@ -1,12 +1,10 @@
 ---
 category: Events
 event_date: 2021-01-28 18:00:00
-excerpt: <p>This meeting will be an open lab time where we will work on projects.
-  All skillsets and skill levels are welcome! We are a group that is dedicated to
-  helping each other learn and explore things related to civic technology, open government,
-  and open data. Come with ideas for projects or things you may have already started,
-  or just bring yourself and we'll help match you up with an already existing project,
-  idea, or dataset to explore.</p>
+excerpt: <p>For the first part of this meeting, we'll be joined by Anat Caspi from
+  Code for Seattle, who will share some information about a Transportation Data Equity
+  (TDE) initiative. Join to learn more about their work on equity in transportation
+  and mobility coming up in the near future.</p>
 layout: event
 meetup_event_id: lbjqzrycccblc
 published: true
