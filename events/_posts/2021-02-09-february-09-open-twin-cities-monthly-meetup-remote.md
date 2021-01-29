@@ -12,6 +12,6 @@ meetup_event_id: dcjqzryccdbmb
 published: true
 source_meetup_content: true
 title: February 09 Open Twin Cities Monthly Meetup (Remote)
-venue_location: remote,Saint Paul,mn 55101
-venue_name: Remote
+venue_location: None
+venue_name: Online event
 ---
