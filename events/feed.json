@@ -1,0 +1,14 @@
+---
+---
+{
+	"events": [
+		{% for event in site.categories.events %}
+			{% include set_event_date event=event %}
+			{
+				"title": "{{event.title}}",
+				"date": "{{event.date | date: "%A, %B %d - %I:%M %p"}}",
+				"excerpt": "{{ event.excerpt | strip_html | replace:'\r\n',' ' }}"
+			}{% if forloop.rindex0 > 0 %},{% endif %}
+		{% endfor %}
+	]
+}
