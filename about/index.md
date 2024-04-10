@@ -5,17 +5,15 @@ published: true
 ---
 
 ## Our mission
-Open Twin Cities fosters an inclusive community of civic collaboration and champions open government and civic technology for positive social impact and civic engagement.  Open Twin Cities is a part of the [Code for America Brigade network](https://brigade.codeforamerica.org/).
+Open Twin Cities fosters an inclusive community of civic collaboration and champions open government and civic technology for positive social impact and civic engagement.  Open Twin Cities was part of the [Code for America Brigade network](https://brigade.codeforamerica.org/) until that program ended in 2023.
 
 ## What we do
-- Hold regular open work time meetups
-- Host occasional speakers & guests, book club discussions, and "field trips" to community events that align with our focus areas
-- Build awareness for and support other local groups and events that align with our focus areas
+We foster collaboration among technologists and community members, primarily through our Slack group.
 
 ## Code of conduct
-As part of the Code for America Brigade network, we adhere to [Code for America's code of conduct](https://brigade.codeforamerica.org/about/code-of-conduct).  
+As part of the Code for America Brigade network, we adhere to [Code for America's code of conduct](https://codeforamerica.org/code-of-conduct/).
 
 ## Contact
-Have questions about Open Twin Cities, civic technology, open data, or open government?  Are you looking to write a story or start a project?  Feel free to drop by one of our meet-ups or events, or send a private email to:
+Have questions about Open Twin Cities, civic technology, open data, or open government?  Are you looking to write a story or start a project?  Reach out in our Slack group, or send a private email to:
 
 contact [at] opentwincities [dot] org
