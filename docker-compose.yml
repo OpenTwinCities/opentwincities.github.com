@@ -5,10 +5,6 @@ services:
     build: .
     volumes:
       - .:/home/winner/myapp
-      - bundle_path:/home/winner/bundle
-    environment:
-      - BUNDLE_PATH=/home/winner/bundle/vendor
-      - BUNDLE_APP_CONFIG=/home/winner/myapp/.bundle
     user: winner
     command: bin/server
     ports:
